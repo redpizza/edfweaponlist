@@ -1,0 +1,378 @@
+*Ranger // Earth Defense Force 5
+
+**Assault Rifles
+!|LV|Name|
+|0|PA-11|
+|0|PA-11LS|
+|1|Minion Buster|
+|1|Slugger NN1|
+|2|G&M-21S|
+|3|M1 Raven|
+|5|PA-11SLS|
+|6|T1 Stork|
+|7|G&M-22S|
+|10|Minion Buster Burst|
+|12|M1 Raven LS|
+|14|T1 Stork S|
+|16|G&M-A23|
+|19|T1 Stork LS|
+|21|Minion Buster MK2|
+|22|M2 Raven|
+|23|T2 Stork|
+|24|Slugger NN2|
+|26|T2 Stork KF|
+|26|M2R Raven|
+|29|G&M-A23LS|
+|31|M2RER Raven|
+|31|T3 Stork|
+|34|Slugger NN3|
+|36|T3 Stork|
+|39|Minion Buster MK3|
+|42|MXR Sirius|
+|44|G&M-24S|
+|47|Slugger NN3SLS|
+|49|Minion Blast|
+|51|T4 Stork|
+|55|M3 Raven|
+|57|X400-Orchid|
+|58|T4 Stork AE|
+|62|Slugger NN4|
+|64|M4 Raven|
+|67|G&M-A25|
+|69|T4 Stork MK2|
+|71|X500-Orchid|
+|73|M3 Raven SLS|
+|75|T5 Stork|
+|76|Minion Buster MKX|
+|79|G&M-A29|
+|82|M5 Raven|
+|84|TZ Stork|
+?|100|MA9 Slade <font color="#f88">@DLC1</font>|
+?|108|Blazer <font color="#8af">@DLC2</font>|
+?|111|MA10 Slade <font color="#8af">@DLC2</font>|
+!|LV|Name|
+
+**Shotguns
+!|LV|Name|
+|0|Slaughter E20|
+|2|SGN-7|
+|4|Slaughter E20LS|
+|6|G1 Herring|
+|9|Slaughter E21LS|
+|12|D35 Breecher|
+|14|Slaughter E22|
+|17|SGN-8|
+|21|Slaughter E22GA|
+|24|Monsoon|
+|29|D55 Breecher|
+|31|Slaughter E22TS|
+|36|Slugger Shot 1|
+|40|Slaughter E23|
+|43|SGN-K9|
+|46|Monsoon M2|
+|50|Slaughter E23DA|
+|52|SGN-10A|
+|55|Slugger Shot 2|
+|60|Monsoon M3|
+|65|SGN-11A|
+|68|Slaughter E23SAS|
+|72|D79 Breecher|
+|74|Slugger Shot 3|
+|77|Monsoon MZ|
+|80|D110 Breecher|
+|82|SGN-K12|
+|85|Slaughter EZ|
+?|103|Buster Shot <font color="#f88">@DLC1</font>|
+?|106|Fracture <font color="#8af">@DLC2</font>|
+!|LV|Name|
+
+**Sniper Rifles
+!|LV|Name|
+|0|KFF50|
+|2|NP3-A|
+|4|Prototype Lysander|
+|6|KFF50LS|
+|10|MR98 Fang|
+|12|Dunkel N202|
+|14|Eagle G1|
+|17|NP3-B|
+|19|Lysander|
+|23|KFF51LS|
+|25|Flounders|
+|27|Dunkel N213|
+|30|Eagle G2|
+|32|KFF60LS|
+|34|MR99 Fang|
+|37|Ptarmigan HA1|
+|41|KFF60RE|
+|45|Pylon A1|
+|47|Dunkel N224|
+|49|NP3-C|
+|52|Penetrator|
+|56|Dunkel N235|
+|62|Lysander F|
+|66|Ptarmigan HA2|
+|72|Flounders FS|
+|75|NP4-SA|
+|77|Penetrator F|
+|80|KFF70|
+|82|Lysander Z|
+|84|Ptarmigan HAZ|
+|90|MR100 Fang|
+?|101|Dunkel N236R <font color="#f88">@DLC1</font>|
+?|104|KFF71S <font color="#f88">@DLC1</font>|
+?|112|Lysander ZF <font color="#8af">@DLC2</font>|
+!|LV|Name|
+
+**Rocket Launchers
+!|LV|Name|
+|0|Grant M31|
+|2|Leopard Guided Rocket Launcher|
+|5|Goliath D1|
+|8|Grant M32|
+|10|Cascade 1|
+|11|Grant M33|
+|13|E9 Hornet|
+|15|Volcano 6|
+|18|Leopard Guided Rocket Launcher M2|
+|20|Grant M40|
+|23|Goliath D2|
+|24|E10 Hornet|
+|25|Volcano V12|
+|28|Leopard Guided Rocket Launcher M3|
+|30|Cascade 2|
+|32|Grant M41|
+|35|Goliath D3|
+|37|Ibis Guided Rocket|
+|40|E11 Hornet|
+|41|Grant MA50|
+|45|Leopard Guided Rocket Launcher M4|
+|50|Cascade 3|
+|55|Grant M42S|
+|58|Volcano W20|
+|63|E12 Hornet|
+|65|Leopard Guided Rocket Launcher M9|
+|70|Goliath DMX|
+|73|Grant MT51|
+|74|Cascade FA|
+|76|Leopard Guided Rocket Launcher Model 0|
+|78|E20 Hornet|
+|79|Volcano W30|
+|80|Goliath ZD|
+|81|Grant MTX|
+?|102|Goliath ZDXE <font color="#f88">@DLC1</font>|
+?|107|E21 Hornet <font color="#8af">@DLC2</font>|
+!|LV|Name|
+
+**Missile Launchers
+!|LV|Name|
+|0|ME1 Emerald|
+|0|Air Tortoise 01|
+|1|MLRA|
+|3|ME2 Emerald|
+|4|FORK-A15|
+|7|Air Tortoise 02|
+|9|MLRA-2|
+|15|ME3 Emerald|
+|21|MLRA-30|
+|23|Prominence M1|
+|29|FORK-A20|
+|35|ME4 Emerald|
+|43|Air Tortoise ME|
+|47|MLRA-TW|
+|52|ME4R Emerald S|
+|61|Prominence M2|
+|68|FORK-X20|
+|75|MLRA-TF|
+|77|MEX5 Emerald|
+|82|Prominence MA|
+?|110|MS Falcon <font color="#8af">@DLC2</font>|
+!|LV|Name|
+
+**Grenades
+!|LV|Name|
+|0|MG11|
+|0|MG11J|
+|2|DNG1|
+|5|MG12|
+|8|MG13|
+|12|MG13J|
+|14|MG14|
+|17|MG14J|
+|21|DNG2|
+|27|MG20|
+|38|MG21J|
+|44|DNG3|
+|52|Bound Grenade|
+|72|DNG9|
+!|LV|Name|
+|0|Grenade Launcher UM1|
+|2|Grenade Launcher UM1-J|
+|3|Volatile Napalm|
+|5|Stampede M1|
+|7|Grenade Launcher UM2|
+|11|Grenade Launcher UM2-J|
+|15|Grenade Launcher UMRA|
+|19|Grenade Launcher UM3-J|
+|22|Splash Grenade|
+|25|Sticky Grenade Prototype|
+|28|Grenade Launcher UM4|
+|31|BRUTE J Triple Grenade Launcher|
+|34|Flame Geyser|
+|38|Splash Grenade α|
+|39|Volatile Napalm D|
+|41|Triple Grenade Launcher BRUTE|
+|43|Sticky Grenade|
+|46|Grenade Launcher UM5|
+|48|Stampede M2|
+|52|Double G Launcher CRUMBLE|
+|54|Volcanic Napalm|
+|61|Sticky Grenade α|
+|67|Grenade Launcher UMAX|
+|69|Flame Geyser DA|
+|71|Stampede XM|
+|79|Volatile Napalm ZD|
+|91|Grenade Launcher UMAZ|
+?|106|Flame Geyser F <font color="#f88">@DLC1</font>|
+?|110|Stampede XAM <font color="#8af">@DLC2</font>|
+!|LV|Name|
+
+**Special
+!|LV|Name|
+|8|Acid Shower Prototype|
+|20|Acid Gun|
+|38|Acid Shower|
+|53|Wide Acid Gun|
+|58|Super Acid Gun|
+|0|Burner|
+|5|Flamethrower|
+|29|Flamethrower α|
+|56|Flame Cannon|
+|83|Magma Cannon|
+|4|Firecracker 1|
+|18|Firecracker 2|
+|25|Firecracker 3|
+|42|Firecracker 4|
+|54|Firecracker 0|
+|3|H88 Bound Gun|
+|10|HR89 Bound Gun|
+|33|HL90 Bound Gun|
+|59|HS99 Bound Gun|
+|73|HX50 Bound Shotgun|
+!|LV|Name|
+|1|C20 Bomb|
+|16|C21 Bomb|
+|33|CX Special Bomb|
+|46|C30 Bomb|
+|66|C70 Bomb|
+|0|Impulse Y8|
+|3|Y9 Anti-aircraft Impulse|
+|8|Y10 Impulse|
+|13|Y10 Anti-aircraft Impulse|
+|21|Y10 Wide Impulse|
+|30|Y11 Impulse|
+|43|Y11 Anti-aircraft Impulse|
+|48|Y20 Impulse|
+|63|YDX Anti-aircraft Impulse|
+|71|YDX Strike Impulse|
+|76|Y21 Impulse|
+!|LV|Name|
+|0|Proto Reverser|
+|1|Reverser|
+|13|Reverse Gun|
+|21|High Cycle Reverser|
+|28|Reverser M2|
+|36|Reverse Shooter T1|
+|42|Reverser M3|
+|48|Reverse Bomber|
+|51|High Cycle Reverser D|
+|63|Reverse Shooter T2|
+|70|Reverser X|
+|78|Reverse Shooter X|
+|81|High Cycle Reverser ZD|
+!|LV|Name|
+
+**Support Equipment
+!|LV|Name|
+|0|Lightweight Protector|
+|1|Liquid Armor|
+|1|Solid Protector|
+|5|Hybrid Protector|
+|7|Lightweight Liquid Armor|
+|11|Under Assist|
+|16|Lightweight Protector E2|
+|20|Perfect Liquid Armor|
+|30|Hybrid Liquid Armor|
+|35|Explosion Proof Suit|
+|37|Hybrid Protector E2|
+|42|Under Assist E2|
+|47|Lightweight Liquid Armor E2|
+|55|Lightweight Protector E3|
+|60|Hybrid Explosion-Proof Suit|
+|67|Under Assist E3|
+|73|Lightweight Liquid Armor E3|
+|82|Hybrid Protector E9|
+!|LV|Name|
+|3|Multiple Lock On Device L|
+|9|Radar Support System|
+|17|Multiple Lock On Device L2|
+|32|E2 Radar Support System|
+|40|Multiple Lock On Device L3|
+|57|E3 Radar Support System|
+|70|Multiple Lock On Device LX|
+|78|EX Radar Support System|
+|2|Relief Assistance Equipment 1|
+|15|Relief Assistance Equipment 2|
+|35|Relief Assistance Equipment 3|
+|62|Relief Assistance Equipment 4|
+|80|Relief Assistance Equipment 5|
+|1|Probe Type 1|
+|13|Probe Type 2|
+|27|Probe Type 3|
+|45|Probe Type 4|
+|66|Probe Type 5|
+?|106|Lightweight Liquid Armor E9 <font color="#f88">@DLC1</font>|
+?|106|Special Recovery Device <font color="#8af">@DLC2</font>|
+?|108|Hybrid Protector XE <font color="#8af">@DLC2</font>|
+!|LV|Name|
+
+**Tanks
+!|LV|Name|
+|6|Blacker E1|
+|10|Epsilon Self-Propelled Railgun|
+|12|EMC|
+|19|Epsilon Self-Propelled Railgun M2|
+|30|Menace Self-Propelled Railgun|
+|41|Menace Self-Propelled Railgun M2|
+|55|Menace 4D Self-Propelled Railgun|
+|62|EMCS|
+|69|Epsilon Blast Proto Railgun|
+|84|Epsilon Blast Self-Propelled Railgun|
+|87|EMCX|
+!|LV|Name|
+
+**Helicopters
+!|LV|Name|
+|11|N9 Eros|
+|15|EF31 Nereid|
+|17|HU04 Brute|
+|36|EF31 Nereid 2|
+|38|HU04 Brute Hell Flame|
+|56|EF31 Fire Nereid|
+|63|HU04 Brute D7|
+|70|EF31 Nereid S|
+|81|HU04 Brute SA9|
+|83|EF31 Nereid Angel|
+!|LV|Name|
+
+**Bikes
+!|LV|Name|
+|3|Free Bike 1|
+|17|Free Bike G1|
+|28|Free Bike Mad Custom|
+|41|Free Bike 2|
+|57|Free Bike War Custom|
+|61|Free Bike Type X|
+|63|Free Bike Hell Custom|
+|76|Free Bike Type Z|
+!|LV|Name|

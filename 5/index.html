@@ -2,25 +2,18 @@
 <html lang="ja">
 <head>
 	<meta charset="utf-8">
-	<title>チェックリスト サンプル</title>
+	<title>レンジャー // 地球防衛軍5 取得武器チェックリスト（jQuery版)</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="stylesheet" href="style.css">
-	<link rel="stylesheet" href="cl-style.css">
+	<link rel="stylesheet" href="../style.css">
+	<link rel="stylesheet" href="../cl-style.css">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-	<script src="jquery.checklist.js"></script>
+	<script src="../jquery.checklist.js"></script>
 </head>
 <body>
-	
-	<header>
-		<h1><a href="./">チェックリスト開発版</a></h1>
-	</header>
-	
 	<div id="main">
-		<p>
-			jquery.checklist.jsの動作サンプル。<br>
-			<a href="https://bitbucket.org/edf_weapons/jquery.checklist.js/src">ダウンロードと使い方の詳細はこちら（bitbucket）</a><br>
-			質問等は<a href="https://twitter.com/edf_weapons">Twitter@edf_weapons</a>まで。
-		</p>
+			地球防衛軍 5のレンジャー用武器チェックリストです<br>
+			兵科切り替え : <span class="current">レンジャー</span> <a href="5w.html"><span class="soldierclass">ウイングダイバー</span></a> <a href="5a.html"><span class="soldierclass">エアレイダー</span></a> <a href="5f.html"><span class="soldierclass">フェンサー</span></a><br>
+			<br>
 	</div>
 	
 	<script>
@@ -30,13 +23,33 @@
 		// addtext : ツイート時の付属テキスト。初期値: 空欄
 		// load    : ローディングの表示。初期値: true
 		$("#main").checkList({
-			id: 'cl1',
-			file: '5engdata.txt',
+			id: '5R',
+			file: '5rjpndata.txt',
 			twi: true,
 			addtext: '',
 			load: true
 		});
 	</script>
+	
+    <footer>
+    <p>
+    このチェックリストは @edf_weapons 様が作成・公開されていたものがドメインごと消滅してたので<br>
+    公開されていた jquery.checklist.js を用いて @Redpiza が作り直したものになります<br>
+    チェックを入れた武器はブラウザの localStorage に自動で保存されます
+    </p>
+    <p>
+        <a href="https://redpizza.github.io/edfweaponlist/4-1/">EDF4.1(EDF4)</a> /
+        <a href="https://redpizza.github.io/edfweaponlist/5/">EDF5</a>
+    </p>
+    <p>
+        <a href="https://twitter.com/edf_weapons">@edf_weapons</a> ||
+        <a href="https://w.atwiki.jp/edf5/">EDF5：地球防衛軍5@Wiki</a>
+    </p>
+    <p>
+        <a href="https://www.d3p.co.jp/">©2017 D3 PUBLISHER</a> ||
+        <a href="http://www.sandlot.jp/">©2017 SANDLOT</a>
+    </p>
+    </footer>
 	
 </body>
 </html>
