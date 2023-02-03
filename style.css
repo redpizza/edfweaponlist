@@ -28,13 +28,59 @@ h1 {
 	font-size: 100%;
 }
 
+footer {
+    padding: 0.5rem;
+    background: #7bd;
+}
+
+footer p {
+    text-align: center;
+}
+
+footer a {
+    color: #333;
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: #555;
+}
+
 header,
 #main,
 .main {
-	width: 90%;
+	width: 95%;
 	max-width: 1200px;
 	margin: 0 auto;
 	padding: 24px;
 	background: #fff;
 }
+
+footer {
+	width: 95%;
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+/* EDF4.1@WikiのCSSそのまま */
+span.new {
+color: gold;
+text-shadow:
+-1px -1px 0px #0000bd,
+1px -1px 0px #0000bd,
+1px 1px 0px #0000bd,
+-1px 1px 0px #0000bd,
+1px 2px 3px rgba(0, 0, 0, 0.6);
+}
+
+/* siteCTSのcurrent.gifの再現 */
+span.current {
+font-weight: bold;
+  animation: blinkAnimeS2 1.5s infinite alternate;
+}
+@keyframes blinkAnimeS2{
+   0%{ color : white;   background:#4D0000 }
+ 100%{ color : white; background:#FF0000   }
+}
+
 

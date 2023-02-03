@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+	<meta charset="utf-8">
+	<title>ウイングダイバー // 地球防衛軍4.1 取得武器チェックリスト（jQuery版)</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="../style.css">
+	<link rel="stylesheet" href="../cl-style.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<script src="../jquery.checklist.js"></script>
+</head>
+<body>
+	<div id="main">
+			地球防衛軍 4.1 The Shadow of New Despairのウイングダイバー用武器チェックリスト 地球防衛軍4.1では176種、地球防衛軍4では174種でコンプリートです<br>
+			兵科切り替え : <a href="index.html">レンジャー</a> <span class="current">ウイングダイバー</span> <a href="41a.html">エアレイダー</a> <a href="41f.html">フェンサー</a><br>
+			<br>
+	</div>
+	
+	<script>
+		// id      : 復元コードの識別に用いる。初期値: cl1
+		// file    : データファイル。初期値: data.txt
+		// twi     : ツイートボタンの有無。初期値: true
+		// addtext : ツイート時の付属テキスト。初期値: 空欄
+		// load    : ローディングの表示。初期値: true
+		$("#main").checkList({
+			id: '41W',
+			file: '41wjpndata.txt',
+			twi: true,
+			addtext: '',
+			load: true
+		});
+	</script>
+	
+    <footer>
+    <p>
+    このチェックリストは @edf_weapons 様が作成・公開されていたものがドメインごと消滅してたので<br>
+    公開されていた jquery.checklist.js を用いて @Redpiza が作り直したものになります<br>
+    チェックを入れた武器はブラウザの localStorage に自動で保存されます
+    </p>
+    <p>
+        <a href="http://weapon.edf.jpn.com/4-1/">EDF4.1(EDF4)</a> /
+        <a href="http://weapon.edf.jpn.com/">EDF5</a>
+    </p>
+    <p>
+        <a href="https://twitter.com/edf_weapons">@edf_weapons</a> ||
+        <a href="https://w.atwiki.jp/edf41/">EDF4.1：地球防衛軍4.1 THE SHADOW OF NEW DESPAIR @Wiki</a>
+    </p>
+    <p>
+        <a href="https://www.d3p.co.jp/">©2015 D3 PUBLISHER</a> ||
+        <a href="http://www.sandlot.jp/">©2015 SANDLOT</a>
+    </p>
+    </footer>
+	
+</body>
+</html>
