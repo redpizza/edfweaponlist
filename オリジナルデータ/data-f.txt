@@ -1,0 +1,269 @@
+*Fencer
+
+[br][sml]()[/sml]
+(★)[br]
+
+**CC Strikers
+!|LV|Name|Regular[hr][sml](Charge/Damage/Range)[/sml]|High Voltage[hr][sml](Charge/Damage/Range)[/sml]|Maximum[hr][sml](Charge/Damage/Range)[/sml]|Charge Speed[br][sml](per sec)[/sml]|Defense Damage[br][sml](%)[/sml]|Ammo|Reload[br][sml](sec)[/sml]|
+|0|Vibro Hammer|Clash Close Range[sml][c#999](★9)[/c][/sml][br]0.0 / 51.0 / 48.3m|-|Clash Midium Range[sml][c#999](★9)[/c][/sml][br]1.0 / 76.4 / 144.9m|1.9[sml][c#999](★10)[/c][/sml]|50.0|8[sml][c#999](★5)[/c][/sml]|2.0[sml][c#999](★5)[/c][/sml]|
+|1|Vibro Hammer F3|Clash Close Range[sml][c#999](★9)[/c][/sml][br]0.0 / 67.9 / 48.3m|Clash Midium Range[sml][c#999](★9)[/c][/sml][br]1.0 / 101.9 / 144.9m|Clash Wide Range[sml][c#999](★9)[/c][/sml][br]2.0 / 135.9 / 144.9m|1.9[sml][c#999](★10)[/c][/sml]|50.0|8[sml][c#999](★5)[/c][/sml]|2.0[sml][c#999](★5)[/c][/sml]|
+|2|Force Blade|Slash Small[sml][c#999](★9)[/c][/sml][br]0.0 / 51.0 / 191.4m|-|Slash Midium[sml][c#999](★9)[/c][/sml][br]1.0 / 101.9 / 191.4m|1.9[sml][c#999](★10)[/c][/sml]|-|10[sml][c#999](★5)[/c][/sml]|3.0[sml][c#999](★5)[/c][/sml]|
+|4|Vibro Roller|Clash Close Range[sml][c#999](★10)[/c][/sml][br]0.0 / 90.5 / 2.0m|Charge Close Range[sml][c#999](★10)[/c][/sml][br]1.0 / 135.8 / 12.5m|Charge Midium Range[sml][c#999](★10)[/c][/sml][br]2.0 / 181.1 / 25.0m|1.9[sml][c#999](★10)[/c][/sml]|40.0|8[sml][c#999](★8)[/c][/sml]|1.5[sml][c#999](★8)[/c][/sml]|
+|9|Vibro Hammer FA|Clash Close Range[sml][c#999](★9)[/c][/sml][br]0.0 / 135.9 / 48.3m|Clash Midium Range[sml][c#999](★9)[/c][/sml][br]1.0 / 203.8 / 144.9m|Clash Wide Range[sml][c#999](★9)[/c][/sml][br]2.0 / 271.8 / 144.9m|1.9[sml][c#999](★10)[/c][/sml]|50.0|8[sml][c#999](★5)[/c][/sml]|2.0[sml][c#999](★5)[/c][/sml]|
+|11|Force Blade D|Slash Small[sml][c#999](★9)[/c][/sml][br]0.0 / 67.9 / 191.4m|-|Slash Midium[sml][c#999](★9)[/c][/sml][br]1.0 / 135.9 / 191.4m|1.9[sml][c#999](★10)[/c][/sml]|-|10[sml][c#999](★5)[/c][/sml]|3.0[sml][c#999](★5)[/c][/sml]|
+|13|Vibro Haken|Clash Close Range[sml][c#999](★8)[/c][/sml][br]0.0 / 56.6×2 / 45.3m|Front Dispersal[sml][c#999](★8)[/c][/sml][br]1.0 / 22.6×4 / 45.3m|Front Dispersal[sml][c#999](★8)[/c][/sml][br]2.0 / 45.3×4 / 45.3m|1.9[sml][c#999](★10)[/c][/sml]|50.0|6[sml][c#999](★5)[/c][/sml]|2.0[sml][c#999](★5)[/c][/sml]|
+|15|Vulcan Hammer|Clash Close Range[sml][c#999](★6+)[/c][/sml][br]0.0 / 226.5 / 40.0m|Midium Range[sml][c#999](★8)[/c][/sml][br]1.0 / 1132.5 / 4.0m|Wide Range[sml][c#999](★9)[/c][/sml][br]2.0 / 2717.9 / 6.0m|1.9[sml][c#999](★10)[/c][/sml]|65.0|5[sml][c#999](★5)[/c][/sml]|2.0[sml][c#999](★5)[/c][/sml]|
+|19|Dynamo Blade|Slash Close Range[sml][c#999](★9)[/c][/sml][br]0.0 / 101.9 / 191.4m|Slash Midium Range[sml][c#999](★9)[/c][/sml][br]1.3 / 203.8 / 191.4m|Slash Long Range[sml][c#999](★9)[/c][/sml][br]5.0 / 509.5 / 957.1m|1.9[sml][c#999](★10)[/c][/sml]|-|10[sml][c#999](★5)[/c][/sml]|3.0[sml][c#999](★5)[/c][/sml]|
+|30|Vibro Roller D2|Charge Close Range[sml][c#999](★10)[/c][/sml][br]0.0 / 241.4 / 2.0m|Charge Midium Range[sml][c#999](★10)[/c][/sml][br]1.0 / 362.1 / 25.0m|Charge Long Range[sml][c#999](★10)[/c][/sml][br]10.0 / 482.8 / 50.0m|1.9[sml][c#999](★10)[/c][/sml]|40.0|5[sml][c#999](★8)[/c][/sml]|1.5[sml][c#999](★8)[/c][/sml]|
+|35|Vibro Hammer FV|Clash Close Range[sml][c#999](★9)[/c][/sml][br]0.0 / 271.8 / 48.3m|Clash Midium Range[sml][c#999](★9)[/c][/sml][br]1.0 / 407.7 / 144.9m|Clash Wide Range[sml][c#999](★9)[/c][/sml][br]2.0 / 543.6 / 144.9m|1.9[sml][c#999](★10)[/c][/sml]|50.0|8[sml][c#999](★5)[/c][/sml]|2.0[sml][c#999](★5)[/c][/sml]|
+|39|Force Ax|Slash Small[sml][c#999](★9)[/c][/sml][br]0.0 / 305.8 / 131.2m|-|Slash Small[sml][c#999](★9)[/c][/sml][br]0.5 / 458.6 / 196.8m|1.1[sml][c#999](★10)[/c][/sml]|-|20[sml][c#999](★10)[/c][/sml]|1.2[sml][c#999](★10)[/c][/sml]|
+|41|Quake Haken|Clash Close Range[sml][c#999](★8)[/c][/sml][br]0.0 / 169.9 / 45.3m|Front Dispersal[sml][c#999](★8)[/c][/sml][br]1.0 / 67.9×6 / 67.9m|Back Dispersal[sml][c#999](★8)[/c][/sml][br]2.0 / 135.9×6 / 67.9m|1.9[sml][c#999](★10)[/c][/sml]|70.0|6[sml][c#999](★5)[/c][/sml]|2.0[sml][c#999](★5)[/c][/sml]|
+|43|Vulcan Hammer D|Clash Close Range[sml][c#999](★6+)[/c][/sml][br]0.0 / 679.5 / 40.0m|Midium Range[sml][c#999](★8)[/c][/sml][br]1.0 / 3397.4 / 5.0m|Wide Range[sml][c#999](★9)[/c][/sml][br]2.0 / 10192.1 / 10.0m|1.9[sml][c#999](★10)[/c][/sml]|75.0|5[sml][c#999](★5)[/c][/sml]|2.0[sml][c#999](★5)[/c][/sml]|
+|46|Vibro Roller D3|Charge Close Range[sml][c#999](★10)[/c][/sml][br]0.0 / 543.2 / 16.0m|Charge Midium Range[sml][c#999](★10)[/c][/sml][br]1.0 / 814.8 / 40.0m|Charge Long Range[sml][c#999](★10)[/c][/sml][br]4.0 / 1358.0 / 80.0m|1.9[sml][c#999](★10)[/c][/sml]|60.0|5[sml][c#999](★8)[/c][/sml]|1.5[sml][c#999](★8)[/c][/sml]|
+|50|Dynamo Blade M2|Slash Close Range[sml][c#999](★8)[/c][/sml][br]0.0 / 271.8 / 113.2m|Slash Midium Range[sml][c#999](★8)[/c][/sml][br]1.3 / 679.5 / 113.2m|Slash Long Range[sml][c#999](★8)[/c][/sml][br]7.5 / 2174.3 / 1132.5m|1.9[sml][c#999](★10)[/c][/sml]|-|10[sml][c#999](★5)[/c][/sml]|3.0[sml][c#999](★5)[/c][/sml]|
+|54|Quake Haken ZD|Clash Close Range[sml][c#999](★8)[/c][/sml][br]0.0 / 203.8 / 45.3m|Front Dispersal[sml][c#999](★8)[/c][/sml][br]1.0 / 81.5×6 / 67.9m|Back Dispersal[sml][c#999](★8)[/c][/sml][br]2.0 / 163.1×6 / 67.9m|1.9[sml][c#999](★10)[/c][/sml]|70.0|8[sml][c#999](★5)[/c][/sml]|2.0[sml][c#999](★5)[/c][/sml]|
+|56|Vulcan Hammer ZD|Clash Close Range[sml][c#999](★6+)[/c][/sml][br]0.0 / 906.0 / 40.0m|Midium Range[sml][c#999](★8)[/c][/sml][br]1.0 / 4529.8 / 4.0m|Wide Range[sml][c#999](★9)[/c][/sml][br]2.0 / 13589.5 / 8.0m|1.9[sml][c#999](★10)[/c][/sml]|90.0|5[sml][c#999](★5)[/c][/sml]|2.0[sml][c#999](★5)[/c][/sml]|
+|61|Force Blade MA|Slash Small[sml][c#999](★9)[/c][/sml][br]0.0 / 339.7 / 191.4m|-|Slash Midium[sml][c#999](★9)[/c][/sml][br]1.0 / 849.3 / 191.4m|1.9[sml][c#999](★10)[/c][/sml]|-|10[sml][c#999](★5)[/c][/sml]|3.0[sml][c#999](★5)[/c][/sml]|
+|66|Force Ax G2|Slash Small[sml][c#999](★9)[/c][/sml][br]0.0 / 764.4 / 157.5m|Slash Small[sml][c#999](★9)[/c][/sml][br]0.5 / 1299.5 / 314.9m|Front Charge[sml][c#999](★9)[/c][/sml][br]1.0 / 2293.2 / 314.9m|1.1[sml][c#999](★10)[/c][/sml]|-|20[sml][c#999](★10)[/c][/sml]|1.2[sml][c#999](★10)[/c][/sml]|
+|69|Finest Hammer|Clash Close Range[sml][c#999](★9)[/c][/sml][br]0.0 / 845.0 / 45.3m|Clash Midium Range[sml][c#999](★9)[/c][/sml][br]1.0 / 1689.9 / 135.9m|Clash Midium Range[sml][c#999](★9)[/c][/sml][br]2.0 / 2112.4 / 135.9m|1.9[sml][c#999](★10)[/c][/sml]|90.0|8[sml][c#999](★5)[/c][/sml]|2.0[sml][c#999](★5)[/c][/sml]|
+|76|Force Ax G3|Slash Small[sml][c#999](★9)[/c][/sml][br]0.0 / 1132.5 / 173.25m|Slash Midium[sml][c#999](★9)[/c][/sml][br]0.5 / 2264.9 / 346.4m|Clash Midium Range[sml][c#999](★9)[/c][/sml][br]2.0 / 3463.6 / 346.4m|1.1[sml][c#999](★10)[/c][/sml]|-|25[sml][c#999](★10)[/c][/sml]|1.2[sml][c#999](★10)[/c][/sml]|
+|79|Vibro Roller D9|Charge Close Range[sml][c#999](★10)[/c][/sml][br]0.0 / 1207.1 / 16.0m|Charge Midium Range[sml][c#999](★10)[/c][/sml][br]1.0 / 2414.2 / 40.0m|Charge Long Range[sml][c#999](★10)[/c][/sml][br]4.0 / 3621.3 / 80.0m|1.9[sml][c#999](★10)[/c][/sml]|75.0|5[sml][c#999](★8)[/c][/sml]|1.5[sml][c#999](★8)[/c][/sml]|
+|83|Dyna Force Blade|Slash Small[sml][c#999](★9)[/c][/sml][br]0.0 / 679.5 / 191.4m|Slash Small[sml][c#999](★9)[/c][/sml][br]0.8 / 2038.4 / 287.1m|Slash Midium[sml][c#999](★9)[/c][/sml][br]9.0 / 6794.7 / 1914.2m|1.9[sml][c#999](★10)[/c][/sml]|-|10[sml][c#999](★5)[/c][/sml]|3.0[sml][c#999](★5)[/c][/sml]|
+?|100|Force Blade MAXE [c#f88]@DLC1[/c]|Slash Small[sml][c#999](★9)[/c][/sml][br]0.0 / 906.0 / 268.0m|Slash Midium[sml][c#999](★9)[/c][/sml][br]1.0 / 2264.9 / 268.0m|Slash Dispersal[sml][c#999](★9)[/c][/sml][br]2.0 / 724.8×6 / 402.0m|1.9[sml][c#999](★10)[/c][/sml]|-|10[sml][c#999](★5)[/c][/sml]|3.0[sml][c#999](★5)[/c][/sml]|
+?|106|Quake Haken ZDXE [c#8af]@DLC2[/c]|Clash Close Range[sml][c#999](★8)[/c][/sml][br]0.0 / 453.0 / 45.3m|Front Dispersal[sml][c#999](★8)[/c][/sml][br]1.0 / 362.4×6 / 67.9m|Front Dispersal[sml][c#999](★8)[/c][/sml][br]2.0 / 724.8×6 / 90.6m|1.9[sml][c#999](★10)[/c][/sml]|70.0|6[sml][c#999](★5)[/c][/sml]|2.0[sml][c#999](★5)[/c][/sml]|
+?|107|Ultimate Hammer XE [c#8af]@DLC2[/c]|Clash Close Range[sml][c#999](★9)[/c][/sml][br]0.0 / 1026.0 / 45.3m|Clash Midium Range[sml][c#999](★9)[/c][/sml][br]1.0 / 2052.1 / 135.9m|Clash Midium Range[sml][c#999](★9)[/c][/sml][br]2.0 / 2565.1 / 135.9m|1.9[sml][c#999](★10)[/c][/sml]|90.0|8[sml][c#999](★5)[/c][/sml]|2.0[sml][c#999](★5)[/c][/sml]|
+!|LV|Name|Regular[hr][sml](Charge/Damage/Range)[/sml]|High Voltage[hr][sml](Charge/Damage/Range)[/sml]|Maximum[hr][sml](Charge/Damage/Range)[/sml]|Charge Speed[br][sml](per sec)[/sml]|Defense Damage[br][sml](%)[/sml]|Ammo|Reload[br][sml](sec)[/sml]|
+
+**CC Piercers
+!|LV|Name|Damage|Rate of Fire[br][sml](fire/sec)[/sml]|Range[br][sml](m)[/sml]|Attack 1[hr][sml](Damage/Range)[/sml]|Attack 2[hr][sml](Damage/Range)[/sml]|Swing/Ready[br]Speed|Ammo|Reload[br][sml](sec)[/sml]|
+|0|Blasthole Spear|-|-|-|[PT][br]543.2 / 50.0m[sml][c#999](★10)[/c][/sml]|[PT][br]679.0 / 60.0m[sml][c#999](★10)[/c][/sml]|1.4[sml][c#999](★10)[/c][/sml]|8[sml][c#999](★5)[/c][/sml]|2.0[sml][c#999](★5)[/c][/sml]|
+|3|Flashing Spear|[PT][br]226.5[sml][c#999](★8)[/c][/sml]|4.6[sml][c#999](★10)[/c][/sml]|37.5|-|-|1.6[sml][c#999](★10)[/c][/sml]|15[sml][c#999](★10)[/c][/sml]|4.0[sml][c#999](★5)[/c][/sml]|
+|6|Jackhammer|169.9[sml][c#999](★8)[/c][/sml]|4.6[sml][c#999](★8)[/c][/sml]|40.0|-|-|-|35[sml][c#999](★10)[/c][/sml]|2.3[sml][c#999](★5)[/c][/sml]|
+|11|Spine Driver|679.5[sml][c#999](★8)[/c][/sml]|0.95[sml][c#999](★10)[/c][/sml]|91.2[sml][c#999](★9)[/c][/sml]|-|-|-|8[sml][c#999](★7)[/c][/sml]|3.0[sml][c#999](★5)[/c][/sml]|
+|16|Blasthole Spear M2|-|-|-|[PT][br]905.3 / 50.0m[sml][c#999](★10)[/c][/sml]| [PT][br]1810.7 / 80.0m[sml][c#999](★10)[/c][/sml]|1.4[sml][c#999](★10)[/c][/sml]|8[sml][c#999](★5)[/c][/sml]|1.5[sml][c#999](★5)[/c][/sml]|
+|20|Blast Twin Spears|-|-|-|[PT][br]453.0×2 / 40.0m[sml][c#999](★8)[/c][/sml]|[PT][br]679.5×2 / 40.0m[sml][c#999](★8)[/c][/sml]|1.9[sml][c#999](★10)[/c][/sml]|16[sml][c#999](★9)[/c][/sml]|2.5[sml][c#999](★5)[/c][/sml]|
+|22|Flashing Spear M2|[PT][br]362.4[sml][c#999](★8)[/c][/sml]|5.5[sml][c#999](★10)[/c][/sml]|40.0|-|-|1.6[sml][c#999](★10)[/c][/sml]|24[sml][c#999](★10)[/c][/sml]|4.0[sml][c#999](★5)[/c][/sml]|
+|26|Jackhammer M2|283.1[sml][c#999](★8)[/c][/sml]|6.7[sml][c#999](★7)[/c][/sml]|48.0|-|-|-|42[sml][c#999](★10)[/c][/sml]|2.3[sml][c#999](★5)[/c][/sml]|
+|31|Spine Driver M2|1104.1[sml][c#999](★8)[/c][/sml]|0.95[sml][c#999](★10)[/c][/sml]|102.6[sml][c#999](★9)[/c][/sml]|-|-|-|8[sml][c#999](★7)[/c][/sml]|3.0[sml][c#999](★5)[/c][/sml]|
+|35|Flashing Spear M3|[PT][br]453.0[sml][c#999](★8)[/c][/sml]|6.7[sml][c#999](★10)[/c][/sml]|42.0|-|-|1.6[sml][c#999](★10)[/c][/sml]|27[sml][c#999](★10)[/c][/sml]|4.0[sml][c#999](★5)[/c][/sml]|
+|36|Blasthole Spear M3|-|-|-|[PT][br]1207.1 / 60.0m[sml][c#999](★10)[/c][/sml]|[PT][br]2112.4 / 72.0m[sml][c#999](★10)[/c][/sml]|1.4[sml][c#999](★10)[/c][/sml]|10[sml][c#999](★5)[/c][/sml]|1.5[sml][c#999](★5)[/c][/sml]|
+|41|Blast Twin Spears M2|-|-|-|[PT][br]849.3×2 / 40.0m[sml][c#999](★8)[/c][/sml]|[PT][br]1274.0×2 / 40.0m[sml][c#999](★8)[/c][/sml]|1.9[sml][c#999](★10)[/c][/sml]|16[sml][c#999](★9)[/c][/sml]|2.0[sml][c#999](★5)[/c][/sml]|
+|44|Blasthole Spear M4|-|-|-|[PT][br]1629.6 / 60.0m[sml][c#999](★10)[/c][/sml]|[PT][br]3259.2 / 84.0m[sml][c#999](★10)[/c][/sml]|1.4[sml][c#999](★10)[/c][/sml]|9[sml][c#999](★5)[/c][/sml]|1.5[sml][c#999](★5)[/c][/sml]|
+|46|Jackhammer M3|566.2[sml][c#999](★8)[/c][/sml]|6.7[sml][c#999](★7)[/c][/sml]|64.0|-|-|-|43[sml][c#999](★10)[/c][/sml]|2.5[sml][c#999](★5)[/c][/sml]|
+|50|Spine Driver M3|2038.4[sml][c#999](★8)[/c][/sml]|1.1[sml][c#999](★10)[/c][/sml]|128.2[sml][c#999](★9)[/c][/sml]|-|-|-|8[sml][c#999](★7)[/c][/sml]|3.0[sml][c#999](★5)[/c][/sml]|
+|51|Flashing Spear M4|[PT][br]679.5[sml][c#999](★8)[/c][/sml]|10.0[sml][c#999](★10)[/c][/sml]|56.0|-|-|1.6[sml][c#999](★10)[/c][/sml]|30[sml][c#999](★10)[/c][/sml]|4.0[sml][c#999](★5)[/c][/sml]|
+|55|Blasthole Spear M5|-|-|-|[PT][br]2897.1 / 69.1m[sml][c#999](★10)[/c][/sml]|[PT][br]5069.8 / 96.7m[sml][c#999](★10)[/c][/sml]|1.4[sml][c#999](★10)[/c][/sml]|10[sml][c#999](★5)[/c][/sml]|1.5[sml][c#999](★5)[/c][/sml]|
+|59|Jackhammer M4|906.0[sml][c#999](★8)[/c][/sml]|6.7[sml][c#999](★7)[/c][/sml]|64.0|-|-|-|52[sml][c#999](★10)[/c][/sml]|2.0[sml][c#999](★5)[/c][/sml]|
+|63|Blast Twin Spears M3|-|-|-|[PT][br]1698.7×2 / 48.0m[sml][c#999](★8)[/c][/sml]|[PT][br]2548.0×2 / 48.0m[sml][c#999](★8)[/c][/sml]|1.9[sml][c#999](★10)[/c][/sml]|16[sml][c#999](★9)[/c][/sml]|2.0[sml][c#999](★5)[/c][/sml]|
+|67|Blasthole Spear M6|-|-|-|[PT][br]3621.3 / 73.1m[sml][c#999](★10)[/c][/sml]|[PT][br]9053.3 / 117.0m[sml][c#999](★10)[/c][/sml]|1.4[sml][c#999](★10)[/c][/sml]|11[sml][c#999](★5)[/c][/sml]|1.5[sml][c#999](★5)[/c][/sml]|
+|69|Spine Driver M4|4076.8[sml][c#999](★8)[/c][/sml]|1.3[sml][c#999](★10)[/c][/sml]|170.9[sml][c#999](★9)[/c][/sml]|-|-|-|8[sml][c#999](★7)[/c][/sml]|2.0[sml][c#999](★5)[/c][/sml]|
+|77|Jackhammer MA|1358.9[sml][c#999](★8)[/c][/sml]|6.7[sml][c#999](★7)[/c][/sml]|64.0|-|-|-|69[sml][c#999](★10)[/c][/sml]|2.0[sml][c#999](★5)[/c][/sml]|
+|78|Blasthole Spear MS|-|-|-|[PT][br]4526.7 / 78.0m[sml][c#999](★10)[/c][/sml]|[PT][br]7921.6 / 124.8m[sml][c#999](★10)[/c][/sml]|1.4[sml][c#999](★10)[/c][/sml]|12[sml][c#999](★5)[/c][/sml]|1.5[sml][c#999](★5)[/c][/sml]|
+|80|Blast Twin Spears M4|-|-|-|[PT][br]3170.9×2 / 56.0m[sml][c#999](★8)[/c][/sml]|[PT][br]6341.8×2 / 56.0m[sml][c#999](★8)[/c][/sml]|1.9[sml][c#999](★10)[/c][/sml]|22[sml][c#999](★9)[/c][/sml]|2.5[sml][c#999](★5)[/c][/sml]|
+|81|Flashing Spear M5|[PT][br]1415.6[sml][c#999](★8)[/c][/sml]|10.0[sml][c#999](★10)[/c][/sml]|70.0|-|-|1.6[sml][c#999](★10)[/c][/sml]|36[sml][c#999](★10)[/c][/sml]|4.0[sml][c#999](★5)[/c][/sml]|
+|84|Spine Driver MA|5945.4[sml][c#999](★8)[/c][/sml]|1.3[sml][c#999](★10)[/c][/sml]|209.4[sml][c#999](★9)[/c][/sml]|-|-|-|9[sml][c#999](★7)[/c][/sml]|3.0[sml][c#999](★5)[/c][/sml]|
+?|104|Jackhammer MBF [c#f88]@DLC1[/c]|1358.9[sml][c#999](★8)[/c][/sml]|6.7[sml][c#999](★7)[/c][/sml]|96.0|-|-|-|69[sml][c#999](★10)[/c][/sml]|2.0[sml][c#999](★5)[/c][/sml]|
+?|106|Blast Twin Spears M5 [c#f88]@DLC1[/c]|-|-|-|[PT][br]4529.8×2 / 56.0m[sml][c#999](★8)[/c][/sml]|[PT][br]9059.6×2 / 56.0m[sml][c#999](★8)[/c][/sml]|1.9[sml][c#999](★10)[/c][/sml]|28[sml][c#999](★9)[/c][/sml]|2.5[sml][c#999](★5)[/c][/sml]|
+?|110|Blasthole Spear MSXE [c#8af]@DLC2[/c]|-|-|-|[PT][br]5914.8 / 78.0m[sml][c#999](★10)[/c][/sml]|[PT][br]10350.9 / 124.8m[sml][c#999](★10)[/c][/sml]|1.4[sml][c#999](★10)[/c][/sml]|12[sml][c#999](★5)[/c][/sml]|1.5[sml][c#999](★5)[/c][/sml]|
+!|LV|Name|Damage|Rate of Fire[br][sml](fire/sec)[/sml]|Range[br][sml](m)[/sml]|Attack 1[hr][sml](Damage/Range)[/sml]|Attack 2[hr][sml](Damage/Range)[/sml]|Swing/Ready[br]Speed|Ammo|Reload[br][sml](sec)[/sml]|
+
+**Shields
+!|LV|Name|Durability|Reload[br][sml](sec)[/sml]|Defense[br]Angle|Damage[br]Defense[br][sml](%)[/sml]|Physical Reverse[br]Range[br][sml](Radius)[/sml]|Reversal[br]Durability Drop[br][sml](%)[/sml]|Normal Speed[hr][sml](Speed/Rotation)[/sml]|Stance Speed[hr][sml](Speed/Rotation)[/sml]|
+|0|Deflection Shield|483[sml][c#999](★10)[/c][/sml]|10.0[sml][c#999](★5)[/c][/sml]|80°|70.0|10|2.50|- / -|50% / 60% [Heavy]|
+|0|Ion Mirror Shield|543[sml][c#999](★10)[/c][/sml]|4.0[sml][c#999](★5)[/c][/sml]|57°|70.0|5|1.25|- / -|- / -|
+|2|Tower Shield|966[sml][c#999](★10)[/c][/sml]|15.0[sml][c#999](★5)[/c][/sml]|126°|80.0|15|2.00|70% / 50%|40% / 50% [Ultra Heavy]|
+|5|Deflection Shield 2|604[sml][c#999](★10)[/c][/sml]|10.0[sml][c#999](★5)[/c][/sml]|80°|70.0|10|2.50|- / -|50% / 60% [Heavy]|
+|7|Ion Mirror Shield 2E|664[sml][c#999](★10)[/c][/sml]|8.0[sml][c#999](★5)[/c][/sml]|57°|70.0|5|1.25|- / -|- / -|
+|13|Deflection Shield 3|724[sml][c#999](★10)[/c][/sml]|10.0[sml][c#999](★5)[/c][/sml]|80°|70.0|10|2.50|- / -|50% / 60% [Heavy]|
+|17|Tower Shield 2E|1811[sml][c#999](★10)[/c][/sml]|15.0[sml][c#999](★5)[/c][/sml]|132°|80.0|15|2.00|70% / 50%|40% / 50% [Ultra Heavy]|
+|21|Deflection Shield 4|1207[sml][c#999](★10)[/c][/sml]|10.0[sml][c#999](★5)[/c][/sml]|80°|70.0|10|2.50|- / -|50% / 60% [Heavy]|
+|25|Ion Mirror Shield 3E|1449[sml][c#999](★10)[/c][/sml]|8.0[sml][c#999](★5)[/c][/sml]|63°|70.0|5|1.25|- / -|- / -|
+|27|Reflector|241[sml][c#999](★10)[/c][/sml]|4.0[sml][c#999](★5)[/c][/sml]|46°|10.0|10|2.50|- / -|- / -|
+|34|Deflection Shield 5|1931[sml][c#999](★10)[/c][/sml]|10.0[sml][c#999](★5)[/c][/sml]|91°|70.0|10|2.50|- / -|50% / 60% [Heavy]|
+|37|Tower Shield 3E|4828[sml][c#999](★10)[/c][/sml]|15.0[sml][c#999](★5)[/c][/sml]|138°|80.0|15|2.00|70% / 50%|40% / 50% [Ultra Heavy]|
+|39|Deflection Shield 6|2897[sml][c#999](★10)[/c][/sml]|10.0[sml][c#999](★5)[/c][/sml]|80°|70.0|10|2.50|- / -|50% / 60% [Heavy]|
+|47|Ion Mirror Shield 4E|3380[sml][c#999](★10)[/c][/sml]|8.0[sml][c#999](★5)[/c][/sml]|69°|70.0|5|1.25|- / -|- / -|
+|52|Deflection Shield 7|3621[sml][c#999](★10)[/c][/sml]|10.0[sml][c#999](★5)[/c][/sml]|91°|70.0|10|2.50|- / -|50% / 60% [Heavy]|
+|57|Tower Shield 4E|8450[sml][c#999](★10)[/c][/sml]|15.0[sml][c#999](★5)[/c][/sml]|149°|85.0|15|2.00|70% / 50%|40% / 50% [Ultra Heavy]|
+|60|Ion Mirror Shield 5E|4828[sml][c#999](★10)[/c][/sml]|8.0[sml][c#999](★5)[/c][/sml]|69|75.0|5|1.25|- / -|- / -|
+|64|Deflection Shield MA|6036[sml][c#999](★10)[/c][/sml]|10.0[sml][c#999](★5)[/c][/sml]|100°|75.0|10|2.50|- / -|60% / 75%|
+|68|Powered Reflector|483[sml][c#999](★10)[/c][/sml]|4.0[sml][c#999](★5)[/c][/sml]|46°|10.0|10|1.50|- / -|- / -|
+|71|Deflection Shield MGX|7243[sml][c#999](★10)[/c][/sml]|10.0[sml][c#999](★5)[/c][/sml]|100°|80.0|10|2.50|- / -|60% / 75%|
+|75|Ion Mirror Shield MG|8450[sml][c#999](★10)[/c][/sml]|8.0[sml][c#999](★5)[/c][/sml]|80°|80.0|5|1.25|- / -|- / -|
+|79|Master Shield|9053[sml][c#999](★10)[/c][/sml]|10.0[sml][c#999](★5)[/c][/sml]|109°|80.0|10|2.50|- / -|70% / 90%|
+|85|Great Shield|18107[sml][c#999](★10)[/c][/sml]|15.0[sml][c#999](★5)[/c][/sml]|170°|90.0|15|2.00|70% / 50%|40% / 50% [Ultra Heavy]|
+!|LV|Name|Durability|Reload[br][sml](sec)[/sml]|Defense[br]Angle|Damage[br]Defense[br][sml](%)[/sml]|Physical Reverse[br]Range[br][sml](Radius)[/sml]|Reversal[br]Durability Drop[br][sml](%)[/sml]|Normal Speed[hr][sml](Speed/Rotation)[/sml]|Stance Speed[hr][sml](Speed/Rotation)[/sml]|
+
+**Autocannons
+!|LV|Name|Ammo|Delay[br][sml](sec)[/sml]|Rate of Fire[br][sml](Fire/sec)[/sml]|Damage|Reload[br][sml](sec)[/sml]|Range[br][sml](m)[/sml]|Shot Speed[br][sml](m/sec)[/sml]|Accuracy|
+|0|FG7 Hand Gatling|320[sml][c#999](★5)[/c][/sml]|1.0[sml][c#999](★10)[/c][/sml]|20.0[sml][c#999](★5)[/c][/sml]|17.0～8.5[sml][c#999](★8)[/c][/sml]|8.0[sml][c#999](★5)[/c][/sml]|208.0[sml][c#999](★5)[/c][/sml]|240.0[sml][c#999](★5)[/c][/sml]|B-[sml][c#999](★5)[/c][/sml]|
+|0|Galleon Lightweight Cannon|20[sml][c#999](★5)[/c][/sml]|-|1.5[sml][c#999](★5)[/c][/sml]|84.9～42.5[sml][c#999](★8)[/c][/sml]|4.0[sml][c#999](★5)[/c][/sml]|343.8[sml][c#999](★5)[/c][/sml]|375.0[sml][c#999](★5)[/c][/sml]|S++[sml][c#999](★8)[/c][/sml]|
+|1|Dexter Automatic Shotgun|20[sml][c#999](★5)[/c][/sml]|-|2.2[sml][c#999](★7)[/c][/sml]|27.2～2.7×8[sml][c#999](★6+)[/c][/sml]|4.0[sml][c#999](★5)[/c][/sml]|180.0[sml][c#999](★5)[/c][/sml]|360.0[sml][c#999](★5)[/c][/sml]|B-[sml][c#999](★5)[/c][/sml]|
+|5|Flame Revolver|765[sml][c#999](★10)[/c][/sml]|0.34[sml][c#999](★10)[/c][/sml]|20.0[sml][c#999](★5)[/c][/sml]|48.3～12.1[sml][c#999](★10)[/c][/sml]|3.2[sml][c#999](★8)[/c][/sml]|28.0[sml][c#999](★5)[/c][/sml]|84.0[sml][c#999](★5)[/c][/sml]|B[sml][c#999](★5)[/c][/sml]|
+|7|FG8 Hand Gatling|544[sml][c#999](★8)[/c][/sml]|0.75[sml][c#999](★10)[/c][/sml]|30.0[sml][c#999](★5)[/c][/sml]|17.0～8.5[sml][c#999](★8)[/c][/sml]|9.0[sml][c#999](★5)[/c][/sml]|208.0[sml][c#999](★5)[/c][/sml]|240.0[sml][c#999](★5)[/c][/sml]|B-[sml][c#999](★5)[/c][/sml]|
+|10|Galleon Rapid Fire Cannon|40[sml][c#999](★5)[/c][/sml]|-|3.0[sml][c#999](★5)[/c][/sml]|66.9～34.0[sml][c#999](★8)[/c][/sml]|5.0[sml][c#999](★5)[/c][/sml]|412.5[sml][c#999](★5)[/c][/sml]|450.0[sml][c#999](★5)[/c][/sml]|S++[sml][c#999](★8)[/c][/sml]|
+|12|Dexter Automatic Shotgun D1|18[sml][c#999](★5)[/c][/sml]|-|2.3[sml][c#999](★8)[/c][/sml]|63.4～6.3×10[sml][c#999](★6+)[/c][/sml]|5.3[sml][c#999](★5)[/c][/sml]|180.0[sml][c#999](★5)[/c][/sml]|360.0[sml][c#999](★5)[/c][/sml]|C+[sml][c#999](★5)[/c][/sml]|
+|17|Flame Revolver D|669[sml][c#999](★10)[/c][/sml]|0.34[sml][c#999](★10)[/c][/sml]|20.0[sml][c#999](★5)[/c][/sml]|120.7～30.2[sml][c#999](★10)[/c][/sml]|3.5[sml][c#999](★8)[/c][/sml]|36.0[sml][c#999](★5)[/c][/sml]|108.0[sml][c#999](★5)[/c][/sml]|B[sml][c#999](★5)[/c][/sml]|
+|19|UT1 Hand Gatling|982[sml][c#999](★7)[/c][/sml]|0.50[sml][c#999](★10)[/c][/sml]|20.0[sml][c#999](★5)[/c][/sml]|51.0～25.5[sml][c#999](★8)[/c][/sml]|10.0[sml][c#999](★5)[/c][/sml]|208.0[sml][c#999](★5)[/c][/sml]|240.0[sml][c#999](★5)[/c][/sml]|B-[sml][c#999](★5)[/c][/sml]|
+|21|Galleon Lightweight Cannon M2|20[sml][c#999](★5)[/c][/sml]|-|1.5[sml][c#999](★5)[/c][/sml]|254.8～127.4[sml][c#999](★8)[/c][/sml]|4.5[sml][c#999](★5)[/c][/sml]|375.0[sml][c#999](★5)[/c][/sml]|450.0[sml][c#999](★5)[/c][/sml]|S++[sml][c#999](★8)[/c][/sml]|
+|23|Disruptor|1359[sml][c#999](★8)[/c][/sml]|-|60.0[sml][c#999](★5)[/c][/sml]|45.3[sml][c#999](★8)[/c][/sml][br](1200 Burst)|-|120.0[sml][c#999](★5)[/c][/sml]|1800.0[sml][c#999](★5)[/c][/sml]|B[sml][c#999](★5)[/c][/sml]|
+|27|FG9 Hand Gatling|335[sml][c#999](★6)[/c][/sml]|1.0[sml][c#999](★10)[/c][/sml]|20.0[sml][c#999](★5)[/c][/sml]|77.0～38.5[sml][c#999](★8)[/c][/sml]|8.0[sml][c#999](★5)[/c][/sml]|228.0[sml][c#999](★5)[/c][/sml]|360.0[sml][c#999](★5)[/c][/sml]|B[sml][c#999](★5)[/c][/sml]|
+|32|FGS Diffusion Gatling|524[sml][c#999](★7)[/c][/sml]|0.75[sml][c#999](★10)[/c][/sml]|30.0[sml][c#999](★5)[/c][/sml]|58.9～29.4[sml][c#999](★8)[/c][/sml]|9.0[sml][c#999](★5)[/c][/sml]|228.0[sml][c#999](★5)[/c][/sml]|360.0[sml][c#999](★5)[/c][/sml]|C[sml][c#999](★5)[/c][/sml]|
+|35|Dexter Automatic Shotgun D2|18[sml][c#999](★5)[/c][/sml]|-|2.3[sml][c#999](★8)[/c][/sml]|69.1～6.9×15[sml][c#999](★6+)[/c][/sml]|5.3[sml][c#999](★5)[/c][/sml]|225.0[sml][c#999](★5)[/c][/sml]|450.0[sml][c#999](★5)[/c][/sml]|C+[sml][c#999](★5)[/c][/sml]|
+|37|Galleon Triple Burst Cannon|20[sml][c#999](★5)[/c][/sml]|-|0.75[sml][c#999](★5)[/c][/sml]|679.5～339.7[sml][c#999](★8)[/c][/sml][br](3 Burst)|4.0[sml][c#999](★5)[/c][/sml]|387.5[sml][c#999](★5)[/c][/sml]|750.0[sml][c#999](★5)[/c][/sml]|B[sml][c#999](★5)[/c][/sml]|
+|40|Flame Revolver DC1|956[sml][c#999](★10)[/c][/sml]|0.43[sml][c#999](★10)[/c][/sml]|20.0[sml][c#999](★5)[/c][/sml]|338.0～84.5[sml][c#999](★10)[/c][/sml]|3.2[sml][c#999](★8)[/c][/sml]|26.0[sml][c#999](★5)[/c][/sml]|78.0[sml][c#999](★5)[/c][/sml]|B[sml][c#999](★5)[/c][/sml]|
+|42|UT2 Hand Gatling|982[sml][c#999](★7)[/c][/sml]|0.50[sml][c#999](★10)[/c][/sml]|15.0[sml][c#999](★5)[/c][/sml]|113.2～56.6[sml][c#999](★8)[/c][/sml]|10.0[sml][c#999](★5)[/c][/sml]|252.0[sml][c#999](★5)[/c][/sml]|360.0[sml][c#999](★5)[/c][/sml]|B-[sml][c#999](★5)[/c][/sml]|
+|45|Galleon Lightweight Cannon M3|20[sml][c#999](★5)[/c][/sml]|-|2.0[sml][c#999](★5)[/c][/sml]|577.6～288.8[sml][c#999](★8)[/c][/sml]|4.0[sml][c#999](★5)[/c][/sml]|455.0[sml][c#999](★5)[/c][/sml]|1050.0[sml][c#999](★5)[/c][/sml]|S++[sml][c#999](★8)[/c][/sml]|
+|50|Dexter Automatic Shotgun G|26[sml][c#999](★5)[/c][/sml]|-|1.9[sml][c#999](★8)[/c][/sml]|163.1～16.3×14[sml][c#999](★6+)[/c][/sml]|6.9[sml][c#999](★6)[/c][/sml]|187.5[sml][c#999](★5)[/c][/sml]|450.0[sml][c#999](★5)[/c][/sml]|C[sml][c#999](★5)[/c][/sml]|
+|52|FG10 Hand Gatling|362[sml][c#999](★8)[/c][/sml]|1.0[sml][c#999](★10)[/c][/sml]|20.0[sml][c#999](★5)[/c][/sml]|135.9～67.9[sml][c#999](★8)[/c][/sml]|8.0[sml][c#999](★5)[/c][/sml]|300.0[sml][c#999](★5)[/c][/sml]|450.0[sml][c#999](★5)[/c][/sml]|B[sml][c#999](★5)[/c][/sml]|
+|57|Galleon 3R Burst Cannon|40[sml][c#999](★5)[/c][/sml]|-|1.5[sml][c#999](★5)[/c][/sml]|679.5～339.7[sml][c#999](★8)[/c][/sml][br](3 Burst)|6.7[sml][c#999](★5)[/c][/sml]|425.0[sml][c#999](★5)[/c][/sml]|750.0[sml][c#999](★5)[/c][/sml]|S++[sml][c#999](★7)[/c][/sml]|
+|60|Flame Revolver DC2|956[sml][c#999](★10)[/c][/sml]|0.43[sml][c#999](★10)[/c][/sml]|20.0[sml][c#999](★5)[/c][/sml]|531.1～132.8[sml][c#999](★10)[/c][/sml]|3.2[sml][c#999](★8)[/c][/sml]|32.0[sml][c#999](★5)[/c][/sml]|96.0[sml][c#999](★5)[/c][/sml]|B[sml][c#999](★5)[/c][/sml]|
+|62|Power Disruptor|1200[sml][c#999](★5)[/c][/sml]|-|60.0[sml][c#999](★5)[/c][/sml]|113.2[sml][c#999](★8)[/c][/sml][br](1200 Burst)|-|120.0[sml][c#999](★5)[/c][/sml]|1800.0[sml][c#999](★5)[/c][/sml]|B[sml][c#999](★5)[/c][/sml]|
+|65|FG20 Hand Gatling|562[sml][c#999](★9)[/c][/sml]|0.75[sml][c#999](★10)[/c][/sml]|20.0[sml][c#999](★5)[/c][/sml]|169.9～84.9[sml][c#999](★8)[/c][/sml]|9.0[sml][c#999](★5)[/c][/sml]|336.0[sml][c#999](★5)[/c][/sml]|720.0[sml][c#999](★5)[/c][/sml]|B-[sml][c#999](★5)[/c][/sml]|
+|68|Galleon Rapid Fire Cannon M2|40[sml][c#999](★5)[/c][/sml]|-|6.0[sml][c#999](★5)[/c][/sml]|849.3～424.7[sml][c#999](★8)[/c][/sml]|7.7[sml][c#999](★5)[/c][/sml]|487.5[sml][c#999](★5)[/c][/sml]|1125.0[sml][c#999](★5)[/c][/sml]|S++[sml][c#999](★8)[/c][/sml]|
+|70|Dexter Automatic Shotgun ZA|24[sml][c#999](★5)[/c][/sml]|-|2.2[sml][c#999](★9)[/c][/sml]|217.4～21.7×20[sml][c#999](★6+)[/c][/sml]|5.7[sml][c#999](★7)[/c][/sml]|270.0[sml][c#999](★5)[/c][/sml]|540.0[sml][c#999](★5)[/c][/sml]|C[sml][c#999](★5)[/c][/sml]|
+|72|UT3 Hand Gatling|1019[sml][c#999](★8)[/c][/sml]|0.50[sml][c#999](★10)[/c][/sml]|20.0[sml][c#999](★5)[/c][/sml]|203.8～101.9[sml][c#999](★8)[/c][/sml]|10.0[sml][c#999](★5)[/c][/sml]|304.0[sml][c#999](★5)[/c][/sml]|480.0[sml][c#999](★5)[/c][/sml]|B-[sml][c#999](★5)[/c][/sml]|
+|75|Galleon Armor-Piercing Cannon|24[sml][c#999](★5)[/c][/sml]|-|1.5[sml][c#999](★5)[/c][/sml]|1698.7～849.3[sml][c#999](★8)[/c][/sml]|4.0[sml][c#999](★5)[/c][/sml]|600.0[sml][c#999](★5)[/c][/sml]|1500.0[sml][c#999](★5)[/c][/sml]|S++[sml][c#999](★8)[/c][/sml]|
+|76|Maximum Disruptor|1811[sml][c#999](★10)[/c][/sml]|-|60.0[sml][c#999](★5)[/c][/sml]|181.2[sml][c#999](★8)[/c][/sml][br](1500 Burst)|-|180.0[sml][c#999](★5)[/c][/sml]|1800.0[sml][c#999](★5)[/c][/sml]|B+[sml][c#999](★5)[/c][/sml]|
+|77|Dexter Automatic Shotgun ZG|30[sml][c#999](★5)[/c][/sml]|-|2.5[sml][c#999](★10)[/c][/sml]|181.2～18.1×30[sml][c#999](★6+)[/c][/sml]|4.5[sml][c#999](★7)[/c][/sml]|264.0[sml][c#999](★5)[/c][/sml]|720.0[sml][c#999](★5)[/c][/sml]|C[sml][c#999](★5)[/c][/sml]|
+|80|FGZ Hand Gatling|785[sml][c#999](★10)[/c][/sml]|1.5[sml][c#999](★10)[/c][/sml]|20.0[sml][c#999](★5)[/c][/sml]|339.7～169.9[sml][c#999](★8)[/c][/sml]|11.0[sml][c#999](★5)[/c][/sml]|360.0[sml][c#999](★5)[/c][/sml]|600.0[sml][c#999](★5)[/c][/sml]|B[sml][c#999](★5)[/c][/sml]|
+|82|Hell Flame Revolver|1035[sml][c#999](★10)[/c][/sml]|0.51[sml][c#999](★10)[/c][/sml]|20.0[sml][c#999](★5)[/c][/sml]|555.3～138.8[sml][c#999](★10)[/c][/sml]|2.5[sml][c#999](★8)[/c][/sml]|96.0[sml][c#999](★5)[/c][/sml]|288.0[sml][c#999](★5)[/c][/sml]|B[sml][c#999](★5)[/c][/sml]|
+?|103|Dexter Automatic Shotgun ZGXE [c#f88]@DLC1[/c]|30[sml][c#999](★5)[/c][/sml]|-|2.5[sml][c#999](★10)[/c][/sml]|283.1～28.3×30[sml][c#999](★6+)[/c][/sml]|4.5[sml][c#999](★7)[/c][/sml]|315.0[sml][c#999](★5)[/c][/sml]|900.0[sml][c#999](★5)[/c][/sml]|C[sml][c#999](★5)[/c][/sml]|
+?|108|FGZF Hand Gatling [c#8af]@DLC2[/c]|1086[sml][c#999](★10)[/c][/sml]|1.5[sml][c#999](★10)[/c][/sml]|20.0[sml][c#999](★5)[/c][/sml]|509.6～254.8[sml][c#999](★8)[/c][/sml]|12.0[sml][c#999](★5)[/c][/sml]|400.0[sml][c#999](★5)[/c][/sml]|1200.0[sml][c#999](★5)[/c][/sml]|B[sml][c#999](★5)[/c][/sml]|
+!|LV|Name|Ammo|Delay[br][sml](sec)[/sml]|Rate of Fire[br][sml](Fire/sec)[/sml]|Damage|Reload[br][sml](sec)[/sml]|Range[br][sml](m)[/sml]|Shot Speed[br][sml](m/sec)[/sml]|Accuracy|
+
+**Cannons
+!|LV|Name|Ammo|Rate of Fire[br][sml](fire/sec)[/sml]|Damage|Blast Area[br][sml](Radius m)[/sml]|Reload[br][sml](sec)[/sml]|Range[br][sml](m)[/sml]|Shot Speed[br][sml](m/sec)[/sml]|Accuracy|Zoom|
+|0|NC101 Hand Cannon|14[sml][c#999](★8)[/c][/sml]|1.9[sml][c#999](★8)[/c][/sml]|[PT][br]120.7[sml][c#999](★10)[/c][/sml]|-|3.5[sml][c#999](★5)[/c][/sml]|1068.0[sml][c#999](★8)[/c][/sml]|534.0[sml][c#999](★8)[/c][/sml]|S++[sml][c#999](★7)[/c][/sml]|2.0|
+|1|30mm Gallic Heavy Cannon|10[sml][c#999](★5)[/c][/sml]|0.33[sml][c#999](★5)[/c][/sml]|[PT][br]656.6[sml][c#999](★10)[/c][/sml]|-|3.5[sml][c#999](★5)[/c][/sml]|951.3[sml][c#999](★8)[/c][/sml]|475.6[sml][c#999](★8)[/c][/sml]|S++[sml][c#999](★7)[/c][/sml]|2.5|
+|2|Powerdyne|10[sml][c#999](★5)[/c][/sml]|0.75[sml][c#999](★5)[/c][/sml]|[PT][br]845[sml][c#999](★10)[/c][/sml]|-|-|1019.2[sml][c#999](★8)[/c][/sml]|2038.4[sml][c#999](★8)[/c][/sml]|S++|4.0|
+|6|NCS1 Cannon Shot|3[sml][c#999](★5)[/c][/sml]|0.50[sml][c#999](★5)[/c][/sml]|[PT][br]24.1×54[sml][c#999](★7+)[/c][/sml]|-|8.0[sml][c#999](★5)[/c][/sml]|407.7[sml][c#999](★8)[/c][/sml]|271.8[sml][c#999](★8)[/c][/sml]|C[sml][c#999](★5)[/c][/sml]|-|
+|10|30mm Gallic Heavy Cannon M2|10[sml][c#999](★5)[/c][/sml]|0.33[sml][c#999](★5)[/c][/sml]|[PT][br]1181.0[sml][c#999](★10)[/c][/sml]|-|3.5[sml][c#999](★5)[/c][/sml]|951.3[sml][c#999](★8)[/c][/sml]|475.6[sml][c#999](★8)[/c][/sml]|S++[sml][c#999](★7)[/c][/sml]|2.5|
+|16|25mm Light Canister Cannon|9[sml][c#999](★5)[/c][/sml]|0.75[sml][c#999](★5)[/c][/sml]|[PT][br]24.1×32[sml][c#999](★7+)[/c][/sml]|-|10.0[sml][c#999](★5)[/c][/sml]|305.8[sml][c#999](★8)[/c][/sml]|135.9[sml][c#999](★8)[/c][/sml]|C[sml][c#999](★5)[/c][/sml]|-|
+|20|NC102 Hand Cannon|15[sml][c#999](★8)[/c][/sml]|1.9[sml][c#999](★8)[/c][/sml]|[PT][br]603.6[sml][c#999](★10)[/c][/sml]|-|4.5[sml][c#999](★5)[/c][/sml]|1068.0[sml][c#999](★8)[/c][/sml]|534.0[sml][c#999](★8)[/c][/sml]|S++[sml][c#999](★7)[/c][/sml]|2.0|
+|28|NC103 Hand Cannon|15[sml][c#999](★8)[/c][/sml]|1.9[sml][c#999](★8)[/c][/sml]|[PT][br]724.3[sml][c#999](★10)[/c][/sml]|-|3.5[sml][c#999](★5)[/c][/sml]|1068.0[sml][c#999](★8)[/c][/sml]|640.8[sml][c#999](★8)[/c][/sml]|S++[sml][c#999](★7)[/c][/sml]|2.0|
+|33|30mm Gallic Heavy Cannon M3|10[sml][c#999](★5)[/c][/sml]|0.33[sml][c#999](★5)[/c][/sml]|[PT][br]3000.0[sml][c#999](★10)[/c][/sml]|-|4.0[sml][c#999](★5)[/c][/sml]|951.3[sml][c#999](★8)[/c][/sml]|475.6[sml][c#999](★8)[/c][/sml]|S++[sml][c#999](★7)[/c][/sml]|2.5|
+|40|NC104 Hand Cannon|12[sml][c#999](★6)[/c][/sml]|1.9[sml][c#999](★8)[/c][/sml]|[PT][br]965.7[sml][c#999](★10)[/c][/sml]|-|3.2[sml][c#999](★5)[/c][/sml]|1238.9[sml][c#999](★8)[/c][/sml]|640.8[sml][c#999](★8)[/c][/sml]|S++[sml][c#999](★7)[/c][/sml]|2.0|
+|45|NCS2 Cannon Shot|3[sml][c#999](★5)[/c][/sml]|0.50[sml][c#999](★5)[/c][/sml]|[PT][br]54.3×80[sml][c#999](★7+)[/c][/sml]|-|9.0[sml][c#999](★5)[/c][/sml]|453.0[sml][c#999](★8)[/c][/sml]|271.8[sml][c#999](★8)[/c][/sml]|C+[sml][c#999](★5)[/c][/sml]|-|
+|51|NC201 Hand Cannon|17[sml][c#999](★8)[/c][/sml]|1.9[sml][c#999](★8)[/c][/sml]|[PT][br]1207.1[sml][c#999](★10)[/c][/sml]|-|4.7[sml][c#999](★5)[/c][/sml]|1708.8[sml][c#999](★8)[/c][/sml]|640.8[sml][c#999](★8)[/c][/sml]|S++[sml][c#999](★7)[/c][/sml]|2.0|
+|58|30mm Light Canister Cannon|8[sml][c#999](★5)[/c][/sml]|0.75[sml][c#999](★5)[/c][/sml]|[PT][br]42.2×60[sml][c#999](★7+)[/c][/sml]|-|12.0[sml][c#999](★5)[/c][/sml]|475.6[sml][c#999](★8)[/c][/sml]|203.8[sml][c#999](★8)[/c][/sml]|B-[sml][c#999](★6)[/c][/sml]|-|
+|65|NC202 Hand Cannon|15[sml][c#999](★8)[/c][/sml]|1.5[sml][c#999](★8)[/c][/sml]|[PT][br]1810.7[sml][c#999](★10)[/c][/sml]|-|3.5[sml][c#999](★5)[/c][/sml]|1744.4[sml][c#999](★8)[/c][/sml]|747.6[sml][c#999](★8)[/c][/sml]|S++[sml][c#999](★7)[/c][/sml]|2.0|
+|70|35mm Gallic Heavy Cannon|10[sml][c#999](★5)[/c][/sml]|0.33[sml][c#999](★5)[/c][/sml]|[PT][br]9000.0[sml][c#999](★10)[/c][/sml]|-|4.0[sml][c#999](★5)[/c][/sml]|1155.1[sml][c#999](★8)[/c][/sml]|577.6[sml][c#999](★8)[/c][/sml]|S++[sml][c#999](★7)[/c][/sml]|3.0|
+|75|NCSS Cannon Shot|5[sml][c#999](★5)[/c][/sml]|0.50[sml][c#999](★5)[/c][/sml]|[PT][br]193.1×70[sml][c#999](★7+)[/c][/sml]|-|10.0[sml][c#999](★5)[/c][/sml]|679.5[sml][c#999](★8)[/c][/sml]|407.7[sml][c#999](★8)[/c][/sml]|B-[sml][c#999](★5)[/c][/sml]|-|
+|78|NC290 Hand Cannon|16[sml][c#999](★8)[/c][/sml]|1.9[sml][c#999](★8)[/c][/sml]|[PT][br]2414.2[sml][c#999](★10)[/c][/sml]|-|3.5[sml][c#999](★5)[/c][/sml]|1851.2[sml][c#999](★8)[/c][/sml]|854.4[sml][c#999](★8)[/c][/sml]|S++[sml][c#999](★7)[/c][/sml]|2.0|
+|82|35mm Battle Cannon|8[sml][c#999](★5)[/c][/sml]|0.33[sml][c#999](★5)[/c][/sml]|[PT][br]15000.0[sml][c#999](★10)[/c][/sml]|-|6.0[sml][c#999](★5)[/c][/sml]|1358.9[sml][c#999](★8)[/c][/sml]|679.5[sml][c#999](★8)[/c][/sml]|S++[sml][c#999](★7)[/c][/sml]|4.0|
+|0|FH10 Light Mortar|7[sml][c#999](★5)[/c][/sml]|1.8[sml][c#999](★10)[/c][/sml]|90.6[sml][c#999](★8)[/c][/sml]|6.8[sml][c#999](★8)[/c][/sml]|5.0[sml][c#999](★5)[/c][/sml]|2722.1[sml][c#999](★9)[/c][/sml]|272.2[sml][c#999](★9)[/c][/sml]|S++[sml][c#999](★7)[/c][/sml]|-|
+|4|YH1 Dispersal Mortar|2[sml][c#999](★5)[/c][/sml]|0.50[sml][c#999](★5)[/c][/sml]|60.0×9[sml][c#999](★7+)[/c][/sml]|6.8[sml][c#999](★8)[/c][/sml]|9.0[sml][c#999](★5)[/c][/sml]|1814.7[sml][c#999](★9)[/c][/sml]|181.5[sml][c#999](★9)[/c][/sml]|B-[sml][c#999](★5)[/c][/sml]|-|
+|9|FHD1 Heavy Mortar|1|-|482.8[sml][c#999](★10)[/c][/sml]|14.5[sml][c#999](★10)[/c][/sml]|5.0[sml][c#999](★5)[/c][/sml]|4536.8[sml][c#999](★9)[/c][/sml]|453.7[sml][c#999](★9)[/c][/sml]|S++[sml][c#999](★7)[/c][/sml]|4.0|
+|12|YH2 Dispersal Mortar|2[sml][c#999](★5)[/c][/sml]|0.50[sml][c#999](★5)[/c][/sml]|60.0×18[sml][c#999](★7+)[/c][/sml]|6.8[sml][c#999](★8)[/c][/sml]|9.0[sml][c#999](★5)[/c][/sml]|1814.7[sml][c#999](★9)[/c][/sml]|181.5[sml][c#999](★9)[/c][/sml]|C[sml][c#999](★5)[/c][/sml]|-|
+|15|FH11 Light Mortar|6[sml][c#999](★5)[/c][/sml]|1.8[sml][c#999](★10)[/c][/sml]|311.4[sml][c#999](★8)[/c][/sml]|6.8[sml][c#999](★8)[/c][/sml]|5.3[sml][c#999](★5)[/c][/sml]|2722.1[sml][c#999](★9)[/c][/sml]|272.2[sml][c#999](★9)[/c][/sml]|S++[sml][c#999](★7)[/c][/sml]|-|
+|18|FHD2 Heavy Mortar|3[sml][c#999](★5)[/c][/sml]|0.33[sml][c#999](★5)[/c][/sml]|1448.5[sml][c#999](★10)[/c][/sml]|18.1[sml][c#999](★10)[/c][/sml]|5.0[sml][c#999](★5)[/c][/sml]|4536.8[sml][c#999](★9)[/c][/sml]|453.7[sml][c#999](★9)[/c][/sml]|S++[sml][c#999](★7)[/c][/sml]|4.0|
+|28|FH12 Light Mortar|8[sml][c#999](★5)[/c][/sml]|1.8[sml][c#999](★10)[/c][/sml]|543.6[sml][c#999](★8)[/c][/sml]|9.1[sml][c#999](★8)[/c][/sml]|4.8[sml][c#999](★5)[/c][/sml]|3175.8[sml][c#999](★9)[/c][/sml]|317.6[sml][c#999](★9)[/c][/sml]|S++[sml][c#999](★7)[/c][/sml]|-|
+|33|FHD3 Heavy Mortar|4[sml][c#999](★5)[/c][/sml]|0.33[sml][c#999](★5)[/c][/sml]|2414.2[sml][c#999](★10)[/c][/sml]|19.3[sml][c#999](★10)[/c][/sml]|5.0[sml][c#999](★5)[/c][/sml]|6351.5[sml][c#999](★9)[/c][/sml]|635.2[sml][c#999](★9)[/c][/sml]|S++[sml][c#999](★7)[/c][/sml]|4.0|
+|38|FH21 Light Mortar|7[sml][c#999](★5)[/c][/sml]|1.8[sml][c#999](★10)[/c][/sml]|792.7[sml][c#999](★8)[/c][/sml]|11.3[sml][c#999](★8)[/c][/sml]|6.0[sml][c#999](★5)[/c][/sml]|3175.8[sml][c#999](★9)[/c][/sml]|317.6[sml][c#999](★9)[/c][/sml]|S++[sml][c#999](★7)[/c][/sml]|-|
+|42|YH3 Dispersal Mortar|3[sml][c#999](★5)[/c][/sml]|0.50[sml][c#999](★5)[/c][/sml]|360.0×23[sml][c#999](★7+)[/c][/sml]|6.8[sml][c#999](★8)[/c][/sml]|9.0[sml][c#999](★5)[/c][/sml]|1814.7[sml][c#999](★9)[/c][/sml]|181.5[sml][c#999](★9)[/c][/sml]|C[sml][c#999](★5)[/c][/sml]|-|
+|53|FH22 Mortar|8[sml][c#999](★5)[/c][/sml]|1.8[sml][c#999](★10)[/c][/sml]|1132.5[sml][c#999](★8)[/c][/sml]|13.6[sml][c#999](★8)[/c][/sml]|5.2[sml][c#999](★5)[/c][/sml]|4536.8[sml][c#999](★9)[/c][/sml]|453.7[sml][c#999](★9)[/c][/sml]|S++[sml][c#999](★7)[/c][/sml]|-|
+|62|FHER Explosion Mortar|4[sml][c#999](★5)[/c][/sml]|0.33[sml][c#999](★5)[/c][/sml]|3621.3[sml][c#999](★10)[/c][/sml]|24.1[sml][c#999](★10)[/c][/sml]|4.7[sml][c#999](★5)[/c][/sml]|8166.3[sml][c#999](★9)[/c][/sml]|816.6[sml][c#999](★9)[/c][/sml]|S++[sml][c#999](★7)[/c][/sml]|4.0|
+|78|FH29 Mortar|10[sml][c#999](★5)[/c][/sml]|1.8[sml][c#999](★10)[/c][/sml]|1698.7[sml][c#999](★8)[/c][/sml]|17.0[sml][c#999](★8)[/c][/sml]|5.2[sml][c#999](★5)[/c][/sml]|4536.8[sml][c#999](★9)[/c][/sml]|453.7[sml][c#999](★9)[/c][/sml]|S++[sml][c#999](★7)[/c][/sml]|-|
+|83|YH7 Dispersal Mortar|2[sml][c#999](★5)[/c][/sml]|0.50[sml][c#999](★5)[/c][/sml]|960.0×30[sml][c#999](★7+)[/c][/sml]|11.3[sml][c#999](★8)[/c][/sml]|10.0[sml][c#999](★5)[/c][/sml]|1814.7[sml][c#999](★9)[/c][/sml]|181.5[sml][c#999](★9)[/c][/sml]|C[sml][c#999](★5)[/c][/sml]|-|
+|87|FHEZ Super-Heavy Mortar|5[sml][c#999](★5)[/c][/sml]|0.33[sml][c#999](★5)[/c][/sml]|5432.0[sml][c#999](★10)[/c][/sml]|24.1[sml][c#999](★10)[/c][/sml]|4.7[sml][c#999](★5)[/c][/sml]|8166.3[sml][c#999](★9)[/c][/sml]|816.6[sml][c#999](★9)[/c][/sml]|S++[sml][c#999](★7)[/c][/sml]|4.0|
+?|102|38mm Rage Cannon [c#f88]@DLC1[/c]|8[sml][c#999](★5)[/c][/sml]|0.33[sml][c#999](★5)[/c][/sml]|[PT][br]18000.0[sml][c#999](★10)[/c][/sml]|-|6.0[sml][c#999](★5)[/c][/sml]|2038.4[sml][c#999](★8)[/c][/sml]|1019.2[sml][c#999](★8)[/c][/sml]|S++[sml][c#999](★7)[/c][/sml]|4.0|
+?|101|FH29RE Mortar [c#f88]@DLC1[/c]|12[sml][c#999](★5)[/c][/sml]|3.8[sml][c#999](★10)[/c][/sml]|1698.7[sml][c#999](★8)[/c][/sml]|17.0[sml][c#999](★8)[/c][/sml]|5.2[sml][c#999](★5)[/c][/sml]|6351.5[sml][c#999](★9)[/c][/sml]|635.2[sml][c#999](★9)[/c][/sml]|S++[sml][c#999](★7)[/c][/sml]|-|
+?|111|Super-Heavy Crusher Mortar [c#8af]@DLC2[/c]|1|-|21727.9[sml][c#999](★10)[/c][/sml]|60.4[sml][c#999](★10)[/c][/sml]|60.0[sml][c#999](★5)[/c][/sml]|-|0.91[sml][c#999](★9)[/c][/sml]|S++[sml][c#999](★7)[/c][/sml]|4.0|
+!|LV|Name|Ammo|Rate of Fire[br][sml](fire/sec)[/sml]|Damage|Blast Area[br][sml](Radius m)[/sml]|Reload[br][sml](sec)[/sml]|Range[br][sml](m)[/sml]|Shot Speed[br][sml](m/sec)[/sml]|Accuracy|Zoom|
+
+**Missile Launchers
+!|LV|Name|Ammo|Rate of Fire[br][sml](Fire/sec)[/sml]|Damage|Blast Area[br][sml](Radius m)[/sml]|Reload[br][sml](sec)[/sml]|Rock-on[br][sml](Range/Targets)[/sml]|Rock-on Time[br][sml](sec)[/sml]|Homing[br]Capability|
+|1|Arm Hound|4[sml][c#999](★7)[/c][/sml]|6.7[sml][c#999](★7)[/c][/sml]|96.6[sml][c#999](★10)[/c][/sml]|4.5[sml][c#999](★8)[/c][/sml]|2.5[sml][c#999](★7)[/c][/sml]|227.9m / 4 Targets[sml][c#999](★8+)[/c][/sml]|0.000[sml][c#999](★10)[/c][/sml]|A+|
+|2|Blood Storm|3[sml][c#999](★8)[/c][/sml]|1.2[sml][c#999](★8)[/c][/sml]|60.4×20[sml][c#999](★10)[/c][/sml]|5.0|4.9[sml][c#999](★7)[/c][/sml]|455.9m / 3 Targets[sml][c#999](★9)[/c][/sml]|0.16[sml][c#999](★8)[/c][/sml]|C+|
+|3|Leviathan|1|-|4828.4[sml][c#999](★10)[/c][/sml]|34.0[sml][c#999](★8)[/c][/sml]|9.8[sml][c#999](★7)[/c][/sml]|455.9m / 1 Targets[sml][c#999](★10)[/c][/sml][br]Only with Guide Kit|17.9[sml][c#999](★6)[/c][/sml]|C+|
+|8|Haytal Multi-Missile Launcher|1|-|241.4×15[sml][c#999](★7+)[/c][/sml]|5.7[sml][c#999](★8)[/c][/sml]|4.9[sml][c#999](★7)[/c][/sml]|379.9m / 15 Targets[sml][c#999](★7+)[/c][/sml][br]Only with Guide Kit|0.10[sml][c#999](★7)[/c][/sml]|C+|
+|13|Arcane 6-Barrel Launcher|6[sml][c#999](★5)[/c][/sml]|8.6[sml][c#999](★7)[/c][/sml]|301.8[sml][c#999](★10)[/c][/sml]|9.0[sml][c#999](★10)[/c][/sml]|6.8[sml][c#999](★7)[/c][/sml]|379.9m / 6 Targets[sml][c#999](★7+)[/c][/sml]|0.039[sml][c#999](★8)[/c][/sml]|A+|
+|18|FG01 High Altitude Impact Launcher|8[sml][c#999](★8)[/c][/sml]|20.0[sml][c#999](★8)[/c][/sml]|328.3[sml][c#999](★10)[/c][/sml]|5.7[sml][c#999](★8)[/c][/sml]|8.2[sml][c#999](★7)[/c][/sml]|607.9m / 8 Targets[sml][c#999](★9)[/c][/sml]|0.039[sml][c#999](★8)[/c][/sml]|A+|
+|22|Phoenix|1|-|2172.8[sml][c#999](★10)[/c][/sml]|22.6[sml][c#999](★8)[/c][/sml]|3.3[sml][c#999](★7)[/c][/sml]|759.m / 1 Targets[sml][c#999](★10)[/c][/sml][br]Only with Guide Kit|2.7[sml][c#999](★7)[/c][/sml]|A+|
+|29|G2 Arm Hound|8[sml][c#999](★8)[/c][/sml]|6.7[sml][c#999](★7)[/c][/sml]|169.0[sml][c#999](★10)[/c][/sml]|6.8[sml][c#999](★8)[/c][/sml]|1.6[sml][c#999](★7)[/c][/sml]|303.9m / 8 Targets[sml][c#999](★9)[/c][/sml]|0.000[sml][c#999](★10)[/c][/sml]|A+|
+|30|Haytal Multi-Missile Launcher M2|1|-|482.8×20[sml][c#999](★7+)[/c][/sml]|5.7[sml][c#999](★8)[/c][/sml]|4.9[sml][c#999](★7)[/c][/sml]|531.9m / 20 Targets[sml][c#999](★7+)[/c][/sml][br]Only with Guide Kit|0.10[sml][c#999](★7)[/c][/sml]|C+|
+|32|M2 Blood Storm|3[sml][c#999](★8)[/c][/sml]|1.2[sml][c#999](★8)[/c][/sml]|211.2×10[sml][c#999](★10)[/c][/sml]|8.0|4.9[sml][c#999](★7)[/c][/sml]|455.9m / 3 Targets[sml][c#999](★9)[/c][/sml]|0.16[sml][c#999](★8)[/c][/sml]|C+|
+|34|Leviathan MA|1|-|60355.3[sml][c#999](★10)[/c][/sml]|45.3[sml][c#999](★8)[/c][/sml]|9.8[sml][c#999](★7)[/c][/sml]|607.9m / 1 Targets[sml][c#999](★10)[/c][/sml][br]Only with Guide Kit|17.9[sml][c#999](★6)[/c][/sml]|C+|
+|38|FG02 High Altitude Impact Launcher|14[sml][c#999](★8)[/c][/sml]|20.0[sml][c#999](★8)[/c][/sml]|470.8[sml][c#999](★10)[/c][/sml]|7.9[sml][c#999](★8)[/c][/sml]|8.2[sml][c#999](★7)[/c][/sml]|759.8m / 14 Targets[sml][c#999](★9)[/c][/sml]|0.039[sml][c#999](★8)[/c][/sml]|A+|
+|43|Phoenix 2|1|-|4828.4[sml][c#999](★10)[/c][/sml]|28.3[sml][c#999](★8)[/c][/sml]|3.3[sml][c#999](★7)[/c][/sml]|1063.7m / 1 Targets[sml][c#999](★10)[/c][/sml][br]Only with Guide Kit|2.7[sml][c#999](★7)[/c][/sml]|A+|
+|47|Arcane 6-Barrel Launcher G2|6[sml][c#999](★5)[/c][/sml]|8.6[sml][c#999](★7)[/c][/sml]|1448.5[sml][c#999](★10)[/c][/sml]|12.0[sml][c#999](★10)[/c][/sml]|6.8[sml][c#999](★7)[/c][/sml]|607.9m / 6 Targets[sml][c#999](★7+)[/c][/sml]|0.039[sml][c#999](★8)[/c][/sml]|A+|
+|51|Haytal Multi-Missile Launcher MA|1|-|772.5×25[sml][c#999](★7+)[/c][/sml]|6.8[sml][c#999](★8)[/c][/sml]|4.9[sml][c#999](★7)[/c][/sml]|759.8m / 25 Targets[sml][c#999](★7+)[/c][/sml][br]Only with Guide Kit|0.10[sml][c#999](★7)[/c][/sml]|C+|
+|55|G3 Arm Hound|12[sml][c#999](★8)[/c][/sml]|12.0[sml][c#999](★7)[/c][/sml]|482.8[sml][c#999](★10)[/c][/sml]|11.3[sml][c#999](★8)[/c][/sml]|2.5[sml][c#999](★7)[/c][/sml]|379.9m / 12 Targets[sml][c#999](★9)[/c][/sml]|0.000[sml][c#999](★10)[/c][/sml]|A+|
+|58|Wild Leviathan|1|-|120710.7[sml][c#999](★10)[/c][/sml]|56.6[sml][c#999](★8)[/c][/sml]|9.8[sml][c#999](★7)[/c][/sml]|1519.6m / 1 Targets[sml][c#999](★10)[/c][/sml][br]Only with Guide Kit|17.9[sml][c#999](★6)[/c][/sml]|C+|
+|63|Phoenix X|1|-|9656.9[sml][c#999](★10)[/c][/sml]|34.0[sml][c#999](★8)[/c][/sml]|3.3[sml][c#999](★7)[/c][/sml]|1215.7m / 1 Targets[sml][c#999](★10)[/c][/sml][br]Only with Guide Kit|2.7[sml][c#999](★7)[/c][/sml]|A+|
+|66|Arcane 6-Barrel Launcher GA|6[sml][c#999](★5)[/c][/sml]|8.6[sml][c#999](★7)[/c][/sml]|1086.4[sml][c#999](★10)[/c][/sml]|24.0[sml][c#999](★10)[/c][/sml]|2.7[sml][c#999](★7)[/c][/sml]|759.8m / 6 Targets[sml][c#999](★7+)[/c][/sml]|0.039[sml][c#999](★8)[/c][/sml]|A+|
+|71|FGX High Altitude Impact Launcher|14[sml][c#999](★8)[/c][/sml]|20.0[sml][c#999](★8)[/c][/sml]|1641.7[sml][c#999](★10)[/c][/sml]|13.6[sml][c#999](★8)[/c][/sml]|8.2[sml][c#999](★7)[/c][/sml]|1063.7m / 14 Targets[sml][c#999](★9)[/c][/sml]|0.039[sml][c#999](★8)[/c][/sml]|A+|
+|80|GX Arm Hound|12[sml][c#999](★8)[/c][/sml]|12.0[sml][c#999](★7)[/c][/sml]|965.7[sml][c#999](★10)[/c][/sml]|13.6[sml][c#999](★8)[/c][/sml]|2.5[sml][c#999](★7)[/c][/sml]|379.9m / 12 Targets[sml][c#999](★9)[/c][/sml]|0.000[sml][c#999](★10)[/c][/sml]|A+|
+|81|Haytal Multi-Missile Launcher WX|1|-|1207.1×30[sml][c#999](★7+)[/c][/sml]|7.9[sml][c#999](★8)[/c][/sml]|4.9[sml][c#999](★7)[/c][/sml]|911.8m / 30 Targets[sml][c#999](★7+)[/c][/sml][br]Only with Guide Kit|0.10[sml][c#999](★7)[/c][/sml]|C+|
+|84|Phoenix WX|1|-|12071.1[sml][c#999](★10)[/c][/sml]|34.0[sml][c#999](★8)[/c][/sml]|3.3[sml][c#999](★7)[/c][/sml]|1823.6m / 1 Targets[sml][c#999](★10)[/c][/sml][br]Only with Guide Kit|0.39[sml][c#999](★8)[/c][/sml]|A+|
+|86|Arcane 6-Barrel Launcher GX|6[sml][c#999](★5)[/c][/sml]|8.6[sml][c#999](★7)[/c][/sml]|2172.8[sml][c#999](★10)[/c][/sml]|27.0[sml][c#999](★10)[/c][/sml]|2.7[sml][c#999](★7)[/c][/sml]|759.8m / 6 Targets[sml][c#999](★7+)[/c][/sml]|0.039[sml][c#999](★8)[/c][/sml]|A+|
+?|104|M3 Blood Storm [c#f88]@DLC1[/c]|3[sml][c#999](★8)[/c][/sml]|1.2[sml][c#999](★8)[/c][/sml]|1207.1×10[sml][c#999](★10)[/c][/sml]|10.0|4.9[sml][c#999](★7)[/c][/sml]|455.9m / 3 Targets[sml][c#999](★9)[/c][/sml]|0.16[sml][c#999](★8)[/c][/sml]|C+|
+?|110|Rapid Hound [c#8af]@DLC2[/c]|12[sml][c#999](★8)[/c][/sml]|30.0[sml][c#999](★5)[/c][/sml]|724.3[sml][c#999](★10)[/c][/sml]|10.2[sml][c#999](★8)[/c][/sml]|2.5[sml][c#999](★7)[/c][/sml]|379.9m / 12 Targets[sml][c#999](★9)[/c][/sml]|0.000[sml][c#999](★10)[/c][/sml]|A+|
+!|LV|Name|Ammo|Rate of Fire[br][sml](Fire/sec)[/sml]|Damage|Blast Area[br][sml](Radius m)[/sml]|Reload[br][sml](sec)[/sml]|Rock-on[br][sml](Range/Targets)[/sml]|Rock-on Time[br][sml](sec)[/sml]|Homing[br]Capability|
+
+**Enhanced Boosters
+!|LV|Name|Consecutive[br]Dashes|Consecutive[br]Boosts|Dash Interval[br][sml](%)[/sml]|Horizontal[br]Boost Speed[br][sml](%)[/sml]|
+|2|Dash Cell 1|2|-|-|-|
+|17|Dash Cell 2|3|-|92|-|
+|40|Dash Cell 3|4|-|86|-|
+|67|Dash Cell 4|5|-|80|-|
+|77|Dash Cell 5|6|-|80|-|
+|1|Add Booster 1|-|2|-|110|
+|11|Add Booster 2|-|3|-|120|
+|27|Add Booster 3|-|4|-|130|
+|62|Add Booster 4|-|5|-|140|
+|72|Add Booster 5|-|6|-|150|
+|20|Multi-Charger 2-2|2|2|-|110|
+|35|Multi-Charger 2-3|2|3|-|115|
+|45|Multi-Charger 3-2|3|2|-|120|
+|55|Multi-Charger 3-3|3|3|90|125|
+|82|Multi-Charger 3-4|3|4|86|130|
+|87|Multi-Charger 4-3|4|3|86|135|
+?|103|Multi-Charger 4-4 [c#f88]@DLC1[/c]|4|4|80|140|
+?|106|Dash Cell G [c#8af]@DLC2[/c]|-|10|60|-|
+?|107|Add Booster G [c#8af]@DLC2[/c]|-|8|-|200|
+!|LV|Name|Consecutive[br]Dashes|Consecutive[br]Boosts|Dash Interval[br][sml](%)[/sml]|Horizontal[br]Boost Speed[br][sml](%)[/sml]|
+
+**Enhanced Shields
+!|LV|名前|Shield[br]Consumption[br][sml](%)[/sml]|Shield[br]Durability[br][sml](%)[/sml]|Shield[br]Defense Angle|Damage[br]Reduction Rate[br][sml](%)[/sml]|Knockback[br]Reduction Rate[br][sml](%)[/sml]|
+|0|Deflect Cell|65|-|-|20|25|
+|3|Shield Protection Armor|-|200|+20°|-|-|
+|6|Barricade System 1|180|-|-|75|60|
+|10|Deflect Cell A2|50|-|-|25|40|
+|22|Barricade System 2|160|-|-|90|80|
+|31|Shield Protection Armor B|-|400|+30°|-|-|
+|37|Deflect Cell A3|35|-|-|30|80|
+|42|Barricade System 3|140|-|-|95|100|
+|52|Shield Protection Armor F|-|600|+40°|-|-|
+|62|Deflect Cell AX|20|-|-|40|90|
+|78|Barricade System X|150|-|-|100|100|
+|81|Shield Protection Armor Y (F)|-|800|+60°|-|-|
+?|106|Deflect Cell AXE [c#f88]@DLC1[/c]|40|-|-|45|95|
+!|LV|名前|Shield[br]Consumption[br][sml](%)[/sml]|Shield[br]Durability[br][sml](%)[/sml]|Shield[br]Defense Angle|Damage[br]Reduction Rate[br][sml](%)[/sml]|Knockback[br]Reduction Rate[br][sml](%)[/sml]|
+
+**Enhanced Cannons
+!|LV|Name|Recoil Reduction[br][sml](%)[/sml]|
+|5|Muzzle Stabilizer|40|
+|12|Muzzle Stabilizer 2|60|
+|30|Muzzle Stabilizer 3|70|
+|43|Muzzle Stabilizer 4|80|
+|57|Muzzle Stabilizer 5|90|
+|76|Muzzle Stabilizer S|100|
+!|LV|Name|Recoil Reduction[br][sml](%)[/sml]|
+
+**Enhanced Exoskeleton
+!|LV|Name|Weight Impact[br]on Speed[br][sml](%)[/sml]|Weight Impact[br]on Rotation Inertia[br][sml](%)[/sml]|Walking Speed[br][sml](%)[/sml]|Recoil Reduction[br][sml](%)[/sml]|
+|0|V1 Exoskeleton|70|70|110|-|
+|7|V1 Leg Exoskeleton|50|-|130|-|
+|15|V1 Arm Exoskeleton|-|50|-|-|
+|32|V2 Exoskeleton|50|50|120|-|
+|47|V2 Leg Exoskeleton|25|-|150|-|
+|53|V2 Arm Exoskeleton|-|25|-|-|
+|65|V3 Exoskeleton|25|25|130|-|
+|70|V3 Leg Exoskeleton|0|-|170|-|
+|79|V3 Arm Exoskeleton|-|0|-|-|
+|85|VZ Exoskeleton|0|0|150|-|
+?|101|Gale Exoskeleton [c#f88]@DLC1[/c]|0|-|300|-|
+?|108|Bombardment Exoskeleton [c#8af]@DLC2[/c]|30|30|25|80|
+!|LV|Name|Weight Impact[br]on Speed[br][sml](%)[/sml]|Weight Impact[br]on Rotation Inertia[br][sml](%)[/sml]|Walking Speed[br][sml](%)[/sml]|Recoil Reduction[br][sml](%)[/sml]|

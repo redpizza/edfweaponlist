@@ -1,0 +1,314 @@
+*Wing Diver
+
+**Short-Range
+!|LV|Name|
+|0|Rapier|
+|0|Power Lance|
+|0|Spark Vine Y3|
+|0|Phalanx|
+|1|Dragoon Lance|
+|3|Spark Vine Y6|
+|4|Phalanx W1|
+|6|Power Lance LD|
+|9|Dragoon Lance DA|
+|10|Spark Whip|
+|11|Double Lance|
+|14|Phalanx M2|
+|16|Rapier G|
+|19|Dragoon Lance LE|
+|21|Spark Foil Y6|
+|25|M2 Rapier|
+|26|Double Lance LD|
+|31|Spark Vine YA6|
+|31|Phalanx U1|
+|34|Dragoon Lance M2|
+|37|Power Lance FD|
+|39|Phalanx M3|
+|42|M3 Rapier|
+|44|Spark Whip W3|
+|46|Dragoon Lance W|
+|49|Dragoon Lance M3|
+|51|M4 Rapier|
+|54|Triple Lance|
+|56|Phalanx M4|
+|58|Spark Foil Y8|
+|61|Dragoon Lance M4|
+|64|Phalanx W2|
+|67|Spark Whip W5|
+|69|M5 Rapier|
+|73|Twin Lance|
+|74|Star Rapier|
+|76|Dragoon Lance Tri|
+|78|Spark Vine Y12|
+|81|Power Lance ZA|
+|84|Phalanx M5|
+|86|Triple Lance ZD|
+|86|Rapier Nova|
+|90|Spark Whip ZY|
+|92|Dragoon Lance ZM|
+|95|Phalanx ZT|
+?|101|Rapier Super Nova <font color="#f88">@DLC1</font>|
+?|100|Spark Whip ZAM <font color="#f88">@DLC1</font>|
+?|107|Phalanx ZAT <font color="#8af">@DLC2</font>|
+?|111|Monster Lance <font color="#8af">@DLC2</font>|
+!|LV|Name|
+
+**Kinetic Weapons
+!|LV|Name|
+|0|Mag Blaster|
+|3|Destroyer Blaster|
+|5|Mag Blaster A1|
+|11|Mag Blaster A2|
+|12|Destroyer Blaster 2|
+|14|Reflectron Laser|
+|17|Mag Blaster V1|
+|19|Spine Blaster|
+|22|Mag Blaster B1|
+|24|Mag Blaster B2|
+|27|Spine Blaster E2|
+|28|Mag Blaster DA|
+|32|Reflectron V Laser|
+|35|Mag Blaster G1|
+|39|Mag Blaster G2|
+|42|Destroyer Blaster F|
+|44|Mag Blaster DN|
+|46|Reflectron Laser D|
+|49|Mag Blaster G3|
+|52|Spine Blaster E3|
+|54|Mag Blaster BX|
+|59|Mag Blaster W|
+|64|Mag Blaster SP1|
+|66|Destroyer Blaster W|
+|69|Reflectron 5-Way Laser|
+|71|Mag Blaster SP2|
+|74|Mag Laser ZA|
+|76|Spine Blaster ZM|
+|82|Reflectron 5-Way Laser ZD|
+|79|Mag Blaster DX|
+|82|Destroyer Blaster FE|
+|84|Mag Blaster ZM|
+?|103|Mag Blaster FDX <font color="#f88">@DLC1</font>|
+?|106|Spine Blaster ZAM4 <font color="#8af">@DLC2</font>|
+!|LV|Name|
+
+**Energy Weapons
+!|LV|Name|
+|0|Lightning Bow|
+|1|Bolt Gun|
+|5|Lightning Bow M2|
+|7|Thunder Crossbow|
+|12|Bolt Gun A1|
+|17|Lightning Bow M3|
+|22|Thunder Crossbow 2|
+|25|Bolt Gun RA|
+|29|Lightning Rapid Bow|
+|36|Thunder Crossbow RA|
+|40|Lightning Bow M4|
+|43|Thunder Crossbow 3|
+|48|Bolt Gun A2|
+|50|Thunder Crossbow W|
+|52|Lightning Bow M5|
+|57|Bolt Gun RB|
+|61|Lightning Rapid Bow T2|
+|67|Bolt Power Gun|
+|71|Thunder Crossbow DZ|
+|75|Lightning Bow GD|
+|77|Bolt Gun AZ|
+|81|Thunder Crossbow WZ|
+|82|Bolt Maximum Gun|
+|85|Lightning Bow ZA|
+|87|Thunder Crossbow RZ|
+?|101|Lightning Bow ZAMD <font color="#f88">@DLC1</font>|
+?|106|Bolt Break Gun <font color="#8af">@DLC2</font>|
+?|110|Thunder Crossbow RZAM <font color="#8af">@DLC2</font>|
+!|LV|Name|
+
+**Pulse Weapons
+!|LV|Name|
+|0|Pulse Machine Gun|
+|2|Pulse Machine Gun R|
+|6|3-Way Pulse Machine Gun|
+|12|Pulse Rapid Gun|
+|17|4-Way Pulse Machine Gun|
+|20|Stardust Cannon|
+|23|5-Way Pulse Machine Gun|
+|25|Pulse Machine Gun M2|
+|29|Pulse Buster|
+|35|6-Way Pulse Machine Gun|
+|37|Stardust Cannon Type A|
+|42|Pulse Machine Gun M3|
+|48|Pulse Buster Alpha|
+|50|Pulse Rapid Gun DE|
+|55|8-Way Pulse Machine Gun|
+|59|Stardust Cannon Type D|
+|65|Pulse Machine Gun M4|
+|70|9-Way Pulse Machine Gun|
+|75|Pulse Machine Gun M5|
+|77|Pulse Buster Beta|
+|79|10-Way Pulse Machine Gun|
+|85|Stardust Cannon Type F|
+|87|Pulse Machine Gun ZDM|
+?|104|Stardust Fall <font color="#f88">@DLC1</font>|
+?|108|Super Pulse Machine Gun <font color="#8af">@DLC2</font>|
+!|LV|Name|
+
+**Long-Range
+!|LV|Name|
+|0|Closed Laser|
+|2|Bolt Shooter|
+|7|Closed Laser M2|
+|13|MONSTER ZERO|
+|16|Bolt Shooter 2|
+|18|MONSTER|
+|22|Closed Laser M3|
+|25|Closed Laser MA|
+|30|Bolt Shooter RA|
+|36|Raijin|
+|40|Closed Laser MSA|
+|45|Bolt Shooter 3|
+|50|Bolt Shooter DA|
+|55|MONSTER GA|
+|57|Closed Laser MX|
+|65|Closed Laser MZ|
+|70|Bolt Shooter RF|
+|75|Closed Long Laser|
+|77|Bolt Shooter ZF|
+|80|MONSTER GZ|
+|82|Closed Laser F|
+|85|Raijin Alpha|
+?|112|Raijin Limit Custom <font color="#8af">@DLC2</font>|
+!|LV|Name|
+
+**Ranged Weapons
+!|LV|Name|
+|0|Plasma Cannon|
+|0|Blink Ball|
+|0|Grit Shot|
+|1|Plasma Big Cannon|
+|3|Plasmafall|
+|4|Plasma Burst Cannon 2|
+|6|Plasma Cannon Type B|
+|8|Splasher|
+|10|Plasma Big Cannon M2|
+|12|Split Ball|
+|13|Grit Gun|
+|15|Plasma Heavy Cannon|
+|18|Plasmafall F6|
+|18|Blink Ball B|
+|20|Plasma Burst Cannon 3|
+|26|Plasma Cannon Type C|
+|27|Grit Shot W10|
+|29|Blink Ball C|
+|30|Plasmafall DA|
+|33|Grit Gun MA|
+|35|Triple Plasma Cannon|
+|38|Plasma Cannon CR|
+|41|Blink Fork|
+|43|Plasma Burst Cannon 2D|
+|45|Plasmafall F10|
+|51|Splasher AZ|
+|52|Plasma Big Cannon M3|
+|53|Blink Ball D|
+|55|Plasma Great Cannon|
+|57|Plasma Cannon Type D|
+|60|Double Plasma Cannon|
+|62|Grit Shot W15|
+|65|Split Ball AT|
+|66|Plasma Cannon Type E|
+|69|Plasma Burst Cannon 4D|
+|75|Plasma Cannon Type F|
+|78|Blink Ball FZ|
+|80|Plasma Burst Cannon 4Z|
+|85|Plasmafall F20|
+?|104|Plasma Cannon Type G <font color="#f88">@DLC1</font>|
+!|LV|Name|
+
+**Homing Weapons
+!|LV|Name|
+|0|Mirage Zero|
+|2|Geist|
+|5|Rapid Mirage|
+|8|Mirage 5-Way|
+|13|Geist 2|
+|18|Mirage 5-Way B|
+|21|Ghost Chaser|
+|25|Mirage Rumble|
+|28|Mirage 15|
+|31|Psiblade|
+|36|Geist 3|
+|43|Mirage 15S|
+|53|Fenrir|
+|56|Mirage 5-Way S|
+|60|Psiblade Alpha|
+|63|Geist D|
+|68|Ghost Chaser DA|
+|76|Mirage 15WR|
+|83|Fenrir 3-Way|
+?|106|Geist G <font color="#f88">@DLC1</font>|
+!|LV|Name|
+
+**Special
+!|LV|Name|
+|2|Diffuser|
+|5|Gleipnir|
+|8|Thunder Cluster|
+|13|Diffuser Anti-Air Custom|
+|16|Gleipnir β|
+|20|Alpha Diffuser|
+|24|Heaven's Gate|
+|26|Psi Cluster|
+|34|Diffuser Air-to-Surface Custom|
+|41|Psi Cluster α|
+|48|EX Gleipnir|
+|51|Heaven's Gate 10|
+|56|Thunder Cluster α|
+|63|Diffuser Anti-Air Custom D|
+|71|Heaven's Gate D10|
+|81|Gleipnir α|
+|84|Diffuser Air-to-Surface Custom D|
+|87|Thunder Orb|
+|88|Final Days|
+?|107|Psi Blast Wall <font color="#8af">@DLC2</font>|
+!|LV|Name|
+
+**Plasma Cores
+!|LV|Name|
+|0|Plasma Core|
+|1|Turbo Core|
+|2|Plasma Core B|
+|5|Rush Core|
+|7|V2 Plasma Core|
+|12|V2 Plasma Core Type B|
+|15|V2 Turbo Core|
+|18|Loading Core|
+|20|V2 Rush Core|
+|22|Jet Core|
+|24|V2 Plasma Core Type C|
+|27|Reverse Core|
+|29|V3 Plasma Core|
+|33|Big Core|
+|36|V3 Turbo Core|
+|38|V3 Plasma Core Type B|
+|41|V3 Rush Core|
+|43|Sky High Core|
+|47|V3 Plasma Core Type C|
+|51|V4 Plasma Core|
+|55|Bird Core|
+|58|Return Core|
+|61|V4 Plasma Core Type B|
+|63|Loading Core Type B|
+|65|V4 Turbo Core|
+|68|V4 Plasma Core Type C|
+|71|V5 Plasma Core|
+|73|VA Rush Core|
+|76|V5 Plasma Core Type B|
+|78|Big Bang Core|
+|80|EX Bird Core|
+|83|VM Rush Core|
+|85|VM Jet Core|
+|88|VZ Plasma Core|
+?|100|Loading Core Type G <font color="#f88">@DLC1</font>|
+?|106|VG Rush Core <font color="#f88">@DLC1</font>|
+?|106|Return Core G <font color="#8af">@DLC2</font>|
+?|112|Mighty Core <font color="#8af">@DLC2</font>|
+!|LV|Name|

@@ -1,0 +1,266 @@
+*Fencer
+
+**CC Strikers
+!|LV|Name|
+|0|Vibro Hammer|
+|1|Vibro Hammer F3|
+|2|Force Blade|
+|4|Vibro Roller|
+|9|Vibro Hammer FA|
+|11|Force Blade D|
+|13|Vibro Haken|
+|15|Vulcan Hammer|
+|19|Dynamo Blade|
+|30|Vibro Roller D2|
+|35|Vibro Hammer FV|
+|39|Force Ax|
+|41|Quake Haken|
+|43|Vulcan Hammer D|
+|46|Vibro Roller D3|
+|50|Dynamo Blade M2|
+|54|Quake Haken ZD|
+|56|Vulcan Hammer ZD|
+|61|Force Blade MA|
+|66|Force Ax G2|
+|69|Finest Hammer|
+|76|Force Ax G3|
+|79|Vibro Roller D9|
+|83|Dyna Force Blade|
+?|100|Force Blade MAXE <font color="#f88">@DLC1</font>|
+?|106|Quake Haken ZDXE <font color="#8af">@DLC2</font>|
+?|107|Ultimate Hammer XE <font color="#8af">@DLC2</font>|
+!|LV|Name|
+
+**CC Piercers
+!|LV|Name|
+|0|Blasthole Spear|
+|3|Flashing Spear|
+|6|Jackhammer|
+|11|Spine Driver|
+|16|Blasthole Spear M2|
+|20|Blast Twin Spears|
+|22|Flashing Spear M2|
+|26|Jackhammer M2|
+|31|Spine Driver M2|
+|35|Flashing Spear M3|
+|36|Blasthole Spear M3|
+|41|Blast Twin Spears M2|
+|44|Blasthole Spear M4|
+|46|Jackhammer M3|
+|50|Spine Driver M3|
+|51|Flashing Spear M4|
+|55|Blasthole Spear M5|
+|59|Jackhammer M4|
+|63|Blast Twin Spears M3|
+|67|Blasthole Spear M6|
+|69|Spine Driver M4|
+|77|Jackhammer MA|
+|78|Blasthole Spear MS|
+|80|Blast Twin Spears M4|
+|81|Flashing Spear M5|
+|84|Spine Driver MA|
+?|104|Jackhammer MBF <font color="#f88">@DLC1</font>|
+?|106|Blast Twin Spears M5 <font color="#f88">@DLC1</font>|
+?|110|Blasthole Spear MSXE <font color="#8af">@DLC2</font>|
+!|LV|Name|
+
+**Shields
+!|LV|Name|
+|0|Deflection Shield|
+|0|Ion Mirror Shield|
+|2|Tower Shield|
+|5|Deflection Shield 2|
+|7|Ion Mirror Shield 2E|
+|13|Deflection Shield 3|
+|17|Tower Shield 2E|
+|21|Deflection Shield 4|
+|25|Ion Mirror Shield 3E|
+|27|Reflector|
+|34|Deflection Shield 5|
+|37|Tower Shield 3E|
+|39|Deflection Shield 6|
+|47|Ion Mirror Shield 4E|
+|52|Deflection Shield 7|
+|57|Tower Shield 4E|
+|60|Ion Mirror Shield 5E|
+|64|Deflection Shield MA|
+|68|Powered Reflector|
+|71|Deflection Shield MGX|
+|75|Ion Mirror Shield MG|
+|79|Master Shield|
+|85|Great Shield|
+!|LV|Name|
+
+**Autocannons
+!|LV|Name|
+|0|FG7 Hand Gatling|
+|0|Galleon Lightweight Cannon|
+|1|Dexter Automatic Shotgun|
+|5|Flame Revolver|
+|7|FG8 Hand Gatling|
+|10|Galleon Rapid Fire Cannon|
+|12|Dexter Automatic Shotgun D1|
+|17|Flame Revolver D|
+|19|UT1 Hand Gatling|
+|21|Galleon Lightweight Cannon M2|
+|23|Disruptor|
+|27|FG9 Hand Gatling|
+|32|FGS Diffusion Gatling|
+|35|Dexter Automatic Shotgun D2|
+|37|Galleon Triple Burst Cannon|
+|40|Flame Revolver DC1|
+|42|UT2 Hand Gatling|
+|45|Galleon Lightweight Cannon M3|
+|50|Dexter Automatic Shotgun G|
+|52|FG10 Hand Gatling|
+|57|Galleon 3R Burst Cannon|
+|60|Flame Revolver DC2|
+|62|Power Disruptor|
+|65|FG20 Hand Gatling|
+|68|Galleon Rapid Fire Cannon M2|
+|70|Dexter Automatic Shotgun ZA|
+|72|UT3 Hand Gatling|
+|75|Galleon Armor-Piercing Cannon|
+|76|Maximum Disruptor|
+|77|Dexter Automatic Shotgun ZG|
+|80|FGZ Hand Gatling|
+|82|Hell Flame Revolver|
+?|103|Dexter Automatic Shotgun ZGXE <font color="#f88">@DLC1</font>|
+?|108|FGZF Hand Gatling <font color="#8af">@DLC2</font>|
+!|LV|Name|
+
+**Cannons
+!|LV|Name|
+|0|NC101 Hand Cannon|
+|1|30mm Gallic Heavy Cannon|
+|2|Powerdyne|
+|6|NCS1 Cannon Shot|
+|10|30mm Gallic Heavy Cannon M2|
+|16|25mm Light Canister Cannon|
+|20|NC102 Hand Cannon|
+|28|NC103 Hand Cannon|
+|33|30mm Gallic Heavy Cannon M3|
+|40|NC104 Hand Cannon|
+|45|NCS2 Cannon Shot|
+|51|NC201 Hand Cannon|
+|58|30mm Light Canister Cannon|
+|65|NC202 Hand Cannon|
+|70|35mm Gallic Heavy Cannon|
+|75|NCSS Cannon Shot|
+|78|NC290 Hand Cannon|
+|82|35mm Battle Cannon|
+|0|FH10 Light Mortar|
+|4|YH1 Dispersal Mortar|
+|9|FHD1 Heavy Mortar|
+|12|YH2 Dispersal Mortar|
+|15|FH11 Light Mortar|
+|18|FHD2 Heavy Mortar|
+|28|FH12 Light Mortar|
+|33|FHD3 Heavy Mortar|
+|38|FH21 Light Mortar|
+|42|YH3 Dispersal Mortar|
+|53|FH22 Mortar|
+|62|FHER Explosion Mortar|
+|78|FH29 Mortar|
+|83|YH7 Dispersal Mortar|
+|87|FHEZ Super-Heavy Mortar|
+?|102|38mm Rage Cannon <font color="#f88">@DLC1</font>|
+?|101|FH29RE Mortar <font color="#f88">@DLC1</font>|
+?|111|Super-Heavy Crusher Mortar <font color="#8af">@DLC2</font>|
+!|LV|Name|
+
+**Missile Launchers
+!|LV|Name|
+|1|Arm Hound|
+|2|Blood Storm|
+|3|Leviathan|
+|8|Haytal Multi-Missile Launcher|
+|13|Arcane 6-Barrel Launcher|
+|18|FG01 High Altitude Impact Launcher|
+|22|Phoenix|
+|29|G2 Arm Hound|
+|30|Haytal Multi-Missile Launcher M2|
+|32|M2 Blood Storm|
+|34|Leviathan MA|
+|38|FG02 High Altitude Impact Launcher|
+|43|Phoenix 2|
+|47|Arcane 6-Barrel Launcher G2|
+|51|Haytal Multi-Missile Launcher MA|
+|55|G3 Arm Hound|
+|58|Wild Leviathan|
+|63|Phoenix X|
+|66|Arcane 6-Barrel Launcher GA|
+|71|FGX High Altitude Impact Launcher|
+|80|GX Arm Hound|
+|81|Haytal Multi-Missile Launcher WX|
+|84|Phoenix WX|
+|86|Arcane 6-Barrel Launcher GX|
+?|104|M3 Blood Storm <font color="#f88">@DLC1</font>|
+?|110|Rapid Hound <font color="#8af">@DLC2</font>|
+!|LV|Name|
+
+**Enhanced Boosters
+!|LV|Name|
+|2|Dash Cell 1|
+|17|Dash Cell 2|
+|40|Dash Cell 3|
+|67|Dash Cell 4|
+|77|Dash Cell 5|
+|1|Add Booster 1|
+|11|Add Booster 2|
+|27|Add Booster 3|
+|62|Add Booster 4|
+|72|Add Booster 5|
+|20|Multi-Charger 2-2|
+|35|Multi-Charger 2-3|
+|45|Multi-Charger 3-2|
+|55|Multi-Charger 3-3|
+|82|Multi-Charger 3-4|
+|87|Multi-Charger 4-3|
+?|103|Multi-Charger 4-4 <font color="#f88">@DLC1</font>|
+?|106|Dash Cell G <font color="#8af">@DLC2</font>|
+?|107|Add Booster G <font color="#8af">@DLC2</font>|
+!|LV|Name|
+
+**Enhanced Shields
+!|LV|名前|
+|0|Deflect Cell|
+|3|Shield Protection Armor|
+|6|Barricade System 1|
+|10|Deflect Cell A2|
+|22|Barricade System 2|
+|31|Shield Protection Armor B|
+|37|Deflect Cell A3|
+|42|Barricade System 3|
+|52|Shield Protection Armor F|
+|62|Deflect Cell AX|
+|78|Barricade System X|
+|81|Shield Protection Armor Y (F)|
+?|106|Deflect Cell AXE <font color="#f88">@DLC1</font>|
+!|LV|名前|
+
+**Enhanced Cannons
+!|LV|Name|
+|5|Muzzle Stabilizer|
+|12|Muzzle Stabilizer 2|
+|30|Muzzle Stabilizer 3|
+|43|Muzzle Stabilizer 4|
+|57|Muzzle Stabilizer 5|
+|76|Muzzle Stabilizer S|
+!|LV|Name|
+
+**Enhanced Exoskeleton
+!|LV|Name|
+|0|V1 Exoskeleton|
+|7|V1 Leg Exoskeleton|
+|15|V1 Arm Exoskeleton|
+|32|V2 Exoskeleton|
+|47|V2 Leg Exoskeleton|
+|53|V2 Arm Exoskeleton|
+|65|V3 Exoskeleton|
+|70|V3 Leg Exoskeleton|
+|79|V3 Arm Exoskeleton|
+|85|VZ Exoskeleton|
+?|101|Gale Exoskeleton <font color="#f88">@DLC1</font>|
+?|108|Bombardment Exoskeleton <font color="#8af">@DLC2</font>|
+!|LV|Name|

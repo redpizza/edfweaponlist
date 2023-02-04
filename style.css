@@ -49,7 +49,7 @@ footer a:hover {
 header,
 #main,
 .main {
-	width: 95%;
+	width: 100%;
 	max-width: 1200px;
 	margin: 0 auto;
 	padding: 24px;
@@ -57,7 +57,7 @@ header,
 }
 
 footer {
-	width: 95%;
+	width: 100%;
 	max-width: 1200px;
 	margin: 0 auto;
 }
@@ -76,8 +76,8 @@ text-shadow:
 /* siteCTSのcurrent.gifの再現 */
 span.current {
 font-weight: bold;
-white-space: nowrap;
 padding: 0 0.5%;
+white-space: nowrap;
 color : white;
 animation: blinkAnimeS2 1.5s infinite alternate;
 }

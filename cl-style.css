@@ -82,6 +82,7 @@
 	border-radius: .3rem;
 	text-decoration: none;
 	white-space: nowrap;
+	margin-right: 6px;
 }
 
 .cl-twi a:hover {
@@ -221,3 +222,19 @@ td.cl-uncheckable {
 	display: none;
 }
 
+
+/* localStorageの削除ボタン (redpizaによる追加) */
+.cl-clearButton {
+text-align: right;
+	color: #fff;
+	border: 1px #8b0000 solid;
+	background: #f00;
+}
+
+.cl-clearButton:hover {
+	background: linear-gradient(#f00, #8b0000);
+}
+
+.cl-clearButton:active {
+	background: #8b0000;
+}

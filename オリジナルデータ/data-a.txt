@@ -1,0 +1,380 @@
+*Air Raider
+
+**Artillery Units
+!|LV|Name|Damage|Attack Range[br][sml](Radius m)[/sml]|Reload[br][sml](pt)[/sml]|Shots|Blast Area[br][sml](Radius m)[/sml]|
+|0|Light Mortar|217.3[sml][c#999](★10)[/c][/sml]|35.0|384[sml][c#999](★10)[/c][/sml]|10|10|
+|6|Mortar|422.5[sml][c#999](★10)[/c][/sml]|35.0|340[sml][c#999](★10)[/c][/sml]|10|11|
+|10|Howitzer|545.9[sml][c#999](★10)[/c][/sml]|80.0|2768[sml][c#999](★10)[/c][/sml]|10|30|
+|12|Cannon Gun A|2999.2[sml][c#999](★10)[/c][/sml]|30.0|2076[sml][c#999](★10)[/c][/sml]|20|6|
+|15|Mortar Concentrated Fire Strategy|724.3[sml][c#999](★10)[/c][/sml]|38.0|586[sml][c#999](★10)[/c][/sml]|20|12|
+|20|Cannon Gun B|7498.0[sml][c#999](★10)[/c][/sml]|30.0|2076[sml][c#999](★10)[/c][/sml]|20|6|
+|23|B1 Mortar|1026.0[sml][c#999](★10)[/c][/sml]|35.0|266[sml][c#999](★10)[/c][/sml]|11|12|
+|32|Large Howitzer|1049.7[sml][c#999](★10)[/c][/sml]|100.0|2768[sml][c#999](★10)[/c][/sml]|10|40|
+|35|B2 Mortar|1533.0[sml][c#999](★10)[/c][/sml]|40.0|340[sml][c#999](★10)[/c][/sml]|10|11|
+|39|Cannon Gun C|14996.0[sml][c#999](★10)[/c][/sml]|40.0|2076[sml][c#999](★10)[/c][/sml]|20|12|
+|45|B3 Mortar Concentrated Fire Strategy|1991.7[sml][c#999](★10)[/c][/sml]|45.0|586[sml][c#999](★10)[/c][/sml]|20|12|
+|55|Cannon Gun D|29992.1[sml][c#999](★10)[/c][/sml]|50.0|2076[sml][c#999](★10)[/c][/sml]|20|12|
+|60|B4 Mortar|2897.1[sml][c#999](★10)[/c][/sml]|50.0|340[sml][c#999](★10)[/c][/sml]|10|11|
+|68|Enhanced Howitzer|2249.4[sml][c#999](★10)[/c][/sml]|130.0|2768[sml][c#999](★10)[/c][/sml]|10|50|
+|77|Gigantic Grenade|4198.9[sml][c#999](★10)[/c][/sml]|160.0|2768[sml][c#999](★10)[/c][/sml]|10|60|
+|80|B9 Mortar|4587.0[sml][c#999](★10)[/c][/sml]|60.0|586[sml][c#999](★10)[/c][/sml]|20|12|
+|83|Cannon Gun DZ|59984.2[sml][c#999](★10)[/c][/sml]|60.0|2076[sml][c#999](★10)[/c][/sml]|20|12|
+?|100|B10 Mortar [c#f88]@DLC1[/c]|5432.0[sml][c#999](★10)[/c][/sml]|70.0|586[sml][c#999](★10)[/c][/sml]|20|12|
+!|LV|Name|Damage|Attack Range[br][sml](Radius m)[/sml]|Reload[br][sml](pt)[/sml]|Shots|Blast Area[br][sml](Radius m)[/sml]|
+
+**Gunships
+!|LV|Name|Ammo|Rate of Fire[br][sml](Fire/sec)[/sml]|Damage|Attack Range[br][sml](Radius m)[/sml]|Range[br][sml](m)[/sml]|Shot Speed[br][sml](m/sec)[/sml]|Reload[br][sml](sec)[/sml]|Shots|Zoom|Laser[br]Sight|
+|0|150mm Single-barreled Cannon A|6[sml][c#999](★7)[/c][/sml]|1.7[sml][c#999](★8)[/c][/sml]|204.9[sml][c#999](★10)[/c][/sml]|-|459.4[sml][c#999](★10)[/c][/sml]|459.4[sml][c#999](★10)[/c][/sml]|6.2[sml][c#999](★10)[/c][/sml]|1|4.0|装備|
+|0|Autocannon A|1|-|19.8[sml][c#999](★10)[/c][/sml]|10.0|459.4[sml][c#999](★10)[/c][/sml]|459.4[sml][c#999](★10)[/c][/sml]|1.4[sml][c#999](★10)[/c][/sml]|55|4.0|装備|
+|0|105mm Rapid-fire Cannon A|1|-|131.1[sml][c#999](★10)[/c][/sml]|20.0|459.4[sml][c#999](★10)[/c][/sml]|459.4[sml][c#999](★10)[/c][/sml]|7.7[sml][c#999](★10)[/c][/sml]|15|4.0|装備|
+|2|Rocket Cannon A|2[sml][c#999](★5)[/c][/sml]|1.4[sml][c#999](★8)[/c][/sml]|163.9[sml][c#999](★10)[/c][/sml]|10|459.4[sml][c#999](★10)[/c][/sml]|459.4[sml][c#999](★10)[/c][/sml]|2.3[sml][c#999](★10)[/c][/sml]|1|4.0|装備|
+|3|150mm Single-barreled Cannon B|7[sml][c#999](★7)[/c][/sml]|1.7[sml][c#999](★8)[/c][/sml]|327.8[sml][c#999](★10)[/c][/sml]|-|459.4[sml][c#999](★10)[/c][/sml]|459.4[sml][c#999](★10)[/c][/sml]|6.2[sml][c#999](★10)[/c][/sml]|1|4.0|装備|
+|3|120 Neutralize Cannon A|7[sml][c#999](★7)[/c][/sml]|1.7[sml][c#999](★8)[/c][/sml]|49.2[sml][c#999](★10)[/c][/sml]|15.0|459.4[sml][c#999](★10)[/c][/sml]|459.4[sml][c#999](★10)[/c][/sml]|4.6[sml][c#999](★10)[/c][/sml]|10|4.0|装備|
+|4|180mm Cannon|5[sml][c#999](★7)[/c][/sml]|0.58[sml][c#999](★8)[/c][/sml]|546.3[sml][c#999](★10)[/c][/sml]|-|459.4[sml][c#999](★10)[/c][/sml]|689.1[sml][c#999](★10)[/c][/sml]|12.3[sml][c#999](★10)[/c][/sml]|1|4.0|装備|
+|5|105mm Rapid-fire Cannon B|1|-|245.8[sml][c#999](★10)[/c][/sml]|20.0|497.7[sml][c#999](★10)[/c][/sml]|746.5[sml][c#999](★10)[/c][/sml]|7.7[sml][c#999](★10)[/c][/sml]|22|4.0|装備|
+|7|Rocket Cannon B|4[sml][c#999](★8)[/c][/sml]|1.4[sml][c#999](★8)[/c][/sml]|341.4[sml][c#999](★10)[/c][/sml]|12|478.6[sml][c#999](★10)[/c][/sml]|574.3[sml][c#999](★10)[/c][/sml]|2.3[sml][c#999](★10)[/c][/sml]|1|4.0|装備|
+|10|Autocannon B|1|-|49.2[sml][c#999](★10)[/c][/sml]|10.0|497.7[sml][c#999](★10)[/c][/sml]|746.5[sml][c#999](★10)[/c][/sml]|1.5[sml][c#999](★10)[/c][/sml]|100|4.0|装備|
+|13|120 Neutralize Cannon B|9[sml][c#999](★8)[/c][/sml]|1.7[sml][c#999](★8)[/c][/sml]|65.6[sml][c#999](★10)[/c][/sml]|16.0|497.7[sml][c#999](★10)[/c][/sml]|746.5[sml][c#999](★10)[/c][/sml]|4.6[sml][c#999](★10)[/c][/sml]|11|4.0|装備|
+|15|150mm Cannon Lapis 1|14[sml][c#999](★8)[/c][/sml]|2.3[sml][c#999](★8)[/c][/sml]|491.6[sml][c#999](★10)[/c][/sml]|-|520.7[sml][c#999](★10)[/c][/sml]|918.8[sml][c#999](★10)[/c][/sml]|7.7[sml][c#999](★10)[/c][/sml]|1|4.0|装備|
+|17|Rocket Cannon C|4[sml][c#999](★8)[/c][/sml]|1.4[sml][c#999](★8)[/c][/sml]|614.6[sml][c#999](★10)[/c][/sml]|13|478.6[sml][c#999](★10)[/c][/sml]|547.3[sml][c#999](★10)[/c][/sml]|2.3[sml][c#999](★10)[/c][/sml]|1|4.0|装備|
+|19|Autocannon C|1|-|90.1[sml][c#999](★10)[/c][/sml]|10.0|536.0[sml][c#999](★10)[/c][/sml]|918.8[sml][c#999](★10)[/c][/sml]|1.3[sml][c#999](★10)[/c][/sml]|110|4.0|装備|
+|21|105mm Rapid-fire Cannon C|1|-|409.7[sml][c#999](★10)[/c][/sml]|20.0|536.0[sml][c#999](★10)[/c][/sml]|918.8[sml][c#999](★10)[/c][/sml]|7.7[sml][c#999](★10)[/c][/sml]|24|4.0|装備|
+|25|150mm Single-barreled Cannon C|7[sml][c#999](★7)[/c][/sml]|1.7[sml][c#999](★8)[/c][/sml]|983.3[sml][c#999](★10)[/c][/sml]|-|585.7[sml][c#999](★10)[/c][/sml]|1033.7[sml][c#999](★10)[/c][/sml]|6.2[sml][c#999](★10)[/c][/sml]|1|4.0|装備|
+|27|A1 Minigun|1|-|98.3[sml][c#999](★10)[/c][/sml]|13.0|585.7[sml][c#999](★10)[/c][/sml]|1033.7[sml][c#999](★10)[/c][/sml]|1.9[sml][c#999](★10)[/c][/sml]|150|4.0|装備|
+|28|120mm Neutralize Cannon C|10[sml][c#999](★8)[/c][/sml]|1.7[sml][c#999](★8)[/c][/sml]|122.9[sml][c#999](★10)[/c][/sml]|18.0|536.0[sml][c#999](★10)[/c][/sml]|804.0[sml][c#999](★10)[/c][/sml]|4.6[sml][c#999](★10)[/c][/sml]|13|4.0|装備|
+|30|105mm Consecutive Rapid-fire Cannon|1|-|491.6[sml][c#999](★10)[/c][/sml]|20.0|585.7[sml][c#999](★10)[/c][/sml]|1033.7[sml][c#999](★10)[/c][/sml]|9.6[sml][c#999](★10)[/c][/sml]|35|4.0|装備|
+|35|150mm Triple-Barreled Cannon|6[sml][c#999](★7)[/c][/sml]|0.77[sml][c#999](★8)[/c][/sml]|464.3[sml][c#999](★10)[/c][/sml]|10.0|585.7[sml][c#999](★10)[/c][/sml]|1033.7[sml][c#999](★10)[/c][/sml]|8.5[sml][c#999](★10)[/c][/sml]|3|4.0|装備|
+|38|A2 minigun|1|-|172.1[sml][c#999](★10)[/c][/sml]|13.0|765.7[sml][c#999](★10)[/c][/sml]|1148.5[sml][c#999](★10)[/c][/sml]|1.8[sml][c#999](★10)[/c][/sml]|150|4.0|装備|
+|40|Rocket Cannon D4|5[sml][c#999](★7)[/c][/sml]|1.4[sml][c#999](★8)[/c][/sml]|1311.1[sml][c#999](★10)[/c][/sml]|14|574.3[sml][c#999](★10)[/c][/sml]|574.3[sml][c#999](★10)[/c][/sml]|3.1[sml][c#999](★10)[/c][/sml]|1|4.0|装備|
+|43|105mm Rapid-fire Cannon D|1|-|737.5[sml][c#999](★10)[/c][/sml]|26.0|765.7[sml][c#999](★10)[/c][/sml]|1148.5[sml][c#999](★10)[/c][/sml]|6.9[sml][c#999](★10)[/c][/sml]|24|4.0|装備|
+|47|150mm Single-barreled Cannon Lapis 2|17[sml][c#999](★8)[/c][/sml]|3.5[sml][c#999](★8)[/c][/sml]|915.0[sml][c#999](★10)[/c][/sml]|-|765.7[sml][c#999](★10)[/c][/sml]|1148.5[sml][c#999](★10)[/c][/sml]|5.4[sml][c#999](★10)[/c][/sml]|1|4.0|装備|
+|50|105mm Consecutive Destruction Rapid-fire Cannon|1|-|655.5[sml][c#999](★10)[/c][/sml]|20.0|765.7[sml][c#999](★10)[/c][/sml]|1148.5[sml][c#999](★10)[/c][/sml]|7.7[sml][c#999](★10)[/c][/sml]|45|4.0|装備|
+|55|190mm Cannon|9[sml][c#999](★8)[/c][/sml]|0.69[sml][c#999](★8)[/c][/sml]|3414.2[sml][c#999](★10)[/c][/sml]|-|781.0[sml][c#999](★10)[/c][/sml]|1378.2[sml][c#999](★10)[/c][/sml]|12.3[sml][c#999](★10)[/c][/sml]|1|4.0|装備|
+|58|120mm Neutralize Cannon D|12[sml][c#999](★7)[/c][/sml]|2.0[sml][c#999](★8)[/c][/sml]|286.8[sml][c#999](★10)[/c][/sml]|20.0|574.3[sml][c#999](★10)[/c][/sml]|861.4[sml][c#999](★10)[/c][/sml]|4.1[sml][c#999](★10)[/c][/sml]|15|4.0|装備|
+|62|105mm Rapid-fire Cannon Y|1|-|1229.1[sml][c#999](★10)[/c][/sml]|28.0|781.0[sml][c#999](★10)[/c][/sml]|1378.2[sml][c#999](★10)[/c][/sml]|6.5[sml][c#999](★10)[/c][/sml]|25|4.0|装備|
+|64|Vulcan Cannon M1|1|-|245.8[sml][c#999](★10)[/c][/sml]|16.0|781.0[sml][c#999](★10)[/c][/sml]|1378.2[sml][c#999](★10)[/c][/sml]|1.4[sml][c#999](★10)[/c][/sml]|110|4.0|装備|
+|67|T1 Rocket Cannon|4[sml][c#999](★8)[/c][/sml]|1.4[sml][c#999](★8)[/c][/sml]|2731.4[sml][c#999](★10)[/c][/sml]|19|689.1[sml][c#999](★10)[/c][/sml]|689.1[sml][c#999](★10)[/c][/sml]|3.8[sml][c#999](★10)[/c][/sml]|1|4.0|装備|
+|70|150mm Quadruple-Barreled Cannon|6[sml][c#999](★7)[/c][/sml]|0.58[sml][c#999](★8)[/c][/sml]|1980.2[sml][c#999](★10)[/c][/sml]|15.0|781.0[sml][c#999](★10)[/c][/sml]|1378.2[sml][c#999](★10)[/c][/sml]|6.9[sml][c#999](★10)[/c][/sml]|4|4.0|装備|
+|77|120mm Neutralize Destruction Cannon|15[sml][c#999](★8)[/c][/sml]|2.3[sml][c#999](★8)[/c][/sml]|478.0[sml][c#999](★10)[/c][/sml]|25.0|689.1[sml][c#999](★10)[/c][/sml]|1033.7[sml][c#999](★10)[/c][/sml]|4.6[sml][c#999](★10)[/c][/sml]|20|4.0|装備|
+|81|Vulcan Cannon M2|1|-|327.8[sml][c#999](★10)[/c][/sml]|18.0|918.8[sml][c#999](★10)[/c][/sml]|1837.6[sml][c#999](★10)[/c][/sml]|1.9[sml][c#999](★10)[/c][/sml]|150|4.0|装備|
+|82|150mm Cannon D|10[sml][c#999](★8)[/c][/sml]|1.7[sml][c#999](★8)[/c][/sml]|3277.6[sml][c#999](★10)[/c][/sml]|-|918.8[sml][c#999](★10)[/c][/sml]|1837.6[sml][c#999](★10)[/c][/sml]|4.6[sml][c#999](★10)[/c][/sml]|1|4.0|装備|
+|84|105mm Rapid-fire Cannon Z|1|-|2458.2[sml][c#999](★10)[/c][/sml]|30.0|918.8[sml][c#999](★10)[/c][/sml]|1837.6[sml][c#999](★10)[/c][/sml]|4.6[sml][c#999](★10)[/c][/sml]|24|4.0|装備|
+|86|T2 Rocket Cannon|5[sml][c#999](★7)[/c][/sml]|1.4[sml][c#999](★8)[/c][/sml]|4779.9[sml][c#999](★10)[/c][/sml]|22|804.0[sml][c#999](★10)[/c][/sml]|804.0[sml][c#999](★10)[/c][/sml]|3.8[sml][c#999](★10)[/c][/sml]|1|4.0|装備|
+|87|150mm Cannon ν Lapis|20[sml][c#999](★8)[/c][/sml]|3.5[sml][c#999](★8)[/c][/sml]|2321.7[sml][c#999](★10)[/c][/sml]|-|918.8[sml][c#999](★10)[/c][/sml]|1837.6[sml][c#999](★10)[/c][/sml]|4.6[sml][c#999](★10)[/c][/sml]|1|4.0|装備|
+?|108|T2HS Rocket Cannon [c#8af]@DLC2[/c]|5[sml][c#999](★7)[/c][/sml]|1.4[sml][c#999](★8)[/c][/sml]|4779.9[sml][c#999](★10)[/c][/sml]|22|804.0[sml][c#999](★10)[/c][/sml]|804.0[sml][c#999](★10)[/c][/sml]|3.8[sml][c#999](★10)[/c][/sml]|1|4.0|装備|
+!|LV|Name|Ammo|Rate of Fire[br][sml](Fire/sec)[/sml]|Damage|Attack Range[br][sml](Radius m)[/sml]|Range[br][sml](m)[/sml]|Shot Speed[br][sml](m/sec)[/sml]|Reload[br][sml](sec)[/sml]|Shots|Zoom|Laser[br]Sight|
+
+**Bombers
+!|LV|Name|Damage|Attack Range[br][sml](Radius m)[/sml]|Reload[br][sml](pt)[/sml]|Shots|Blast Area[br][sml](Radius m)[/sml]|Burn Time[br][sml](sec)[/sml]|
+|0|Combat Bomber KM6|135.0[sml][c#999](★10)[/c][/sml]|8.0|431[sml][c#999](★10)[/c][/sml]|70×2|-|-|
+|1|Scout Bomber|629.8[sml][c#999](★10)[/c][/sml]|15.0|1384[sml][c#999](★10)[/c][/sml]|20×1|10|-|
+|3|Combat Bomber Kamuy|884.8[sml][c#999](★10)[/c][/sml]|15.0|923[sml][c#999](★10)[/c][/sml]|10×1|10|-|
+|6|Heavy Bomber Vesta|749.8[sml][c#999](★10)[/c][/sml]|15.0|1384[sml][c#999](★10)[/c][/sml]|10×1|6|16|
+|9|Combat Bomber KM6 Plan 3|239.9[sml][c#999](★10)[/c][/sml]|8.0|923[sml][c#999](★10)[/c][/sml]|100×3|-|-|
+|14|Heavy Bomber Phobos|1499.6[sml][c#999](★10)[/c][/sml]|15.0|1384[sml][c#999](★10)[/c][/sml]|40×1|12|-|
+|17|Combat Bomber KM6 Plan X2|412.4[sml][c#999](★10)[/c][/sml]|8.0|461[sml][c#999](★10)[/c][/sml]|100×2|-|-|
+|20|Heavy Bomber Phobos Plan 2|1349.6[sml][c#999](★10)[/c][/sml]|8.0|1384[sml][c#999](★10)[/c][/sml]|20×2|15|-|
+|21|Heavy Bomber Vesta B|824.8[sml][c#999](★10)[/c][/sml]|15.0|1845[sml][c#999](★10)[/c][/sml]|20×1|5|50|
+|23|Combat Bomber KM6 Plan W2|524.9[sml][c#999](★10)[/c][/sml]|8.0|431[sml][c#999](★10)[/c][/sml]|150×2|-|-|
+|24|Combat Bomber Kamuy B|1124.7[sml][c#999](★10)[/c][/sml]|10.0|923[sml][c#999](★10)[/c][/sml]|10×1|11|-|
+|27|Heavy Bomber Phobos Plan 3|974.7[sml][c#999](★10)[/c][/sml]|15.0|1384[sml][c#999](★10)[/c][/sml]|40×3|15|-|
+|32|Combat Bomber KM6 Plan X4|863.8[sml][c#999](★10)[/c][/sml]|8.0|923[sml][c#999](★10)[/c][/sml]|100×4|-|-|
+|33|Combat Bomber Kamuy B2M|1619.6[sml][c#999](★10)[/c][/sml]|15.0|923[sml][c#999](★10)[/c][/sml]|10×1|12|-|
+|38|High-Speed Bomber KM6F1|1027.2[sml][c#999](★10)[/c][/sml]|8.0|308[sml][c#999](★10)[/c][/sml]|100×1|-|-|
+|43|Heavy Bomber Phobos Plan 4|2062.0[sml][c#999](★10)[/c][/sml]|15.0|1384[sml][c#999](★10)[/c][/sml]|30×4|15|-|
+|46|Heavy Bomber Vesta B Plan X2|1724.5[sml][c#999](★10)[/c][/sml]|15.0|1845[sml][c#999](★10)[/c][/sml]|15×2|7|60|
+|48|Combat Bomber KM6 Plan X9|1299.7[sml][c#999](★10)[/c][/sml]|8.0|1538[sml][c#999](★10)[/c][/sml]|50×9|-|-|
+|50|High-Speed Bomber KM6F2|1349.6[sml][c#999](★10)[/c][/sml]|8.0|308[sml][c#999](★10)[/c][/sml]|150×1|-|-|
+|52|Combat Bomber Kamuy C1|3374.1[sml][c#999](★10)[/c][/sml]|10.0|923[sml][c#999](★10)[/c][/sml]|11×1|13|-|
+|56|Heavy Bomber Phobos Plan 10|2624.3[sml][c#999](★10)[/c][/sml]|15.0|2076[sml][c#999](★10)[/c][/sml]|16×10|15|-|
+|58|Heavy Bomber Phobos BX|4498.8[sml][c#999](★10)[/c][/sml]|15.0|1153[sml][c#999](★10)[/c][/sml]|40×1|15|-|
+|60|Combat Bomber KM6 Plan W3|1799.5[sml][c#999](★10)[/c][/sml]|8.0|769[sml][c#999](★10)[/c][/sml]|120×3|-|-|
+|61|Heavy Bomber Phobos Cluster Bombs|2999.2[sml][c#999](★10)[/c][/sml]|50.0|1922[sml][c#999](★10)[/c][/sml]|200×1|10|-|
+|62|High-Speed Bomber KM6F2 Plan W2|2474.3[sml][c#999](★10)[/c][/sml]|8.0|431[sml][c#999](★10)[/c][/sml]|150×2|-|-|
+|66|Heavy Bomber Vesta C Plan W2|3111.7[sml][c#999](★10)[/c][/sml]|15.0|1845[sml][c#999](★10)[/c][/sml]|16×2|10|40|
+|71|Heavy Bomber Phobos Z|5398.6[sml][c#999](★10)[/c][/sml]|15.0|1461[sml][c#999](★10)[/c][/sml]|20×1|50|-|
+|75|Combat Bomber KM6 Plan X5|2999.2[sml][c#999](★10)[/c][/sml]|8.0|923[sml][c#999](★10)[/c][/sml]|100×5|-|-|
+|77|Combat Bomber Kamuy CX|7872.9[sml][c#999](★10)[/c][/sml]|10.0|923[sml][c#999](★10)[/c][/sml]|12×1|15|-|
+|80|High-Speed Bomber KM6FX|4198.9[sml][c#999](★10)[/c][/sml]|8.0|261[sml][c#999](★10)[/c][/sml]|200×1|-|-|
+|84|Heavy Bomber Vesta DA|5098.7[sml][c#999](★10)[/c][/sml]|15.0|1845[sml][c#999](★10)[/c][/sml]|40×1|15|60|
+|86|Combat Bomber KM6 Plan Z4|4198.9[sml][c#999](★10)[/c][/sml]|8.0|615[sml][c#999](★10)[/c][/sml]|150×4|-|-|
+|88|Heavy Bomber Phobos Z Plan 4|8247.8[sml][c#999](★10)[/c][/sml]|15.0|1153[sml][c#999](★10)[/c][/sml]|20×4|20|-|
+?|102|Heavy Bomber Phobos J Cluster Bombs [c#f88]@DLC1[/c]|5998.4[sml][c#999](★10)[/c][/sml]|50.0|1922[sml][c#999](★10)[/c][/sml]|200×1|10|-|
+?|106|Combat Bomber KM6 Plan X18 [c#8af]@DLC2[/c]|5398.6[sml][c#999](★10)[/c][/sml]|4.0|3075[sml][c#999](★10)[/c][/sml]|50×18|-|-|
+?|110|Heavy Bomber Vesta E Plan X2 [c#8af]@DLC2[/c]|5998.4[sml][c#999](★10)[/c][/sml]|15.0|1845[sml][c#999](★10)[/c][/sml]|20×2|15|60|
+!|LV|Name|Damage|Attack Range[br][sml](Radius m)[/sml]|Reload[br][sml](pt)[/sml]|Shots|Blast Area[br][sml](Radius m)[/sml]|Burn Time[br][sml](sec)[/sml]|
+
+**Missiles
+!|LV|Name|Damage|Homing[br]Capability|Blast Area[br][sml](Radius m)[/sml]|Laser Range[br][sml](m)[/sml]|Reload|Shots|Zoom|
+|2|AH Cruise Missile|749.8[sml][c#999](★10)[/c][/sml]|C|20.0|900.0[sml][c#999](★10)[/c][/sml]|38.4sec[sml][c#999](★10)[/c][/sml]|4|4|
+|7|AH High-Speed Missile Group|374.9[sml][c#999](★10)[/c][/sml]|B+|10.0|900.0[sml][c#999](★10)[/c][/sml]|92.3sec[sml][c#999](★10)[/c][/sml]|20|4|
+|13|AHM Cruise Missile|2249.4[sml][c#999](★10)[/c][/sml]|C|20.0|900.0[sml][c#999](★10)[/c][/sml]|57.7sec[sml][c#999](★10)[/c][/sml]|4|4|
+|16|Lionic U20|899.8[sml][c#999](★10)[/c][/sml]|A|10.0|900.0[sml][c#999](★10)[/c][/sml]|92.3sec[sml][c#999](★10)[/c][/sml]|20|4|
+|17|Tempest A1|29992.1[sml][c#999](★10)[/c][/sml]|B|40.0|900.0[sml][c#999](★10)[/c][/sml]|3691pt[sml][c#999](★10)[/c][/sml]|1|4|
+|25|Lionic U30|1199.7[sml][c#999](★10)[/c][/sml]|A|10.0|1080.0[sml][c#999](★10)[/c][/sml]|92.3sec[sml][c#999](★10)[/c][/sml]|30|4|
+|32|Tempest A2|44988.1[sml][c#999](★10)[/c][/sml]|B|40.0|1440.0[sml][c#999](★10)[/c][/sml]|3691pt[sml][c#999](★10)[/c][/sml]|1|4|
+|37|N5 Cruise Missile|5998.4[sml][c#999](★10)[/c][/sml]|B|25.0|990.0[sml][c#999](★10)[/c][/sml]|38.4sec[sml][c#999](★10)[/c][/sml]|5|4|
+|43|Lionic UA35|2249.4[sml][c#999](★10)[/c][/sml]|A|10.0|1080.0[sml][c#999](★10)[/c][/sml]|92.3sec[sml][c#999](★10)[/c][/sml]|35|4|
+|57|N6 Cruise Missile|8997.6[sml][c#999](★10)[/c][/sml]|S|30.0|1080.0[sml][c#999](★10)[/c][/sml]|47.2sec[sml][c#999](★10)[/c][/sml]|6|4|
+|72|Tempest A3|119968.3[sml][c#999](★10)[/c][/sml]|B|50.0|1440.0[sml][c#999](★10)[/c][/sml]|3691pt[sml][c#999](★10)[/c][/sml]|1|4|
+|75|Tempest AT|239936.6[sml][c#999](★10)[/c][/sml]|B|70.0|1440.0[sml][c#999](★10)[/c][/sml]|3691pt[sml][c#999](★10)[/c][/sml]|1|4|
+|80|Lionic UA45|3599.0[sml][c#999](★10)[/c][/sml]|S|12.0|1080.0[sml][c#999](★10)[/c][/sml]|92.3sec[sml][c#999](★10)[/c][/sml]|45|4|
+|83|N6 AT Cruise Missile|11996.8[sml][c#999](★10)[/c][/sml]|S|30.0|1080.0[sml][c#999](★10)[/c][/sml]|38.4sec[sml][c#999](★10)[/c][/sml]|6|4|
+|87|Tempest ATS|479873.2[sml][c#999](★10)[/c][/sml]|B|100.0|1440.0[sml][c#999](★10)[/c][/sml]|3691pt[sml][c#999](★10)[/c][/sml]|1|4|
+?|106|Lionic UA45XE [c#f88]@DLC1[/c]|3599.0[sml][c#999](★10)[/c][/sml]|S|12.0|1080.0[sml][c#999](★10)[/c][/sml]|92.3sec[sml][c#999](★10)[/c][/sml]|45|4|
+!|LV|Name|Damage|Homing[br]Capability|Blast Area[br][sml](Radius m)[/sml]|Laser Range[br][sml](m)[/sml]|Reload|Shots|Zoom|
+
+**Satellites
+!|LV|Name|Damage|Attack Range[br][sml](Radius m)[/sml]|Laser Range[br][sml](m)[/sml]|Reload|Shots|Zoom|
+|4|Bulge Laser A|5.4[sml][c#999](★10)[/c][/sml]|3.0|720.0[sml][c#999](★10)[/c][/sml]|34.6sec[sml][c#999](★10)[/c][/sml]|600|4|
+|7|Bulge Laser B|9.7[sml][c#999](★10)[/c][/sml]|3.0|720.0[sml][c#999](★10)[/c][/sml]|34.6sec[sml][c#999](★10)[/c][/sml]|600|4|
+|8|Spritefall A|359.9[sml][c#999](★10)[/c][/sml]|35.0|1260.0[sml][c#999](★10)[/c][/sml]|923pt[sml][c#999](★10)[/c][/sml]|90|4|
+|11|Bulge Laser C|13.5[sml][c#999](★10)[/c][/sml]|3.0|720.0[sml][c#999](★10)[/c][/sml]|35.9sec[sml][c#999](★10)[/c][/sml]|600|4|
+|18|Bulge Laser D|21.7[sml][c#999](★10)[/c][/sml]|3.0|720.0[sml][c#999](★10)[/c][/sml]|38.4sec[sml][c#999](★10)[/c][/sml]|600|4|
+|22|Spritefall B|719.8[sml][c#999](★10)[/c][/sml]|35.0|1260.0[sml][c#999](★10)[/c][/sml]|923pt[sml][c#999](★10)[/c][/sml]|90|4|
+|26|Bulge Laser R1|27.0[sml][c#999](★10)[/c][/sml]|3.0|720.0[sml][c#999](★10)[/c][/sml]|42.3sec[sml][c#999](★10)[/c][/sml]|800|4|
+|30|Spritefall Shooting Mode β|2999.2[sml][c#999](★10)[/c][/sml]|9.0|1260.0[sml][c#999](★10)[/c][/sml]|77pt[sml][c#999](★10)[/c][/sml]|1|4|
+|35|Bulge Laser R2|67.5[sml][c#999](★10)[/c][/sml]|4.0|900.0[sml][c#999](★10)[/c][/sml]|46.1sec[sml][c#999](★10)[/c][/sml]|800|4|
+|40|Spritefall C|1439.6[sml][c#999](★10)[/c][/sml]|50.0|1260.0[sml][c#999](★10)[/c][/sml]|923pt[sml][c#999](★10)[/c][/sml]|90|4|
+|45|Bulge Laser Beam Mode S|108.0[sml][c#999](★10)[/c][/sml]|6.0|990.0[sml][c#999](★10)[/c][/sml]|92.3sec[sml][c#999](★10)[/c][/sml]|1600|4|
+|54|Spritefall R|1259.7[sml][c#999](★10)[/c][/sml]|50.0|1260.0[sml][c#999](★10)[/c][/sml]|1000pt[sml][c#999](★10)[/c][/sml]|120|4|
+|60|Bulge Laser Beam Mode D|202.4[sml][c#999](★10)[/c][/sml]|9.0|1080.0[sml][c#999](★10)[/c][/sml]|57.7sec[sml][c#999](★10)[/c][/sml]|700|4|
+|63|Spritefall Power Mode|2699.3[sml][c#999](★10)[/c][/sml]|70.0|1260.0[sml][c#999](★10)[/c][/sml]|1076pt[sml][c#999](★10)[/c][/sml]|80|4|
+|66|Spritefall Shooting Mode β2|5998.4[sml][c#999](★10)[/c][/sml]|15.0|1260.0[sml][c#999](★10)[/c][/sml]|77pt[sml][c#999](★10)[/c][/sml]|1|4|
+|70|Bulge Laser Beam Mode F|217.4[sml][c#999](★10)[/c][/sml]|9.0|1080.0[sml][c#999](★10)[/c][/sml]|32.0sec[sml][c#999](★10)[/c][/sml]|600|4|
+|72|Spritefall Maximum|2174.4[sml][c#999](★10)[/c][/sml]|60.0|1260.0[sml][c#999](★10)[/c][/sml]|1153pt[sml][c#999](★10)[/c][/sml]|60|4|
+|76|Spritefall Destroy|1004.7[sml][c#999](★10)[/c][/sml]|70.0|1260.0[sml][c#999](★10)[/c][/sml]|1230pt[sml][c#999](★10)[/c][/sml]|160|4|
+|83|Spritefall Shooting Mode β3|8997.6[sml][c#999](★10)[/c][/sml]|15.0|1260.0[sml][c#999](★10)[/c][/sml]|77pt[sml][c#999](★10)[/c][/sml]|1|4|
+|90|Bulge Laser Beam Mode Z|389.9[sml][c#999](★10)[/c][/sml]|9.0|1080.0[sml][c#999](★10)[/c][/sml]|30.8sec[sml][c#999](★10)[/c][/sml]|600|4|
+!|LV|Name|Damage|Attack Range[br][sml](Radius m)[/sml]|Laser Range[br][sml](m)[/sml]|Reload|Shots|Zoom|
+
+**Limpet Guns
+!|LV|Name|Number|Rate of Fire[br][sml](Shot/sec)[/sml]|Damage|Reload[br][sml](sec)[/sml]|Blast Area[br][sml](Radius m)[/sml]|Search[br]Distance[br][sml](m)[/sml]|Range[br][sml](m)[/sml]|Shot Speed[br][sml](m/sec)[/sml]|Accuracy|Laser[br]Sight|
+|0|Limpet Gun|8[sml][c#999](★10)[/c][/sml]|3.5[sml][c#999](★8)[/c][/sml]|34.0[sml][c#999](★8)[/c][/sml]|1.5[sml][c#999](★8)[/c][/sml]|4.4[sml][c#999](★7)[/c][/sml]|-|1091.5[sml][c#999](★8)[/c][/sml]|327.4[sml][c#999](★8)[/c][/sml]|S++[sml][c#999](★7)[/c][/sml]|-|
+|1|Limpet Sniper|3[sml][c#999](★8)[/c][/sml]|1.2[sml][c#999](★8)[/c][/sml]|226.5[sml][c#999](★8)[/c][/sml]|2.9[sml][c#999](★8)[/c][/sml]|1.6[sml][c#999](★7)[/c][/sml]|-|1064.2[sml][c#999](★8)[/c][/sml]|982.3[sml][c#999](★8)[/c][/sml]|S++[sml][c#999](★7)[/c][/sml]|装備|
+|2|Limpet Gun D|8[sml][c#999](★10)[/c][/sml]|3.5[sml][c#999](★8)[/c][/sml]|67.9[sml][c#999](★8)[/c][/sml]|1.5[sml][c#999](★8)[/c][/sml]|4.4[sml][c#999](★7)[/c][/sml]|-|1091.5[sml][c#999](★8)[/c][/sml]|327.4[sml][c#999](★8)[/c][/sml]|S++[sml][c#999](★7)[/c][/sml]|-|
+|3|Limpet Sniper A2|3[sml][c#999](★8)[/c][/sml]|1.2[sml][c#999](★8)[/c][/sml]|362.4[sml][c#999](★8)[/c][/sml]|2.9[sml][c#999](★8)[/c][/sml]|1.6[sml][c#999](★7)[/c][/sml]|-|1113.3[sml][c#999](★8)[/c][/sml]|982.3[sml][c#999](★8)[/c][/sml]|S++[sml][c#999](★7)[/c][/sml]|装備|
+|8|Limpet Gun M2|8[sml][c#999](★10)[/c][/sml]|3.5[sml][c#999](★8)[/c][/sml]|101.9[sml][c#999](★8)[/c][/sml]|1.5[sml][c#999](★8)[/c][/sml]|4.4[sml][c#999](★7)[/c][/sml]|-|1091.5[sml][c#999](★8)[/c][/sml]|327.4[sml][c#999](★8)[/c][/sml]|S++[sml][c#999](★7)[/c][/sml]|-|
+|12|Limpet Sniper D|3[sml][c#999](★8)[/c][/sml]|1.2[sml][c#999](★8)[/c][/sml]|611.5[sml][c#999](★8)[/c][/sml]|2.9[sml][c#999](★8)[/c][/sml]|2.2[sml][c#999](★7)[/c][/sml]|-|1300.6[sml][c#999](★8)[/c][/sml]|1200.6[sml][c#999](★8)[/c][/sml]|S++[sml][c#999](★7)[/c][/sml]|装備|
+|15|Limpet Splendor|15[sml][c#999](★10)[/c][/sml]|5.5[sml][c#999](★8)[/c][/sml]|12.5×8[sml][c#999](★8)[/c][/sml]|1.8[sml][c#999](★8)[/c][/sml]|-|-|1091.5[sml][c#999](★8)[/c][/sml]|327.4[sml][c#999](★8)[/c][/sml]|S++[sml][c#999](★7)[/c][/sml]|-|
+|22|Limpet Gun M3|9[sml][c#999](★10)[/c][/sml]|3.5[sml][c#999](★8)[/c][/sml]|186.9[sml][c#999](★8)[/c][/sml]|1.5[sml][c#999](★8)[/c][/sml]|4.9[sml][c#999](★7)[/c][/sml]|-|1091.5[sml][c#999](★8)[/c][/sml]|327.4[sml][c#999](★8)[/c][/sml]|S++[sml][c#999](★7)[/c][/sml]|-|
+|26|Splendor Shot|3[sml][c#999](★8)[/c][/sml]|1.2[sml][c#999](★8)[/c][/sml]|13.6×15×8[sml][c#999](★9)[/c][/sml]|3.7[sml][c#999](★8)[/c][/sml]|-|-|3968.2[sml][c#999](★8)[/c][/sml]|545.7[sml][c#999](★8)[/c][/sml]|C+[sml][c#999](★5)[/c][/sml]|-|
+|31|Limpet Chain Gun|36[sml][c#999](★10)[/c][/sml]|20.0[sml][c#999](★5)[/c][/sml]|51.0[sml][c#999](★8)[/c][/sml]|1.5[sml][c#999](★8)[/c][/sml]|3.8[sml][c#999](★7)[/c][/sml]|-|1091.5[sml][c#999](★8)[/c][/sml]|327.4[sml][c#999](★8)[/c][/sml]|S++[sml][c#999](★7)[/c][/sml]|-|
+|33|Limpet Sniper A3|5[sml][c#999](★10)[/c][/sml]|1.2[sml][c#999](★8)[/c][/sml]|792.7[sml][c#999](★8)[/c][/sml]|2.9[sml][c#999](★8)[/c][/sml]|2.2[sml][c#999](★7)[/c][/sml]|-|1418.9[sml][c#999](★8)[/c][/sml]|1309.7[sml][c#999](★8)[/c][/sml]|S++[sml][c#999](★7)[/c][/sml]|装備|
+|38|Limpet Detector|5[sml][c#999](★10)[/c][/sml]|1.7[sml][c#999](★8)[/c][/sml]|67.9×15×16[sml][c#999](★9)[/c][/sml]|5.9[sml][c#999](★8)[/c][/sml]|-|27.3[sml][c#999](★7)[/c][/sml]|1091.5[sml][c#999](★8)[/c][/sml]|327.4[sml][c#999](★8)[/c][/sml]|S++[sml][c#999](★7)[/c][/sml]|-|
+|43|Limpet Shot|6[sml][c#999](★9)[/c][/sml]|2.3[sml][c#999](★8)[/c][/sml]|147.2×9[sml][c#999](★9)[/c][/sml]|2.9[sml][c#999](★8)[/c][/sml]|6.0[sml][c#999](★7)[/c][/sml]|-|1455.3[sml][c#999](★8)[/c][/sml]|436.6[sml][c#999](★8)[/c][/sml]|C+[sml][c#999](★5)[/c][/sml]|-|
+|47|Buster Bomb|3[sml][c#999](★8)[/c][/sml]|2.3[sml][c#999](★8)[/c][/sml]|47.6×40[sml][c#999](★8)[/c][/sml]|2.2[sml][c#999](★8)[/c][/sml]|-|-|2182.9[sml][c#999](★8)[/c][/sml]|654.9[sml][c#999](★8)[/c][/sml]|S++[sml][c#999](★7)[/c][/sml]|-|
+|52|Limpet Splendor ME|18[sml][c#999](★10)[/c][/sml]|8.6[sml][c#999](★7)[/c][/sml]|34.0×12[sml][c#999](★8)[/c][/sml]|1.5[sml][c#999](★8)[/c][/sml]|-|-|1309.7[sml][c#999](★8)[/c][/sml]|436.6[sml][c#999](★8)[/c][/sml]|S++[sml][c#999](★7)[/c][/sml]|-|
+|55|Limpet Sniper F3|5[sml][c#999](★10)[/c][/sml]|1.7[sml][c#999](★8)[/c][/sml]|1585.4[sml][c#999](★8)[/c][/sml]|2.9[sml][c#999](★8)[/c][/sml]|2.7[sml][c#999](★7)[/c][/sml]|-|1655.4[sml][c#999](★8)[/c][/sml]|1528.0[sml][c#999](★8)[/c][/sml]|S++[sml][c#999](★7)[/c][/sml]|装備|
+|61|Limpet Detector ME|5[sml][c#999](★10)[/c][/sml]|1.2[sml][c#999](★8)[/c][/sml]|203.8×15×16[sml][c#999](★9)[/c][/sml]|5.1[sml][c#999](★8)[/c][/sml]|-|27.3[sml][c#999](★7)[/c][/sml]|1091.5[sml][c#999](★8)[/c][/sml]|327.4[sml][c#999](★8)[/c][/sml]|S++[sml][c#999](★7)[/c][/sml]|-|
+|65|Limpet Gun MA|8[sml][c#999](★10)[/c][/sml]|3.5[sml][c#999](★8)[/c][/sml]|509.6[sml][c#999](★8)[/c][/sml]|1.5[sml][c#999](★8)[/c][/sml]|7.1[sml][c#999](★7)[/c][/sml]|-|1309.7[sml][c#999](★8)[/c][/sml]|436.6[sml][c#999](★8)[/c][/sml]|S++[sml][c#999](★7)[/c][/sml]|-|
+|67|Limpet Sniper ME|3[sml][c#999](★8)[/c][/sml]|1.7[sml][c#999](★8)[/c][/sml]|3397.4[sml][c#999](★8)[/c][/sml]|2.9[sml][c#999](★8)[/c][/sml]|2.7[sml][c#999](★7)[/c][/sml]|-|1891.8[sml][c#999](★8)[/c][/sml]|1746.3[sml][c#999](★8)[/c][/sml]|S++[sml][c#999](★7)[/c][/sml]|装備|
+|78|Limpet Gun MT|12[sml][c#999](★10)[/c][/sml]|6.7[sml][c#999](★7)[/c][/sml]|849.3[sml][c#999](★8)[/c][/sml]|1.8[sml][c#999](★8)[/c][/sml]|8.7[sml][c#999](★7)[/c][/sml]|-|1455.3[sml][c#999](★8)[/c][/sml]|436.6[sml][c#999](★8)[/c][/sml]|S++[sml][c#999](★7)[/c][/sml]|-|
+|85|Limpet Splendor ZD|23[sml][c#999](★10)[/c][/sml]|10.0[sml][c#999](★7)[/c][/sml]|67.9×12[sml][c#999](★8)[/c][/sml]|1.2[sml][c#999](★8)[/c][/sml]|-|-|1091.5[sml][c#999](★8)[/c][/sml]|327.4[sml][c#999](★8)[/c][/sml]|S++[sml][c#999](★7)[/c][/sml]|-|
+|87|Limpet Sniper ZD|3[sml][c#999](★8)[/c][/sml]|1.7[sml][c#999](★8)[/c][/sml]|5096.0[sml][c#999](★8)[/c][/sml]|2.9[sml][c#999](★8)[/c][/sml]|2.7[sml][c#999](★7)[/c][/sml]|-|2364.8[sml][c#999](★8)[/c][/sml]|2182.9[sml][c#999](★8)[/c][/sml]|S++[sml][c#999](★7)[/c][/sml]|装備|
+|89|Limpet Chain Gun ZD|36[sml][c#999](★10)[/c][/sml]|20.0[sml][c#999](★5)[/c][/sml]|424.7[sml][c#999](★8)[/c][/sml]|1.1[sml][c#999](★8)[/c][/sml]|4.4[sml][c#999](★7)[/c][/sml]|-|709.4[sml][c#999](★8)[/c][/sml]|654.9[sml][c#999](★8)[/c][/sml]|S++[sml][c#999](★7)[/c][/sml]|-|
+?|107|Limpet Splendor ZAM [c#8af]@DLC2[/c]|23[sml][c#999](★10)[/c][/sml]|10.0[sml][c#999](★7)[/c][/sml]|90.6×12[sml][c#999](★8)[/c][/sml]|1.2[sml][c#999](★8)[/c][/sml]|-|-|1091.5[sml][c#999](★8)[/c][/sml]|327.4[sml][c#999](★8)[/c][/sml]|S++[sml][c#999](★7)[/c][/sml]|-|
+!|LV|Name|Number|Rate of Fire[br][sml](Shot/sec)[/sml]|Damage|Reload[br][sml](sec)[/sml]|Blast Area[br][sml](Radius m)[/sml]|Search[br]Distance[br][sml](m)[/sml]|Range[br][sml](m)[/sml]|Shot Speed[br][sml](m/sec)[/sml]|Accuracy|Laser[br]Sight|
+
+**Stationary Weapons
+!|LV|Name|Number|Damage|Reload[br][sml](sec)[/sml]|Blast Area[br][sml](Radius m)[/sml]|Rock-on[hr]Range / Targets|Rock-on Time[br][sml](sec)[/sml]|Search[br]Distance[br][sml](m)[/sml]|Loaded Ammo|Range[br][sml](m)[/sml]|Zoom|
+|0|Robot Bomb|6[sml][c#999](★8)[/c][/sml]|135.9[sml][c#999](★8)[/c][/sml]|2.7[sml][c#999](★8)[/c][/sml]|5.7[sml][c#999](★8)[/c][/sml]|200.0m / 1 Targets[sml][c#999](★5)[/c][/sml]|0.027[sml][c#999](★7)[/c][/sml]|-|-|-|-|
+|12|Assault Beetle|8[sml][c#999](★10)[/c][/sml]|453.0[sml][c#999](★8)[/c][/sml]|3.7[sml][c#999](★8)[/c][/sml]|9.1[sml][c#999](★8)[/c][/sml]|-|-|-|-|-|-|
+|18|Type B Robot Bomb|7[sml][c#999](★7)[/c][/sml]|249.1[sml][c#999](★8)[/c][/sml]|2.7[sml][c#999](★8)[/c][/sml]|6.8[sml][c#999](★8)[/c][/sml]|200.0m / 1 Targets[sml][c#999](★5)[/c][/sml]|0.027[sml][c#999](★7)[/c][/sml]|-|-|-|-|
+|28|Type C Robot Bomb|7[sml][c#999](★7)[/c][/sml]|453.0[sml][c#999](★8)[/c][/sml]|2.9[sml][c#999](★8)[/c][/sml]|9.1[sml][c#999](★8)[/c][/sml]|250.0m / 1 Targets[sml][c#999](★5)[/c][/sml]|0.027[sml][c#999](★7)[/c][/sml]|-|-|-|-|
+|38|Patroller|9[sml][c#999](★7)[/c][/sml]|20.4x20[sml][c#999](★8)[/c][/sml]|2.9[sml][c#999](★8)[/c][/sml]|-|-|-|34.0[sml][c#999](★8)[/c][/sml]|-|75.0|4|
+|42|Assault Beetle DA|12[sml][c#999](★10)[/c][/sml]|906.0[sml][c#999](★8)[/c][/sml]|3.7[sml][c#999](★8)[/c][/sml]|17.0[sml][c#999](★8)[/c][/sml]|-|-|-|-|-|-|
+|53|Robot Bomb Type D|7[sml][c#999](★7)[/c][/sml]|1698.7[sml][c#999](★8)[/c][/sml]|2.2[sml][c#999](★8)[/c][/sml]|17.0[sml][c#999](★8)[/c][/sml]|300.0m / 1 Targets[sml][c#999](★5)[/c][/sml]|0.027[sml][c#999](★7)[/c][/sml]|-|-|-|-|
+|60|Stag Beetle|40[sml][c#999](★10)[/c][/sml]|2264.9[sml][c#999](★8)[/c][/sml]|3.7[sml][c#999](★8)[/c][/sml]|13.6[sml][c#999](★8)[/c][/sml]|-|-|-|-|-|-|
+|62|Speed Star|9[sml][c#999](★7)[/c][/sml]|-|2.9[sml][c#999](★8)[/c][/sml]|-|-|-|-|-|-|4.0|
+|76|Robot Bomb DZ|7[sml][c#999](★7)[/c][/sml]|2831.1[sml][c#999](★8)[/c][/sml]|2.2[sml][c#999](★8)[/c][/sml]|19.3[sml][c#999](★8)[/c][/sml]|350.0m / 1 Targets[sml][c#999](★5)[/c][/sml]|0.027[sml][c#999](★7)[/c][/sml]|-|-|-|-|
+|82|Patroller DA|9[sml][c#999](★7)[/c][/sml]|90.6x20[sml][c#999](★8)[/c][/sml]|2.9[sml][c#999](★8)[/c][/sml]|-|-|-|56.6[sml][c#999](★8)[/c][/sml]|-|150.0|4|
+!|LV|Name|Number|Damage|Reload[br][sml](sec)[/sml]|Blast Area[br][sml](Radius m)[/sml]|Rock-on[hr]Range / Targets|Rock-on Time[br][sml](sec)[/sml]|Search[br]Distance[br][sml](m)[/sml]|Loaded Ammo|Range[br][sml](m)[/sml]|Zoom|
+|0|ZE-GUN|2[sml][c#999](★5)[/c][/sml]|11.3[sml][c#999](★8)[/c][/sml]|29.4[sml][c#999](★8)[/c][/sml]|-|-|-|100.0|100|-|-|
+|6|ZE-GUN 2A|4[sml][c#999](★9)[/c][/sml]|22.6[sml][c#999](★8)[/c][/sml]|29.4[sml][c#999](★8)[/c][/sml]|-|-|-|150.0|200|-|-|
+|11|ZER-GUN|2[sml][c#999](★5)[/c][/sml]|5.1[sml][c#999](★8)[/c][/sml]|29.4[sml][c#999](★8)[/c][/sml]|-|-|-|300.0|400|-|-|
+|19|ZE Sniper|5[sml][c#999](★8)[/c][/sml]|56.6[sml][c#999](★8)[/c][/sml]|29.4[sml][c#999](★8)[/c][/sml]|-|-|-|1200.0|20|-|-|
+|26|ZE Launcher|4[sml][c#999](★9)[/c][/sml]|226.5[sml][c#999](★8)[/c][/sml]|29.4[sml][c#999](★8)[/c][/sml]|5.7[sml][c#999](★8)[/c][/sml]|-|-|498.0|20|-|-|
+|35|FZ-GUN M2|4[sml][c#999](★8)[/c][/sml]|4.5[sml][c#999](★8)[/c][/sml]|29.4[sml][c#999](★8)[/c][/sml]|-|-|-|60.0|1600|-|-|
+|46|ZERA-GUN|2[sml][c#999](★5)[/c][/sml]|45.3[sml][c#999](★8)[/c][/sml]|29.4[sml][c#999](★8)[/c][/sml]|-|-|-|300.0|400|-|-|
+|52|FZ-GUN MD|2[sml][c#999](★5)[/c][/sml]|13.6[sml][c#999](★8)[/c][/sml]|29.4[sml][c#999](★8)[/c][/sml]|-|-|-|120.0|1600|-|-|
+|68|ZE-GUN10|12[sml][c#999](★9)[/c][/sml]|90.6[sml][c#999](★8)[/c][/sml]|29.4[sml][c#999](★8)[/c][/sml]|-|-|-|150.0|100|-|-|
+|72|ZEX Launcher|4[sml][c#999](★9)[/c][/sml]|1019.2[sml][c#999](★8)[/c][/sml]|29.4[sml][c#999](★8)[/c][/sml]|17.0[sml][c#999](★8)[/c][/sml]|-|-|600.0|40|-|-|
+|79|ZEXR-GUN|4[sml][c#999](★9)[/c][/sml]|79.3[sml][c#999](★8)[/c][/sml]|29.4[sml][c#999](★8)[/c][/sml]|-|-|-|300.0|500|-|-|
+|88|FZ-GUN MX|5[sml][c#999](★8)[/c][/sml]|27.2[sml][c#999](★8)[/c][/sml]|29.4[sml][c#999](★8)[/c][/sml]|-|-|-|90.0|1600|-|-|
+?|104|ZEX Rapid Launcher [c#f88]@DLC1[/c]|4[sml][c#999](★9)[/c][/sml]|453.0[sml][c#999](★8)[/c][/sml]|29.4[sml][c#999](★8)[/c][/sml]|13.6[sml][c#999](★8)[/c][/sml]|-|-|600.0|120|-|-|
+?|111|ZE Blaster [c#8af]@DLC2[/c]|4[sml][c#999](★9)[/c][/sml]|[PT]79.3[sml][c#999](★8)[/c][/sml]|29.4[sml][c#999](★8)[/c][/sml]|-|-|-|400.0|1300|-|-|
+!|LV|Name|Number|Damage|Reload[br][sml](sec)[/sml]|Blast Area[br][sml](Radius m)[/sml]|Rock-on[hr]Range / Targets|Rock-on Time[br][sml](sec)[/sml]|Search[br]Distance[br][sml](m)[/sml]|Loaded Ammo|Range[br][sml](m)[/sml]|Zoom|
+
+**Support Equipment
+!|LV|Name|Number|Amount[br]Healed[br][sml](HP/frame)[/sml]|Increase /[br]Reduction Rate[br][sml](%)[/sml]|Effective[br]Range[br][sml](Radius m)[/sml]|Effective[br]Time[br][sml](sec)[/sml]|Reload[br][sml](sec)[/sml]|Range[br][sml](m)[/sml]|Rock-on[br]Speed|Rock-on[br]Range|Shot Speed[br][sml](m/sec)[/sml]|Zoom|
+|1|Laser Guide Kit|-|-|-|-|-|-|845.0[sml][c#999](★10)[/c][/sml]|3.0|3.0|-|4|
+|6|High-Speed Laser Guide Kit|-|-|-|-|-|-|241.4[sml][c#999](★10)[/c][/sml]|5.0|5.0|-|4|
+|34|Laser Guided Device T2|-|-|-|-|-|-|965.7[sml][c#999](★10)[/c][/sml]|3.5|3.0|-|4|
+|57|Laser Guided Device T3|-|-|-|-|-|-|1086.4[sml][c#999](★10)[/c][/sml]|4.0|3.0|-|4|
+|81|Laser Guided Device T4|-|-|-|-|-|-|1086.4[sml][c#999](★10)[/c][/sml]|6.0|4.0|-|4|
+|2|Guide Beacon Gun|5[sml][c#999](★8)[/c][/sml]|-|-|-|-|-|573.2[sml][c#999](★10)[/c][/sml]|1.0|1.5|-|4|
+|14|Guide Beacon Gun M2|6[sml][c#999](★8)[/c][/sml]|-|-|-|-|-|716.5[sml][c#999](★10)[/c][/sml]|1.0|1.8|-|4|
+|40|High Output Beacon Gun|2[sml][c#999](★5)[/c][/sml]|-|-|-|-|-|1146.4[sml][c#999](★10)[/c][/sml]|1.5|4.0|-|4|
+|51|Guide Beacon Gun M3|8[sml][c#999](★7)[/c][/sml]|-|-|-|-|-|859.8[sml][c#999](★10)[/c][/sml]|1.3|2.0|-|4|
+|64|Power Beacon Gun|1|-|-|-|-|-|1433.0[sml][c#999](★10)[/c][/sml]|2.0|4.0|-|4|
+|77|Guide Beacon Gun MA|12[sml][c#999](★9)[/c][/sml]|-|-|-|-|-|859.8[sml][c#999](★10)[/c][/sml]|1.5|2.5|-|4|
+!|LV|Name|Number|Amount[br]Healed[br][sml](HP/frame)[/sml]|Increase /[br]Reduction Rate[br][sml](%)[/sml]|Effective[br]Range[br][sml](Radius m)[/sml]|Effective[br]Time[br][sml](sec)[/sml]|Reload[br][sml](sec)[/sml]|Range[br][sml](m)[/sml]|Rock-on[br]Speed|Rock-on[br]Range|Shot Speed[br][sml](m/sec)[/sml]|Zoom|
+|0|Life Vendor|3[sml][c#999](★5)[/c][/sml]|0.097[sml][c#999](★10)[/c][/sml]|-|12.1[sml][c#999](★10)[/c][/sml]|60|-|-|-|-|-|-|
+|0|Life Vendor M2|3[sml][c#999](★5)[/c][/sml]|0.14[sml][c#999](★10)[/c][/sml]|-|14.5[sml][c#999](★10)[/c][/sml]|60|-|-|-|-|-|-|
+|11|Life Vendor M3|3[sml][c#999](★5)[/c][/sml]|0.22[sml][c#999](★10)[/c][/sml]|-|14.5[sml][c#999](★10)[/c][/sml]|60|-|-|-|-|-|-|
+|19|Life Spout Gun|5[sml][c#999](★5)[/c][/sml]|2.1[sml][c#999](★10)[/c][/sml]|-|4.8[sml][c#999](★10)[/c][/sml]|10|-|-|-|-|679.0[sml][c#999](★8)[/c][/sml]|4|
+|27|Life Spout Gun M2|5[sml][c#999](★5)[/c][/sml]|3.1[sml][c#999](★10)[/c][/sml]|-|4.8[sml][c#999](★10)[/c][/sml]|10|-|-|-|-|679.0[sml][c#999](★8)[/c][/sml]|4|
+|36|Life Vendor MA|4[sml][c#999](★5)[/c][/sml]|0.65[sml][c#999](★10)[/c][/sml]|-|14.5[sml][c#999](★10)[/c][/sml]|60|-|-|-|-|-|-|
+|50|Life Vendor MH|5[sml][c#999](★5)[/c][/sml]|0.97[sml][c#999](★10)[/c][/sml]|-|21.7[sml][c#999](★10)[/c][/sml]|60|-|-|-|-|-|-|
+|61|Life Spout Gun M3|8[sml][c#999](★7)[/c][/sml]|9.4[sml][c#999](★10)[/c][/sml]|-|4.8[sml][c#999](★10)[/c][/sml]|10|-|-|-|-|679.0[sml][c#999](★8)[/c][/sml]|4|
+|77|Life Vendor ZD|5[sml][c#999](★5)[/c][/sml]|1.9[sml][c#999](★10)[/c][/sml]|-|30.2[sml][c#999](★10)[/c][/sml]|60|-|-|-|-|-|-|
+|79|Life Spout Gun ZM|10[sml][c#999](★7)[/c][/sml]|14.5[sml][c#999](★10)[/c][/sml]|-|4.8[sml][c#999](★10)[/c][/sml]|10|-|-|-|-|679.0[sml][c#999](★8)[/c][/sml]|4|
+|2|Power Assist Gun|3[sml][c#999](★5)[/c][/sml]|-|20.9[sml][c#999](★10)[/c][/sml]|4.8[sml][c#999](★10)[/c][/sml]|30|5.5[sml][c#999](★8)[/c][/sml]|-|-|-|679.0[sml][c#999](★8)[/c][/sml]|4|
+|10|Power Post|3[sml][c#999](★5)[/c][/sml]|-|20.9[sml][c#999](★10)[/c][/sml]|30.2[sml][c#999](★10)[/c][/sml]|60|22.1[sml][c#999](★8)[/c][/sml]|-|-|-|-|-|
+|25|Power Post M2|3[sml][c#999](★5)[/c][/sml]|-|20.9[sml][c#999](★10)[/c][/sml]|30.2[sml][c#999](★10)[/c][/sml]|90|22.1[sml][c#999](★8)[/c][/sml]|-|-|-|-|-|
+|35|Power Assist Gun M2|3[sml][c#999](★5)[/c][/sml]|-|20.9[sml][c#999](★10)[/c][/sml]|4.8[sml][c#999](★10)[/c][/sml]|45|4.3[sml][c#999](★8)[/c][/sml]|-|-|-|679.0[sml][c#999](★8)[/c][/sml]|4|
+|58|Offensive Territory|3[sml][c#999](★5)[/c][/sml]|-|20.9[sml][c#999](★10)[/c][/sml]|84.5[sml][c#999](★10)[/c][/sml]|90|22.1[sml][c#999](★8)[/c][/sml]|-|-|-|-|-|
+|66|Power Assist Gun MG|3[sml][c#999](★5)[/c][/sml]|-|52.3[sml][c#999](★10)[/c][/sml]|4.8[sml][c#999](★10)[/c][/sml]|60|2.8[sml][c#999](★8)[/c][/sml]|-|-|-|679.0[sml][c#999](★8)[/c][/sml]|4|
+|84|Power Post ZM|3[sml][c#999](★5)[/c][/sml]|-|52.3[sml][c#999](★8)[/c][/sml]|36.2[sml][c#999](★10)[/c][/sml]|90|22.1[sml][c#999](★8)[/c][/sml]|-|-|-|-|-|
+|1|Guard Post|3[sml][c#999](★5)[/c][/sml]|-|31.4[sml][c#999](★10)[/c][/sml]|30.2[sml][c#999](★10)[/c][/sml]|120|22.1[sml][c#999](★8)[/c][/sml]|-|-|-|-|-|
+|5|Guard Assist Gun|3[sml][c#999](★5)[/c][/sml]|-|52.3[sml][c#999](★10)[/c][/sml]|4.8[sml][c#999](★10)[/c][/sml]|60|5.5[sml][c#999](★8)[/c][/sml]|-|-|-|679.0[sml][c#999](★8)[/c][/sml]|4|
+|17|Guard Post M2|3[sml][c#999](★5)[/c][/sml]|-|62.7[sml][c#999](★10)[/c][/sml]|14.5[sml][c#999](★10)[/c][/sml]|120|22.1[sml][c#999](★8)[/c][/sml]|-|-|-|-|-|
+|31|Zone Protector|3[sml][c#999](★5)[/c][/sml]|-|20.9[sml][c#999](★10)[/c][/sml]|90.5[sml][c#999](★10)[/c][/sml]|120|22.1[sml][c#999](★8)[/c][/sml]|-|-|-|-|-|
+|42|Guard Assist Gun G|3[sml][c#999](★5)[/c][/sml]|-|52.3[sml][c#999](★10)[/c][/sml]|4.8[sml][c#999](★10)[/c][/sml]|90|2.8[sml][c#999](★8)[/c][/sml]|-|-|-|679.0[sml][c#999](★8)[/c][/sml]|4|
+|64|Guard Post M3|3[sml][c#999](★5)[/c][/sml]|-|52.3[sml][c#999](★10)[/c][/sml]|36.2[sml][c#999](★10)[/c][/sml]|120|22.1[sml][c#999](★8)[/c][/sml]|-|-|-|-|-|
+|75|Zone Protector ZM|3[sml][c#999](★5)[/c][/sml]|-|31.4[sml][c#999](★10)[/c][/sml]|90.5[sml][c#999](★10)[/c][/sml]|120|22.1[sml][c#999](★8)[/c][/sml]|-|-|-|-|-|
+!|LV|Name|Number|Amount[br]Healed[br][sml](HP/frame)[/sml]|Increase /[br]Reduction Rate[br][sml](%)[/sml]|Effective[br]Range[br][sml](Radius m)[/sml]|Effective[br]Time[br][sml](sec)[/sml]|Reload[br][sml](sec)[/sml]|Range[br][sml](m)[/sml]|Rock-on[br]Speed|Rock-on[br]Range|Shot Speed[br][sml](m/sec)[/sml]|Zoom|
+
+**Special
+!|LV|Name|Durability|Ammo[br]/ Number|Rate of fire[br][sml](Shot/sec)[/sml]|Damage|Effective[br]Time[br][sml](sec)[/sml]|Reload[br][sml](sec)[/sml]|Range[br][sml](m)[/sml]|Shot Speed[br][sml](m/sec)[/sml]|
+|0|Electromagnetic Bunker|450.0[sml][c#999](★10)[/c][/sml]|4[sml][c#999](★5)[/c][/sml]|-|-|-|29.4[sml][c#999](★8)[/c][/sml]|-|-|
+|8|Decoy [Green]|180.0[sml][c#999](★10)[/c][/sml]|3[sml][c#999](★5)[/c][/sml]|-|-|90|29.4[sml][c#999](★8)[/c][/sml]|-|-|
+|13|Anti-Aircraft Bunker|1500.0[sml][c#999](★10)[/c][/sml]|3[sml][c#999](★5)[/c][/sml]|-|-|-|29.4[sml][c#999](★8)[/c][/sml]|-|-|
+|21|Heavy Bunker|3600.0[sml][c#999](★10)[/c][/sml]|1|-|-|-|29.4[sml][c#999](★8)[/c][/sml]|-|-|
+|29|Decoy [Blue]|2400.0[sml][c#999](★10)[/c][/sml]|3[sml][c#999](★5)[/c][/sml]|-|-|90|29.4[sml][c#999](★8)[/c][/sml]|-|-|
+|32|Electromagnetic Bunker M2|7500.0[sml][c#999](★10)[/c][/sml]|5[sml][c#999](★5)[/c][/sml]|-|-|-|29.4[sml][c#999](★8)[/c][/sml]|-|-|
+|40|Personal Shelter|18000.0[sml][c#999](★10)[/c][/sml]|1|-|-|-|29.4[sml][c#999](★8)[/c][/sml]|-|-|
+|56|Electromagnetic Prison|36000.0[sml][c#999](★10)[/c][/sml]|3[sml][c#999](★5)[/c][/sml]|-|-|-|14.7[sml][c#999](★8)[/c][/sml]|-|-|
+|63|Decoy [Yellow]|6000.0[sml][c#999](★10)[/c][/sml]|4[sml][c#999](★5)[/c][/sml]|-|-|120|29.4[sml][c#999](★8)[/c][/sml]|-|-|
+|69|Anti-Aircraft Bunker ME|45000.0[sml][c#999](★10)[/c][/sml]|4[sml][c#999](★5)[/c][/sml]|-|-|-|29.4[sml][c#999](★8)[/c][/sml]|-|-|
+|72|Electromagnetic Bunker GH|30000.0[sml][c#999](★10)[/c][/sml]|5[sml][c#999](★5)[/c][/sml]|-|-|-|58.8[sml][c#999](★8)[/c][/sml]|-|-|
+|78|Borderline|90000.0[sml][c#999](★10)[/c][/sml]|2[sml][c#999](★5)[/c][/sml]|-|-|-|58.8[sml][c#999](★8)[/c][/sml]|-|-|
+|82|Decoy [Black]|24000.0[sml][c#999](★10)[/c][/sml]|3[sml][c#999](★5)[/c][/sml]|-|-|90|44.1[sml][c#999](★8)[/c][/sml]|-|-|
+|88|Electromagnetic Wall|150000.0[sml][c#999](★10)[/c][/sml]|1|-|-|-|58.8[sml][c#999](★8)[/c][/sml]|-|-|
+|89|Absolute Bunker|45000.0[sml][c#999](★10)[/c][/sml]|5[sml][c#999](★5)[/c][/sml]|-|-|-|44.1[sml][c#999](★8)[/c][/sml]|-|-|
+|2|Suppress Gun|-|1|-|[PT]77.0～7.7×17[sml][c#999](★8)[/c][/sml]|-|3.0[sml][c#999](★5)[/c][/sml]|18.0[sml][c#999](★5)[/c][/sml]|180.0[sml][c#999](★5)[/c][/sml]|
+|14|Suppress Gun B2|-|2|2.3[sml][c#999](★8)[/c][/sml]|[PT]101.9～10.2×17[sml][c#999](★8)[/c][/sml]|-|3.0[sml][c#999](★5)[/c][/sml]|18.0[sml][c#999](★5)[/c][/sml]|180.0[sml][c#999](★5)[/c][/sml]|
+|31|Suppress Gun GA|-|1|-|[PT]283.1～28.3×34[sml][c#999](★8)[/c][/sml]|-|4.0[sml][c#999](★5)[/c][/sml]|24.0[sml][c#999](★5)[/c][/sml]|180.0[sml][c#999](★5)[/c][/sml]|
+|60|Suppress Gun MH|-|1|-|[PT]543.6～54.4×28[sml][c#999](★8)[/c][/sml]|-|3.0[sml][c#999](★5)[/c][/sml]|30.0[sml][c#999](★5)[/c][/sml]|180.0[sml][c#999](★5)[/c][/sml]|
+|78|Suppress Gun MH2|-|2|2.3[sml][c#999](★8)[/c][/sml]|[PT]453.0～45.3×34[sml][c#999](★8)[/c][/sml]|-|3.0[sml][c#999](★5)[/c][/sml]|36.0[sml][c#999](★5)[/c][/sml]|180.0[sml][c#999](★5)[/c][/sml]|
+?|112|Absolute DZ Bunker [c#8af]@DLC2[/c]|90000.0[sml][c#999](★10)[/c][/sml]|5[sml][c#999](★5)[/c][/sml]|-|-|-|44.1[sml][c#999](★8)[/c][/sml]|-|-|
+!|LV|Name|Durability|Ammo[br]/ Number|Rate of fire[br][sml](Shot/sec)[/sml]|Damage|Effective[br]Time[br][sml](sec)[/sml]|Reload[br][sml](sec)[/sml]|Range[br][sml](m)[/sml]|Shot Speed[br][sml](m/sec)[/sml]|
+
+**Tanks
+!|LV|Name|Crew|Re-Request[br][sml](pt)[/sml]|Durability|Seat|Weapon|Ammo|Damage|Range[br][sml](m)[/sml]|Blast Area[br][sml](Radius m)[/sml]|
+|6|Blacker E1|1|3969[sml][c#999](★8)[/c][/sml]|500|-|105mm Howitzer|25|245.0|-|8.0|
+|7|Blacker A1|1|3969[sml][c#999](★8)[/c][/sml]|1000|-|90mm Smooth-Bore Gun|30|[PT]437.0|-|-|
+|12|B651 Titan|3|11026[sml][c#999](★8)[/c][/sml]|6240|Driver[hr]Gunner (L/R)|Requiem Cannon[hr]Machine Gun[hr]Howitzer[hr]Grenade Launcher|10[hr]900[hr]40[hr]48|1162.5[hr]15.5[hr]310.0[hr]186.0|-[hr]480.0[hr]-[hr]120.0|30.0[hr]-[hr]8.0[hr]-|
+|16|Blacker E2|1|3969[sml][c#999](★8)[/c][/sml]|1550|-|120mm Howitzer|25|680.0|-|11.0|
+|17|Blacker A2|1|3969[sml][c#999](★8)[/c][/sml]|1600|-|90mm Smooth-Bore Gun|30|[PT]595.0|-|-|
+|18|Melt Buster|1|3969[sml][c#999](★8)[/c][/sml]|1700|-|Melt Gun|160|27.0×8|225.0|-|
+|24|Blacker SPC|1|3969[sml][c#999](★8)[/c][/sml]|2000|-|115mm Long-Range Howitzer|25|600.0|-|11.0|
+|25|Blacker E2D|1|3969[sml][c#999](★8)[/c][/sml]|3000|-|120mm Howitzer|25|1200.0|-|11.0|
+|32|B651 Titan M2|3|11026[sml][c#999](★8)[/c][/sml]|21600|Driver[hr]Gunner (L/R)|Requiem Cannon[hr]Machine Gun[hr]Smooth-Bore Gun[hr]Missile Launcher|10[hr]900[hr]80[hr]48|3375.0[hr]45.0[hr][PT]360.0[hr]450.0|-[hr]480.0[hr]900.0[hr]240.0|30.0[hr]-[hr]-[hr]-|
+|40|Blacker A2D|1|3969[sml][c#999](★8)[/c][/sml]|6200|-|90mm Smooth-Bore Gun|30|[PT]1960.0|-|-|
+|48|Blacker E3|1|3969[sml][c#999](★8)[/c][/sml]|7000|-|130mm Howitzer|25|2800.0|-|13.0|
+|53|Blacker SPS|1|3969[sml][c#999](★8)[/c][/sml]|8500|-|125mm Long-Range Howitzer|25|2550.0|-|13.0|
+|58|Blacker A3|1|3969[sml][c#999](★8)[/c][/sml]|13100|-|90mm Smooth-Bore Gun|30|[PT]3675.0|-|-|
+|62|Blacker E3G1|1|3969[sml][c#999](★8)[/c][/sml]|11000|-|130mm Howitzer|25|4400.0|-|13.0|
+|71|Blacker E3G2|1|3969[sml][c#999](★8)[/c][/sml]|16500|-|130mm Howitzer|25|6600.0|-|13.0|
+|78|Blacker E4|1|3969[sml][c#999](★8)[/c][/sml]|23000|-|135mm Long-Range Howitzer|25|6900.0|-|15.0|
+|83|B651 Titan M3|3|11026[sml][c#999](★8)[/c][/sml]|110400|Driver[hr]Gunner (L/R)|Requiem Cannon[hr]Machine Gun[hr]Smooth-Bore Gun[hr]Missile Launcher|10[hr]900[hr]80[hr]48|17250.0[hr]230.0[hr][PT]1840.0[hr]2300.0|-[hr]480.0[hr]900.0[hr]240.0|30.0[hr]-[hr]-[hr]-|
+|86|Blacker A9|1|3969[sml][c#999](★8)[/c][/sml]|32000|-|110mm Smooth-Bore Gun|30|[PT]8750.0|-|-|
+|87|Blacker E9|1|3969[sml][c#999](★8)[/c][/sml]|25000|-|140mm Howitzer|25|10000.0|-|15.0|
+?|102|Powered Titan [c#f88]@DLC1[/c]|3|11026[sml][c#999](★8)[/c][/sml]|120000|Driver[hr]Gunner (L/R)|XE Requiem Cannon[hr]Machine Gun[hr]Melt Streamer[hr]Grenade Launcher|12[hr]900[hr]3000[hr]48|18750.0[hr]250.0[hr]100.0[hr]3000.0(8 Burst)|-[hr]480.0[hr]600.0[hr]120.0|30.0[hr]-[hr]-[hr]-|
+?|106|Blacker E10 [c#8af]@DLC2[/c]|1|3969[sml][c#999](★8)[/c][/sml]|32000|-|140mm Long-Range Howitzer|32|12800.0|-|15.0|
+!|LV|Name|Crew|Re-Request[br][sml](pt)[/sml]|Durability|Seat|Weapon|Ammo|Damage|Range[br][sml](m)[/sml]|Blast Area[br][sml](Radius m)[/sml]|
+
+**Ground Vehicles
+!|LV|Name|Crew|Re-Request[br][sml](pt)[/sml]|Durability|Seat|Weapon|Ammo[br]/ Total|Damage[br]/ Recovery|Blast Area[br][sml](Radius m)[/sml]|
+|2|Armored Vehicle Grape|4|3969[sml][c#999](★8)[/c][/sml]|715|Driver|Howitzer|240|35.2|5.0|
+|6|Caliban Support Vehicle|4|7351[sml][c#999](★8)[/c][/sml]|1950|Treatment Room|-|1200.0|0.65|-|
+|6|Naegling Self-Propelled Missile Launcher|1|5146[sml][c#999](★8)[/c][/sml]|420|Driver|Guided Missile|100|140.0|8.0|
+|8|Armored Vehicle Grape M2|4|3969[sml][c#999](★8)[/c][/sml]|943|Driver|Howitzer|240|46.4|5.0|
+|16|Armored Vehicle Grape AP1|4|3969[sml][c#999](★8)[/c][/sml]|1170|Driver|Smooth-Bore Gun|360|[PT]72.0|-|
+|18|Caliban Support Vehicle CS|4|7351[sml][c#999](★8)[/c][/sml]|2700|Treatment Room|-|3200.0|0.45|-|
+|21|Naegling Self-Propelled Missile Launcher XM|1|5146[sml][c#999](★8)[/c][/sml]|570|Driver|Convergence Guided Missile Cannon|100|76.0×4|1.0|
+|32|Armored Vehicle Grape M3|4|3969[sml][c#999](★8)[/c][/sml]|2600|Driver|Howitzer|240|128.0|5.0|
+|37|Armored Vehicle Grape RA|4|3969[sml][c#999](★8)[/c][/sml]|3120|Driver|Light Rapid-Fire Gun|800|[PT]115.2|-|
+|39|Caliban Support Vehicle M2|4|7351[sml][c#999](★8)[/c][/sml]|7200|Treatment Room|-|6000.0|2.0|-|
+|43|Naegling Self-Propelled Missile Launcher D1|1|5146[sml][c#999](★8)[/c][/sml]|1710|Driver|Guided Missile|100|570.0|8.0|
+|50|Armored Vehicle Grape AP2|4|3969[sml][c#999](★8)[/c][/sml]|4550|Driver|Smooth-Bore Gun|360|[PT]350.0|-|
+|58|Caliban Support Vehicle Turbo|4|7351[sml][c#999](★8)[/c][/sml]|13500|Treatment Room|-|12000.0|4.0|-|
+|65|Naegling Self-Propelled Missile Launcher D2|1|5146[sml][c#999](★8)[/c][/sml]|3900|Driver|Guided Missile|100|1300.0|8.0|
+|66|Armored Vehicle Grape M9|4|3969[sml][c#999](★8)[/c][/sml]|7150|Driver|Howitzer|240|618.75|8.0|
+|72|Caliban Support Vehicle M3|4|7351[sml][c#999](★8)[/c][/sml]|25500|Treatment Room|-|20000.0|7.0|-|
+|76|Caliban Support Vehicle S Turbo|4|7351[sml][c#999](★8)[/c][/sml]|33000|Treatment Room|-|40000.0|7.0|-|
+|77|Armored Vehicle Grape RZ|4|3969[sml][c#999](★8)[/c][/sml]|13650|Driver|Light Rapid-Fire Gun|800|[PT]630.0|-|
+|80|Naegling Self-Propelled Missile Launcher XEM|1|5146[sml][c#999](★8)[/c][/sml]|6600|Driver|Convergence Guided Missile Cannon|100|880.0×4|1.0|
+?|101|Caliban Support Vehicle SA Turbo [c#f88]@DLC1[/c]|4|7351[sml][c#999](★8)[/c][/sml]|45000|Treatment Room|-|50000.0|14.0|-|
+?|108|Armored Vehicle Grape SRXE [c#8af]@DLC2[/c]|4|3969[sml][c#999](★8)[/c][/sml]|15600|Driver|Rapid-Fire Gun|400|[PT]116.0×10|-|
+!|LV|Name|Crew|Re-Request[br][sml](pt)[/sml]|Durability|Seat|Weapon|Ammo[br]/ Total|Damage[br]/ Recovery|Blast Area[br][sml](Radius m)[/sml]|
+
+**Helicopters
+!|LV|Name|Crew|Re-Request[br][sml](pt)[/sml]|Durability|Fuel|Fuel Cost|Weapon|Ammo|Damage|Range[br][sml](m)[/sml]|Blast Area[br][sml](Radius m)[/sml]|
+|11|N9 Eros|1|5881[sml][c#999](★8)[/c][/sml]|780|20000.0|1.5|Autocannon (L/R)[hr]Missiles|1800[hr]20|[PT]13.0[hr]156.0|160.0[hr]-|-[hr]12.0|
+|22|N9 Eros Vulture|1|5881[sml][c#999](★8)[/c][/sml]|1620|20000.0|1.3|Vulture (L/R)[hr]Missiles|150[hr]20|270.0(5 Burst)[hr]324.0|1200.0[hr]-|-[hr]12.0|
+|37|N9 Eros Blaze|1|5881[sml][c#999](★8)[/c][/sml]|3000|20000.0|1.0|Autocannon (L/R)[hr]Twin Napalm Gun|1800[hr]60|[PT]50.0[hr]375.0(6 Burst)|160.0[hr]-|-[hr]-|
+|68|N9 Eros Vulture D|1|5881[sml][c#999](★8)[/c][/sml]|8400|30000.0|1.2|Vulture (L/R)[hr]Missiles|150[hr]20|1400.0(5 Burst)[hr]1680.0|1200.0[hr]-|-[hr]12.0|
+|79|N9 Eros Vulture ZA|1|5881[sml][c#999](★8)[/c][/sml]|13200|30000.0|1.2|Vulture (L/R)[hr]Twin Napalm Gun|150[hr]60|2200.0(5 Burst)[hr]1650.0(6 Burst)|1200.0[hr]-|-[hr]-|
+|85|N9 Eros Σ|1|5881[sml][c#999](★8)[/c][/sml]|15000|30000.0|1.0|Autocannon (L/R)[hr]Missiles|1800[hr]20|[PT]250.0[hr]3000.0|160.0[hr]-|-[hr]12.0|
+?|107|N9 Eros Vulture ZAM [c#8af]@DLC2[/c]|1|5881[sml][c#999](★8)[/c][/sml]|15000|30000.0|1.2|Vulture (L/R)[hr]Twin Napalm Gun|150[hr]60|2500.0(5 Burst)[hr]1875.0(6 Burst)|1200.0[hr]-|-[hr]-|
+!|LV|Name|Crew|Re-Request[br][sml](pt)[/sml]|Durability|Fuel|Fuel Cost|Weapon|Ammo|Damage|Range[br][sml](m)[/sml]|Blast Area[br][sml](Radius m)[/sml]|
+
+**Powered Exoskeletons
+!|LV|Name|Crew|Re-Request[br][sml](pt)[/sml]|Durability|Weapon|Ammo|Damage|Range[br][sml](m)[/sml]|Blast Area[br][sml](Radius m)[/sml]|
+|2|Powered Exoskeleton Nix A|1|5146[sml][c#999](★8)[/c][/sml]|960|Machine Gun[hr]Rocket Cannon (R)|1250[hr]20|14.4～2.4[hr]120.0|240.0[hr]-|-[hr]5.0|
+|5|Nix Grenadier|1|5146[sml][c#999](★8)[/c][/sml]|1380|Large Grenade Launcher (R)[hr]Explosion (R)|40[hr]10|112.0[hr][PT]126.0×20|-[hr]-|12.0[hr]8.0|
+|7|Powered Exoskeleton Nix A2|1|5146[sml][c#999](★8)[/c][/sml]|1440|Machine Gun[hr]Rocket Cannon (R)|1250[hr]20|17.4～2.4[hr]145.0|240.0[hr]-|-[hr]5.0|
+|10|Nix Red Coat|1|5146[sml][c#999](★8)[/c][/sml]|1560|Combat Burner[hr]Machine Gun[hr]Canister Shot (L/R)|3000[hr]1250[hr]20|3.88[hr]18.6～2.4[hr][PT]38.75×10|84.0[hr]240.0[hr]-|-[hr]-[hr]-|
+|16|Powered Exoskeleton Nix B|1|5146[sml][c#999](★8)[/c][/sml]|1860|Revolver Cannon (L/R)[hr]Missile Pod (L/R)|600[hr]40|28.8[hr]96.0|320.0[hr]-|-[hr]8.0|
+|20|Nix Battle Cannon|1|5146[sml][c#999](★8)[/c][/sml]|2220|Heavy Revolver Cannon (L/R)[hr]Shoulder Howitzer (L/R)|72[hr]10|[PT]190(3 Burst)[hr]760.0|720.0[hr]-|-[hr]20.0|
+|27|Powered Exoskeleton Nix C1|1|5146[sml][c#999](★8)[/c][/sml]|3960|Revolver Cannon (R)[hr]Rocket Cannon (R)[hr]Missile Pod (R)|600[hr]20[hr]40|79.2[hr]330.0[hr]264.0|320.0[hr]-[hr]-|-[hr]5.0[hr]8.0|
+|35|Nix Missile Gun|1|5146[sml][c#999](★8)[/c][/sml]|7440|Revolver Cannon (L/R)[hr]Missile Pod (L/R)|600[hr]40|103.2[hr]344.0|320.0[hr]-|-[hr]8.0|
+|40|Powered Exoskeleton Nix C2|1|5146[sml][c#999](★8)[/c][/sml]|10320|Revolver Cannon (R)[hr]Rocket Cannon (R)[hr]Missile Pod (R)|600[hr]20[hr]40|127.2[hr]530.0[hr]424.0|320.0[hr]-[hr]-|-[hr]5.0[hr]8.0|
+|43|Nix Grenadier M2|1|5146[sml][c#999](★8)[/c][/sml]|12360|Machine Gun[hr]Large Grenade Launcher (R)[hr]Explosion (L/R)|1250[hr]40[hr]10|63.6～2.4[hr]424.0[hr][PT]477.0×20|240.0[hr]-[hr]-|-[hr]12.0[hr]8.0|
+|45|Nix Red Shadow|1|5146[sml][c#999](★8)[/c][/sml]|13200|Combat Burner (L/R)[hr]Canister Shot (L/R)|3000[hr]20|15.0[hr][PT]150.0×10|84.0[hr]-|-[hr]-|
+|52|Nix Buster Cannon|1|5146[sml][c#999](★8)[/c][/sml]|20160|Revolver Rocket Cannon (L/R)[hr]Diffusion Howitzer (L/R)|80[hr]12|800.0(6 Burst)[hr]400.0×15|-[hr]-|8.0[hr]15.0|
+|57|Powered Exoskeleton Nix C3|1|5146[sml][c#999](★8)[/c][/sml]|27600|Combat Burner (R)[hr]Revolver Cannon (R)[hr]Shoulder Howitzer (R)[hr]Missile Pod (R)|3000[hr]600[hr]10[hr]40|25.0[hr]240.0[hr]4000.0[hr]800.0|84.0[hr]320.0[hr]-[hr]-|-[hr]-[hr]20.0[hr]8.0|
+|63|Nix Revolver Custom|1|5146[sml][c#999](★8)[/c][/sml]|36360|Revolver CannonRS (L/R)[hr]Missile Pod (L/R)|600[hr]40|288.0[hr]960.0|322.0[hr]-|-[hr]8.0|
+|68|Nix Red Armor|1|5146[sml][c#999](★8)[/c][/sml]|38400|Combat Burner (R)[hr]Machine Gun (R)[hr]Canister Shot (L/R)|3000[hr]1250[hr]20|37.5[hr]180.0～2.4[hr][PT]375.0×10|84.0[hr]240.0[hr]-|-[hr]-[hr]-|
+|75|Nix Destroy Cannon|1|5146[sml][c#999](★8)[/c][/sml]|75600|Revolver Rocket Cannon (L/R)[hr]Diffusion Howitzer (L/R)|80[hr]12|2100.0(6 Burst)[hr]1050.0×15|-[hr]-|8.0[hr]15.0|
+|80|Nix Red Guard|1|5146[sml][c#999](★8)[/c][/sml]|76800|Combat Burner (L/R)[hr]Canister Shot (L/R)|3000[hr]20|62.5[hr][PT]625.0×10|84.0[hr]-|-[hr]-|
+|83|Nix Grenadier EZ|1|5146[sml][c#999](★8)[/c][/sml]|99600|Large Grenade Launcher (L/R)[hr]Explosion (L/R)|40[hr]10|2000.0[hr][PT]2250.0×20|-[hr]-|12.0[hr]8.0|
+|87|Powered Exoskeleton Nix ZC|1|5146[sml][c#999](★8)[/c][/sml]|104400|Revolver Cannon (R)[hr]Combat Burner (R)[hr]Shoulder HowitzerS (R)[hr]Missile Pod (R)|600[hr]3000[hr]10[hr]40|600.0[hr]62.5[hr]10000.0[hr]2000.0|320.0[hr]84.0[hr]-[hr]-|-[hr]-[hr]20.0[hr]8.0|
+?|104|Nix Saber [c#f88]@DLC1[/c]|1|7351[sml][c#999](★8)[/c][/sml]|78000|Power Saber (L/R)[hr]Power Dyne MC (L/R)|6000[hr]8|[PT]200.0(300 Burst)[hr][PT]17500|75.0[hr]-|-[hr]-|
+?|112|Nix Assault [c#8af]@DLC2[/c]|1|7351[sml][c#999](★8)[/c][/sml]|90000|Machine Gun (L/R)[hr]Explosion (R)|1250[hr]10|300～2.4[hr][PT]2250.0×20|240.0[hr]-|-[hr]8.0|
+!|LV|Name|Crew|Re-Request[br][sml](pt)[/sml]|Durability|Weapon|Ammo|Damage|Range[br][sml](m)[/sml]|Blast Area[br][sml](Radius m)[/sml]|
+
+**Special Weapons
+!|LV|Name|Crew|Re-Request[br][sml](pt)[/sml]|Durability|Seat|Weapon|Ammo|Damage|Range[br][sml](m)[/sml]|Blast Area[br][sml](Radius m)[/sml]|
+|1|Depth Crawler I|1|2940[sml][c#999](★8)[/c][/sml]|1000|Driver|FK200 Gatling Gun[hr]Compact Cannon (L/R)|1600[hr]120|10.0[hr][PT]40.0|120.0[hr]240.0|-[hr]-|
+|11|Depth Crawler Flame|1|2940[sml][c#999](★8)[/c][/sml]|1200|Driver|FK200 Gatling Gun[hr]Incinerator (L/R)|1600[hr]900|13.0[hr]1.04|120.0[hr]42.0|-[hr]-|
+|19|Depth Crawler II|1|2940[sml][c#999](★8)[/c][/sml]|1850|Driver|FK200 Gatling Gun[hr]Sniper Cannon (R)[hr]Heavy Shotgun (R)|1600[hr]25[hr]45|18.5[hr][PT]222.0[hr]7.4×40|120.0[hr]720.0[hr]360.0|-[hr]-[hr]-|
+|31|Depth Crawler Heavy Custom|1|2940[sml][c#999](★8)[/c][/sml]|3700|Driver|FK200 Gatling Gun[hr]Burst Cannon (L/R)|1600[hr]120|37.0[hr][PT]111.0(3 Burst)|120.0[hr]240.0|-[hr]-|
+|46|Depth Crawler III|1|2940[sml][c#999](★8)[/c][/sml]|5000|Driver|FK200 Gatling Gun[hr]Rapid Bazooka (L/R)|1600[hr]320|50.0[hr]50.0|120.0[hr]-|-[hr]4.0|
+|52|Depth Crawler S Range Custom|1|2940[sml][c#999](★8)[/c][/sml]|8000|Driver|FK200 Gatling Gun[hr]Incinerator (R)[hr]Heavy Shotgun (R)|1600[hr]900[hr]45|80.0[hr]6.4[hr]32.0×40|120.0[hr]42.0[hr]360.0|-[hr]-[hr]-|
+|67|Depth Crawler L Range Custom|1|2940[sml][c#999](★8)[/c][/sml]|14000|Driver|FK200 Gatling Gun[hr]Sniper Cannon (L/R)|1600[hr]25|140.0[hr][PT]1680.0|120.0[hr]720.0|-[hr]-|
+|77|Depth Crawler IV|1|2940[sml][c#999](★8)[/c][/sml]|15000|Driver|FK200 Gatling Gun[hr]Burst Cannon (L/R)|1600[hr]120|250.0[hr][PT]750.0(3 Burst)|120.0[hr]240.0|-[hr]-|
+|85|Depth Crawler IV Custom|1|2940[sml][c#999](★8)[/c][/sml]|15000|Driver|FK200 Gatling Gun[hr]Rapid Bazooka (L/R)|1600[hr]320|250.0[hr]250.0|120.0[hr]-|-[hr]4.0|
+|28|BMX10 Proteus|3|13232[sml][c#999](★8)[/c][/sml]|24750|Gunner (1-2)[hr]Gunner (3)|Buster Cannon[hr]Missile|200[hr]200|396.0[hr]165.0|-[hr]-|10.0[hr]5.0|
+|46|Gigantic Unloader Barga|1|11761[sml][c#999](★8)[/c][/sml]|125000|-|-|-|-|-|-|
+|53|BMX10 Proteus Burst|3|13232[sml][c#999](★8)[/c][/sml]|60000|Gunner (1-2)[hr]Gunner (3)|Buster Cannon[hr]Missile|200[hr]200|960.0[hr]400.0|-[hr]-|10.0[hr]5.0|
+|66|Gigantic Unloader Barga Type G|1|11761[sml][c#999](★8)[/c][/sml]|225000|-|-|-|-|-|-|
+|80|BMX10 Proteus Gamma|3|13232[sml][c#999](★8)[/c][/sml]|165000|Gunner (1-2)[hr]Gunner (3)|Buster Cannon[hr]Missile|200[hr]200|2640.0[hr]1100.0|-[hr]-|10.0[hr]5.0|
+|87|War Barga|1|11761[sml][c#999](★8)[/c][/sml]|625000|-|-|-|-|-|-|
+?|103|Depth Crawler V [c#f88]@DLC1[/c]|1|2940[sml][c#999](★8)[/c][/sml]|20000|Driver|FK200 Gatling Gun[hr]Rapid Bazooka (L/R)|1600[hr]320|280.0[hr]280.0|120.0[hr]-|-[hr]4.0|
+?|110|Strike Barga [c#8af]@DLC2[/c]|1|11761[sml][c#999](★8)[/c][/sml]|1250000|-|-|-|-|-|-|
+!|LV|Name|Crew|Re-Request[br][sml](pt)[/sml]|Durability|Seat|Weapon|Ammo|Damage|Range[br][sml](m)[/sml]|Blast Area[br][sml](Radius m)[/sml]|
+

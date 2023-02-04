@@ -1,0 +1,379 @@
+*Air Raider
+
+**Artillery Units
+!|LV|Name|
+|0|Light Mortar|
+|6|Mortar|
+|10|Howitzer|
+|12|Cannon Gun A|
+|15|Mortar Concentrated Fire Strategy|
+|20|Cannon Gun B|
+|23|B1 Mortar|
+|32|Large Howitzer|
+|35|B2 Mortar|
+|39|Cannon Gun C|
+|45|B3 Mortar Concentrated Fire Strategy|
+|55|Cannon Gun D|
+|60|B4 Mortar|
+|68|Enhanced Howitzer|
+|77|Gigantic Grenade|
+|80|B9 Mortar|
+|83|Cannon Gun DZ|
+?|100|B10 Mortar <font color="#f88">@DLC1</font>|
+!|LV|Name|
+
+**Gunships
+!|LV|Name|
+|0|150mm Single-barreled Cannon A|
+|0|Autocannon A|
+|0|105mm Rapid-fire Cannon A|
+|2|Rocket Cannon A|
+|3|150mm Single-barreled Cannon B|
+|3|120 Neutralize Cannon A|
+|4|180mm Cannon|
+|5|105mm Rapid-fire Cannon B|
+|7|Rocket Cannon B|
+|10|Autocannon B|
+|13|120 Neutralize Cannon B|
+|15|150mm Cannon Lapis 1|
+|17|Rocket Cannon C|
+|19|Autocannon C|
+|21|105mm Rapid-fire Cannon C|
+|25|150mm Single-barreled Cannon C|
+|27|A1 Minigun|
+|28|120mm Neutralize Cannon C|
+|30|105mm Consecutive Rapid-fire Cannon|
+|35|150mm Triple-Barreled Cannon|
+|38|A2 minigun|
+|40|Rocket Cannon D4|
+|43|105mm Rapid-fire Cannon D|
+|47|150mm Single-barreled Cannon Lapis 2|
+|50|105mm Consecutive Destruction Rapid-fire Cannon|
+|55|190mm Cannon|
+|58|120mm Neutralize Cannon D|
+|62|105mm Rapid-fire Cannon Y|
+|64|Vulcan Cannon M1|
+|67|T1 Rocket Cannon|
+|70|150mm Quadruple-Barreled Cannon|
+|77|120mm Neutralize Destruction Cannon|
+|81|Vulcan Cannon M2|
+|82|150mm Cannon D|
+|84|105mm Rapid-fire Cannon Z|
+|86|T2 Rocket Cannon|
+|87|150mm Cannon ν Lapis|
+?|108|T2HS Rocket Cannon <font color="#8af">@DLC2</font>|
+!|LV|Name|
+
+**Bombers
+!|LV|Name|
+|0|Combat Bomber KM6|
+|1|Scout Bomber|
+|3|Combat Bomber Kamuy|
+|6|Heavy Bomber Vesta|
+|9|Combat Bomber KM6 Plan 3|
+|14|Heavy Bomber Phobos|
+|17|Combat Bomber KM6 Plan X2|
+|20|Heavy Bomber Phobos Plan 2|
+|21|Heavy Bomber Vesta B|
+|23|Combat Bomber KM6 Plan W2|
+|24|Combat Bomber Kamuy B|
+|27|Heavy Bomber Phobos Plan 3|
+|32|Combat Bomber KM6 Plan X4|
+|33|Combat Bomber Kamuy B2M|
+|38|High-Speed Bomber KM6F1|
+|43|Heavy Bomber Phobos Plan 4|
+|46|Heavy Bomber Vesta B Plan X2|
+|48|Combat Bomber KM6 Plan X9|
+|50|High-Speed Bomber KM6F2|
+|52|Combat Bomber Kamuy C1|
+|56|Heavy Bomber Phobos Plan 10|
+|58|Heavy Bomber Phobos BX|
+|60|Combat Bomber KM6 Plan W3|
+|61|Heavy Bomber Phobos Cluster Bombs|
+|62|High-Speed Bomber KM6F2 Plan W2|
+|66|Heavy Bomber Vesta C Plan W2|
+|71|Heavy Bomber Phobos Z|
+|75|Combat Bomber KM6 Plan X5|
+|77|Combat Bomber Kamuy CX|
+|80|High-Speed Bomber KM6FX|
+|84|Heavy Bomber Vesta DA|
+|86|Combat Bomber KM6 Plan Z4|
+|88|Heavy Bomber Phobos Z Plan 4|
+?|102|Heavy Bomber Phobos J Cluster Bombs <font color="#f88">@DLC1</font>|
+?|106|Combat Bomber KM6 Plan X18 <font color="#8af">@DLC2</font>|
+?|110|Heavy Bomber Vesta E Plan X2 <font color="#8af">@DLC2</font>|
+!|LV|Name|
+
+**Missiles
+!|LV|Name|
+|2|AH Cruise Missile|
+|7|AH High-Speed Missile Group|
+|13|AHM Cruise Missile|
+|16|Lionic U20|
+|17|Tempest A1|
+|25|Lionic U30|
+|32|Tempest A2|
+|37|N5 Cruise Missile|
+|43|Lionic UA35|
+|57|N6 Cruise Missile|
+|72|Tempest A3|
+|75|Tempest AT|
+|80|Lionic UA45|
+|83|N6 AT Cruise Missile|
+|87|Tempest ATS|
+?|106|Lionic UA45XE <font color="#f88">@DLC1</font>|
+!|LV|Name|
+
+**Satellites
+!|LV|Name|
+|4|Bulge Laser A|
+|7|Bulge Laser B|
+|8|Spritefall A|
+|11|Bulge Laser C|
+|18|Bulge Laser D|
+|22|Spritefall B|
+|26|Bulge Laser R1|
+|30|Spritefall Shooting Mode β|
+|35|Bulge Laser R2|
+|40|Spritefall C|
+|45|Bulge Laser Beam Mode S|
+|54|Spritefall R|
+|60|Bulge Laser Beam Mode D|
+|63|Spritefall Power Mode|
+|66|Spritefall Shooting Mode β2|
+|70|Bulge Laser Beam Mode F|
+|72|Spritefall Maximum|
+|76|Spritefall Destroy|
+|83|Spritefall Shooting Mode β3|
+|90|Bulge Laser Beam Mode Z|
+!|LV|Name|
+
+**Limpet Guns
+!|LV|Name|
+|0|Limpet Gun|
+|1|Limpet Sniper|
+|2|Limpet Gun D|
+|3|Limpet Sniper A2|
+|8|Limpet Gun M2|
+|12|Limpet Sniper D|
+|15|Limpet Splendor|
+|22|Limpet Gun M3|
+|26|Splendor Shot|
+|31|Limpet Chain Gun|
+|33|Limpet Sniper A3|
+|38|Limpet Detector|
+|43|Limpet Shot|
+|47|Buster Bomb|
+|52|Limpet Splendor ME|
+|55|Limpet Sniper F3|
+|61|Limpet Detector ME|
+|65|Limpet Gun MA|
+|67|Limpet Sniper ME|
+|78|Limpet Gun MT|
+|85|Limpet Splendor ZD|
+|87|Limpet Sniper ZD|
+|89|Limpet Chain Gun ZD|
+?|107|Limpet Splendor ZAM <font color="#8af">@DLC2</font>|
+!|LV|Name|
+
+**Stationary Weapons
+!|LV|Name|
+|0|Robot Bomb|
+|12|Assault Beetle|
+|18|Type B Robot Bomb|
+|28|Type C Robot Bomb|
+|38|Patroller|
+|42|Assault Beetle DA|
+|53|Robot Bomb Type D|
+|60|Stag Beetle|
+|62|Speed Star|
+|76|Robot Bomb DZ|
+|82|Patroller DA|
+!|LV|Name|
+|0|ZE-GUN|
+|6|ZE-GUN 2A|
+|11|ZER-GUN|
+|19|ZE Sniper|
+|26|ZE Launcher|
+|35|FZ-GUN M2|
+|46|ZERA-GUN|
+|52|FZ-GUN MD|
+|68|ZE-GUN10|
+|72|ZEX Launcher|
+|79|ZEXR-GUN|
+|88|FZ-GUN MX|
+?|104|ZEX Rapid Launcher <font color="#f88">@DLC1</font>|
+?|111|ZE Blaster <font color="#8af">@DLC2</font>|
+!|LV|Name|
+
+**Support Equipment
+!|LV|Name|
+|1|Laser Guide Kit|
+|6|High-Speed Laser Guide Kit|
+|34|Laser Guided Device T2|
+|57|Laser Guided Device T3|
+|81|Laser Guided Device T4|
+|2|Guide Beacon Gun|
+|14|Guide Beacon Gun M2|
+|40|High Output Beacon Gun|
+|51|Guide Beacon Gun M3|
+|64|Power Beacon Gun|
+|77|Guide Beacon Gun MA|
+!|LV|Name|
+|0|Life Vendor|
+|0|Life Vendor M2|
+|11|Life Vendor M3|
+|19|Life Spout Gun|
+|27|Life Spout Gun M2|
+|36|Life Vendor MA|
+|50|Life Vendor MH|
+|61|Life Spout Gun M3|
+|77|Life Vendor ZD|
+|79|Life Spout Gun ZM|
+|2|Power Assist Gun|
+|10|Power Post|
+|25|Power Post M2|
+|35|Power Assist Gun M2|
+|58|Offensive Territory|
+|66|Power Assist Gun MG|
+|84|Power Post ZM|
+|1|Guard Post|
+|5|Guard Assist Gun|
+|17|Guard Post M2|
+|31|Zone Protector|
+|42|Guard Assist Gun G|
+|64|Guard Post M3|
+|75|Zone Protector ZM|
+!|LV|Name|
+
+**Special
+!|LV|Name|
+|0|Electromagnetic Bunker|
+|8|Decoy [Green]|
+|13|Anti-Aircraft Bunker|
+|21|Heavy Bunker|
+|29|Decoy [Blue]|
+|32|Electromagnetic Bunker M2|
+|40|Personal Shelter|
+|56|Electromagnetic Prison|
+|63|Decoy [Yellow]|
+|69|Anti-Aircraft Bunker ME|
+|72|Electromagnetic Bunker GH|
+|78|Borderline|
+|82|Decoy [Black]|
+|88|Electromagnetic Wall|
+|89|Absolute Bunker|
+|2|Suppress Gun|
+|14|Suppress Gun B2|
+|31|Suppress Gun GA|
+|60|Suppress Gun MH|
+|78|Suppress Gun MH2|
+?|112|Absolute DZ Bunker <font color="#8af">@DLC2</font>|
+!|LV|Name|
+
+**Tanks
+!|LV|Name|
+|6|Blacker E1|
+|7|Blacker A1|
+|12|B651 Titan|
+|16|Blacker E2|
+|17|Blacker A2|
+|18|Melt Buster|
+|24|Blacker SPC|
+|25|Blacker E2D|
+|32|B651 Titan M2|
+|40|Blacker A2D|
+|48|Blacker E3|
+|53|Blacker SPS|
+|58|Blacker A3|
+|62|Blacker E3G1|
+|71|Blacker E3G2|
+|78|Blacker E4|
+|83|B651 Titan M3|
+|86|Blacker A9|
+|87|Blacker E9|
+?|102|Powered Titan <font color="#f88">@DLC1</font>|
+?|106|Blacker E10 <font color="#8af">@DLC2</font>|
+!|LV|Name|
+
+**Ground Vehicles
+!|LV|Name|
+|2|Armored Vehicle Grape|
+|6|Caliban Support Vehicle|
+|6|Naegling Self-Propelled Missile Launcher|
+|8|Armored Vehicle Grape M2|
+|16|Armored Vehicle Grape AP1|
+|18|Caliban Support Vehicle CS|
+|21|Naegling Self-Propelled Missile Launcher XM|
+|32|Armored Vehicle Grape M3|
+|37|Armored Vehicle Grape RA|
+|39|Caliban Support Vehicle M2|
+|43|Naegling Self-Propelled Missile Launcher D1|
+|50|Armored Vehicle Grape AP2|
+|58|Caliban Support Vehicle Turbo|
+|65|Naegling Self-Propelled Missile Launcher D2|
+|66|Armored Vehicle Grape M9|
+|72|Caliban Support Vehicle M3|
+|76|Caliban Support Vehicle S Turbo|
+|77|Armored Vehicle Grape RZ|
+|80|Naegling Self-Propelled Missile Launcher XEM|
+?|101|Caliban Support Vehicle SA Turbo <font color="#f88">@DLC1</font>|
+?|108|Armored Vehicle Grape SRXE <font color="#8af">@DLC2</font>|
+!|LV|Name|
+
+**Helicopters
+!|LV|Name|
+|11|N9 Eros|
+|22|N9 Eros Vulture|
+|37|N9 Eros Blaze|
+|68|N9 Eros Vulture D|
+|79|N9 Eros Vulture ZA|
+|85|N9 Eros Σ|
+?|107|N9 Eros Vulture ZAM <font color="#8af">@DLC2</font>|
+!|LV|Name|
+
+**Powered Exoskeletons
+!|LV|Name|
+|2|Powered Exoskeleton Nix A|
+|5|Nix Grenadier|
+|7|Powered Exoskeleton Nix A2|
+|10|Nix Red Coat|
+|16|Powered Exoskeleton Nix B|
+|20|Nix Battle Cannon|
+|27|Powered Exoskeleton Nix C1|
+|35|Nix Missile Gun|
+|40|Powered Exoskeleton Nix C2|
+|43|Nix Grenadier M2|
+|45|Nix Red Shadow|
+|52|Nix Buster Cannon|
+|57|Powered Exoskeleton Nix C3|
+|63|Nix Revolver Custom|
+|68|Nix Red Armor|
+|75|Nix Destroy Cannon|
+|80|Nix Red Guard|
+|83|Nix Grenadier EZ|
+|87|Powered Exoskeleton Nix ZC|
+?|104|Nix Saber <font color="#f88">@DLC1</font>|
+?|112|Nix Assault <font color="#8af">@DLC2</font>|
+!|LV|Name|
+
+**Special Weapons
+!|LV|Name|
+|1|Depth Crawler I|
+|11|Depth Crawler Flame|
+|19|Depth Crawler II|
+|31|Depth Crawler Heavy Custom|
+|46|Depth Crawler III|
+|52|Depth Crawler S Range Custom|
+|67|Depth Crawler L Range Custom|
+|77|Depth Crawler IV|
+|85|Depth Crawler IV Custom|
+|28|BMX10 Proteus|
+|46|Gigantic Unloader Barga|
+|53|BMX10 Proteus Burst|
+|66|Gigantic Unloader Barga Type G|
+|80|BMX10 Proteus Gamma|
+|87|War Barga|
+?|103|Depth Crawler V <font color="#f88">@DLC1</font>|
+?|110|Strike Barga <font color="#8af">@DLC2</font>|
+!|LV|Name|

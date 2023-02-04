@@ -153,6 +153,7 @@ function generateHtml(data) {
 	output += '<div class="cl-title">' + data.title + '</div>';
 	output += generateRestoreMenu(data);
 	output += generateTable(data);
+	output += '<p align="right"><input type="button" class="cl-clearButton" value="localStorageの削除"></p>';
 //	output += '</div>';
 	
 	return output;
@@ -505,6 +506,15 @@ function dec(num, mode) {
 		} return k.toString(2);
 	}
 }
+
+// localStorageの削除ボタン
+element.on('click', '.cl-clearButton', function() {
+	if(window.confirm('現在のチェックリストのlocalStorageを削除します。よろしいですか？\n（現ページの兵科の武器取得状況がクリアされます）')) {
+		localStorage.removeItem('checklist--' + setting.id);
+		location.hash = '';
+		location.reload();
+	}
+});
 
 return this;
 };

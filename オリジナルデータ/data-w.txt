@@ -1,0 +1,315 @@
+*Wing Diver
+
+**Short-Range
+!|LV|Name|Ammo|Rate of Fire[br][sml](Fire/sec)[/sml]|Damage|Charge Time[br][sml](sec)[/sml]|Range[br][sml](m)[/sml]|Accuracy|EN Cost|
+|0|Rapier|566[sml][c#999](★8)[/c][/sml]|60.0[sml][c#999](★5)[/c][/sml]|1.1×6[sml][c#999](★6+)[/c][/sml]|0.50[sml][c#999](★5)[/c][/sml]|30.0[sml][c#999](★5)[/c][/sml]|G|21.7[sml][c#999](★8)[/c][/sml]|
+|0|Power Lance|1|----|339.7～34.0[sml][c#999](★8)[/c][/sml]|0.67[sml][c#999](★5)[/c][/sml]|95.1[sml][c#999](★8)[/c][/sml]|S++|1.7[sml][c#999](★8)[/c][/sml]|
+|0|Spark Vine Y3|15[sml][c#999](★5)[/c][/sml]|1.0|56.6×3[sml][c#999](★6+)[/c][/sml]|1.5[sml][c#999](★5)[/c][/sml]|64.0[sml][c#999](★5)[/c][/sml]|B-|17.5[sml][c#999](★8)[/c][/sml]|
+|0|Phalanx|241[sml][c#999](★8)[/c][/sml]|60.0|3.1～0.031×6[sml][c#999](★6+)[/c][/sml]|2.0[sml][c#999](★5)[/c][/sml]|90.0[sml][c#999](★5)[/c][/sml]|B-|35.4[sml][c#999](★8)[/c][/sml]|
+|1|Dragoon Lance|1|----|[PT][br]1019.2～101.9[sml][c#999](★8)[/c][/sml]|1.5[sml][c#999](★5)[/c][/sml]|112.4[sml][c#999](★8)[/c][/sml]|S++|13.6[sml][c#999](★8)[/c][/sml]|
+|3|Spark Vine Y6|20[sml][c#999](★7)[/c][/sml]|1.0|45.3×6[sml][c#999](★6+)[/c][/sml]|1.5[sml][c#999](★5)[/c][/sml]|70.4[sml][c#999](★5)[/c][/sml]|A-|21.0[sml][c#999](★8)[/c][/sml]|
+|4|Phalanx W1|241[sml][c#999](★8)[/c][/sml]|60.0|4.5～0.045×6[sml][c#999](★6+)[/c][/sml]|2.0[sml][c#999](★5)[/c][/sml]|90[sml][c#999](★5)[/c][/sml]|A-|31.0[sml][c#999](★8)[/c][/sml]|
+|6|Power Lance LD|1|----|509.6～51.0[sml][c#999](★8)[/c][/sml]|0.83[sml][c#999](★5)[/c][/sml]|113.2[sml][c#999](★8)[/c][/sml]|S++|3.1[sml][c#999](★8)[/c][/sml]|
+|9|Dragoon Lance DA|1|----|[PT][br]1698.7～166.9[sml][c#999](★8)[/c][/sml]|2.0[sml][c#999](★5)[/c][/sml]|139.6[sml][c#999](★9)[/c][/sml]|S++|22.4[sml][c#999](★8)[/c][/sml]|
+|10|Spark Whip|20[sml][c#999](★7)[/c][/sml]|1.0|37.4×12[sml][c#999](★6+)[/c][/sml]|1.5[sml][c#999](★5)[/c][/sml]|61.6[sml][c#999](★5)[/c][/sml]|C+|23.4[sml][c#999](★8)[/c][/sml]|
+|11|Double Lance|2[sml][c#999](★5)[/c][/sml]|60.0|430.3～8.6[sml][c#999](★8)[/c][/sml]|0.67[sml][c#999](★5)[/c][/sml]|103.1[sml][c#999](★8)[/c][/sml]|A+|6.0[sml][c#999](★8)[/c][/sml]|
+|14|Phalanx M2|241[sml][c#999](★8)[/c][/sml]|60.0|9.1～0.091×6[sml][c#999](★6+)[/c][/sml]|2.0[sml][c#999](★5)[/c][/sml]|90.0[sml][c#999](★5)[/c][/sml]|B-|45.4[sml][c#999](★8)[/c][/sml]|
+|16|Rapier G|849[sml][c#999](★8)[/c][/sml]|60.0|4.0×6[sml][c#999](★6+)[/c][/sml]|0.50[sml][c#999](★5)[/c][/sml]|30.0[sml][c#999](★5)[/c][/sml]|G|54.8[sml][c#999](★8)[/c][/sml]|
+|19|Dragoon Lance LE|1|----|[PT][br]4076.8～407.7[sml][c#999](★8)[/c][/sml]|1.5[sml][c#999](★5)[/c][/sml]|162.9[sml][c#999](★9)[/c][/sml]|S++|23.7[sml][c#999](★8)[/c][/sml]|
+|21|Spark Foil Y6|102[sml][c#999](★8)[/c][/sml]|1.0|124.6[sml][c#999](★8)[/c][/sml]|1.0[sml][c#999](★5)[/c][/sml]|75.9[sml][c#999](★5)[/c][/sml]|S++|36.5[sml][c#999](★8)[/c][/sml]|
+|25|M2 Rapier|679[sml][c#999](★8)[/c][/sml]|60.0|5.1×6[sml][c#999](★6+)[/c][/sml]|0.50[sml][c#999](★5)[/c][/sml]|30.0[sml][c#999](★5)[/c][/sml]|G|38.2[sml][c#999](★8)[/c][/sml]|
+|26|Double Lance LD|2[sml][c#999](★5)[/c][/sml]|60.0|906.0～45.3[sml][c#999](★8)[/c][/sml]|0.67[sml][c#999](★5)[/c][/sml]|118.9[sml][c#999](★8)[/c][/sml]|A|9.1[sml][c#999](★8)[/c][/sml]|
+|31|Spark Vine YA6|23[sml][c#999](★8)[/c][/sml]|1.0|124.6×6[sml][c#999](★6+)[/c][/sml]|1.5[sml][c#999](★5)[/c][/sml]|76.8[sml][c#999](★5)[/c][/sml]|S++|38.9[sml][c#999](★8)[/c][/sml]|
+|31|Phalanx U1|241[sml][c#999](★8)[/c][/sml]|60.0|17.0～0.17×6[sml][c#999](★6+)[/c][/sml]|2.0[sml][c#999](★5)[/c][/sml]|96.0[sml][c#999](★5)[/c][/sml]|A-|62.8[sml][c#999](★8)[/c][/sml]|
+|34|Dragoon Lance M2|1|----|[PT][br]7644.1～764.4[sml][c#999](★8)[/c][/sml]|1.5[sml][c#999](★5)[/c][/sml]|162.9[sml][c#999](★9)[/c][/sml]|S++|33.4[sml][c#999](★8)[/c][/sml]|
+|37|Power Lance FD|1|----|2604.6～260.5[sml][c#999](★8)[/c][/sml]|0.67[sml][c#999](★5)[/c][/sml]|118.9[sml][c#999](★8)[/c][/sml]|S++|4.8[sml][c#999](★8)[/c][/sml]|
+|39|Phalanx M3|241[sml][c#999](★8)[/c][/sml]|60.0|21.2～0.21×6[sml][c#999](★6+)[/c][/sml]|1.8[sml][c#999](★5)[/c][/sml]|96.0[sml][c#999](★5)[/c][/sml]|B-|89.5[sml][c#999](★8)[/c][/sml]|
+|42|M3 Rapier|679[sml][c#999](★8)[/c][/sml]|60.0|9.6×6[sml][c#999](★6+)[/c][/sml]|0.50[sml][c#999](★5)[/c][/sml]|30.0[sml][c#999](★5)[/c][/sml]|G|61.6[sml][c#999](★8)[/c][/sml]|
+|44|Spark Whip W3|27[sml][c#999](★8)[/c][/sml]|1.0|362.4×3[sml][c#999](★6+)[/c][/sml]|1.5[sml][c#999](★5)[/c][/sml]|76.8[sml][c#999](★5)[/c][/sml]|A-|65.1[sml][c#999](★8)[/c][/sml]|
+|46|Dragoon Lance W|2[sml][c#999](★5)[/c][/sml]|60.0|[PT][br]6228.5～311.4[sml][c#999](★8)[/c][/sml]|1.8[sml][c#999](★5)[/c][/sml]|186.2[sml][c#999](★9)[/c][/sml]|A-|62.5[sml][c#999](★8)[/c][/sml]|
+|49|Dragoon Lance M3|1|----|[PT][br]13589.5～1358.9[sml][c#999](★8)[/c][/sml]|1.5[sml][c#999](★5)[/c][/sml]|144.0[sml][c#999](★5)[/c][/sml]|S++|33.8[sml][c#999](★8)[/c][/sml]|
+|51|M4 Rapier|679[sml][c#999](★8)[/c][/sml]|60.0|11.3×7[sml][c#999](★6+)[/c][/sml]|0.50[sml][c#999](★5)[/c][/sml]|30.0[sml][c#999](★5)[/c][/sml]|F|79.6[sml][c#999](★8)[/c][/sml]|
+|54|Triple Lance|3[sml][c#999](★5)[/c][/sml]|60.0|2038.4～203.8[sml][c#999](★5)[/c][/sml]|0.67[sml][c#999](★5)[/c][/sml]|134.8[sml][c#999](★8)[/c][/sml]|A+|13.7[sml][c#999](★8)[/c][/sml]|
+|56|Phalanx M4|241[sml][c#999](★8)[/c][/sml]|60.0|35.1～0.35×6[sml][c#999](★6+)[/c][/sml]|1.7[sml][c#999](★5)[/c][/sml]|96.0[sml][c#999](★5)[/c][/sml]|B-|104.6[sml][c#999](★8)[/c][/sml]|
+|58|Spark Foil Y8|249[sml][c#999](★8)[/c][/sml]|1.0|260.5[sml][c#999](★8)[/c][/sml]|1.5[sml][c#999](★5)[/c][/sml]|83.2[sml][c#999](★5)[/c][/sml]|S++|176.9[sml][c#999](★8)[/c][/sml]|
+|61|Dragoon Lance M4|1|----|[PT][br]19445.4～1944.5[sml][c#999](★8)[/c][/sml]|1.5[sml][c#999](★5)[/c][/sml]|209.4[sml][c#999](★9)[/c][/sml]|S++|71.1[sml][c#999](★8)[/c][/sml]|
+|64|Phalanx W2|241[sml][c#999](★8)[/c][/sml]|60.0|44.2～0.44×6[sml][c#999](★6+)[/c][/sml]|1.7[sml][c#999](★5)[/c][/sml]|96.0[sml][c#999](★5)[/c][/sml]|A-|103.0[sml][c#999](★8)[/c][/sml]|
+|67|Spark Whip W5|18[sml][c#999](★8)[/c][/sml]|2.0|249.1×5[sml][c#999](★6+)[/c][/sml]|1.5[sml][c#999](★5)[/c][/sml]|83.2[sml][c#999](★5)[/c][/sml]|A-|113.5[sml][c#999](★8)[/c][/sml]|
+|69|M5 Rapier|906[sml][c#999](★8)[/c][/sml]|60.0|15.3×9[sml][c#999](★6+)[/c][/sml]|0.50[sml][c#999](★5)[/c][/sml]|30.0[sml][c#999](★5)[/c][/sml]|F|152.8[sml][c#999](★8)[/c][/sml]|
+|73|Twin Lance|2[sml][c#999](★5)[/c][/sml]|60.0|4529.8～453[sml][c#999](★8)[/c][/sml]|0.67[sml][c#999](★5)[/c][/sml]|142.7[sml][c#999](★8)[/c][/sml]|A+|23.3[sml][c#999](★8)[/c][/sml]|
+|74|Star Rapier|906[sml][c#999](★8)[/c][/sml]|60.0|19.3×13[sml][c#999](★7)[/c][/sml]|0.50[sml][c#999](★5)[/c][/sml]|30.0[sml][c#999](★5)[/c][/sml]|F|175.5[sml][c#999](★8)[/c][/sml]|
+|76|Dragoon Lance Tri|3[sml][c#999](★5)[/c][/sml]|60.0|[PT][br]13589.5～1358.9[sml][c#999](★8)[/c][/sml]|1.5[sml][c#999](★5)[/c][/sml]|232.7[sml][c#999](★9)[/c][/sml]|S++|123.0[sml][c#999](★8)[/c][/sml]|
+|78|Spark Vine Y12|23[sml][c#999](★8)[/c][/sml]|1.5|158.5×12[sml][c#999](★6+)[/c][/sml]|1.5[sml][c#999](★5)[/c][/sml]|102.4[sml][c#999](★5)[/c][/sml]|S++|146.3[sml][c#999](★8)[/c][/sml]|
+|81|Power Lance ZA|1|----|11324.6～1132.5[sml][c#999](★8)[/c][/sml]|0.67[sml][c#999](★5)[/c][/sml]|158.5[sml][c#999](★8)[/c][/sml]|S++|13.3[sml][c#999](★8)[/c][/sml]|
+|84|Phalanx M5|241[sml][c#999](★8)[/c][/sml]|60.0|76.4～0.76×6[sml][c#999](★6+)[/c][/sml]|1.5[sml][c#999](★5)[/c][/sml]|96.0[sml][c#999](★5)[/c][/sml]|B-|179.4[sml][c#999](★8)[/c][/sml]|
+|86|Triple Lance ZD|3[sml][c#999](★5)[/c][/sml]|60.0|5662.3～283.1[sml][c#999](★8)[/c][/sml]|0.67[sml][c#999](★5)[/c][/sml]|142.7[sml][c#999](★8)[/c][/sml]|A+|23.7[sml][c#999](★8)[/c][/sml]|
+|86|Rapier Nova|966[sml][c#999](★10)[/c][/sml]|60.0|23.8×17[sml][c#999](★8)[/c][/sml]|0.50[sml][c#999](★5)[/c][/sml]|30.0[sml][c#999](★5)[/c][/sml]|F|249.9[sml][c#999](★8)[/c][/sml]|
+|90|Spark Whip ZY|23[sml][c#999](★8)[/c][/sml]|1.5|226.5×12[sml][c#999](★6+)[/c][/sml]|1.5[sml][c#999](★5)[/c][/sml]|102.4[sml][c#999](★5)[/c][/sml]|B-|242.0[sml][c#999](★8)[/c][/sml]|
+|92|Dragoon Lance ZM|1|----|[PT][br]40768.4～4076.8[sml][c#999](★8)[/c][/sml]|1.5[sml][c#999](★5)[/c][/sml]|279.3[sml][c#999](★9)[/c][/sml]|S++|112.7[sml][c#999](★8)[/c][/sml]|
+|95|Phalanx ZT|241[sml][c#999](★8)[/c][/sml]|60.0|91.7～0.92×6[sml][c#999](★6+)[/c][/sml]|1.3[sml][c#999](★5)[/c][/sml]|96.0[sml][c#999](★5)[/c][/sml]|C|193.3[sml][c#999](★8)[/c][/sml]|
+?|101|Rapier Super Nova [c#f88]@DLC1[/c]|966[sml][c#999](★10)[/c][/sml]|60.0|52.1×17[sml][c#999](★8)[/c][/sml]|0.50[sml][c#999](★5)[/c][/sml]|36.0[sml][c#999](★5)[/c][/sml]|F|251.2[sml][c#999](★8)[/c][/sml]|
+?|100|Spark Whip ZAM [c#f88]@DLC1[/c]|23[sml][c#999](★8)[/c][/sml]|2.0|249.1×12[sml][c#999](★6+)[/c][/sml]|1.5[sml][c#999](★5)[/c][/sml]|102.4[sml][c#999](★5)[/c][/sml]|S++|116.3[sml][c#999](★8)[/c][/sml]|
+?|107|Phalanx ZAT [c#8af]@DLC2[/c]|321[sml][c#999](★8)[/c][/sml]|60.0|203.8～2.0×10[sml][c#999](★6+)[/c][/sml]|2.0[sml][c#999](★5)[/c][/sml]|108.0[sml][c#999](★5)[/c][/sml]|C|358.1[sml][c#999](★8)[/c][/sml]|
+?|111|Monster Lance [c#8af]@DLC2[/c]|60[sml][c#999](★5)[/c][/sml]|60.0|[PT][br]1019.2[sml][c#999](★8)[/c][/sml]|0.67[sml][c#999](★5)[/c][/sml]|118.9[sml][c#999](★8)[/c][/sml]|S++|119.4[sml][c#999](★8)[/c][/sml]|
+!|LV|Name|Ammo|Rate of Fire[br][sml](Fire/sec)[/sml]|Damage|Charge Time[br][sml](sec)[/sml]|Range[br][sml](m)[/sml]|Accuracy|EN Cost|
+
+**Kinetic Weapons
+!|LV|Name|Ammo|Rate of Fire[br][sml](Fire/sec)[/sml]|Damage|Charge Time[br][sml](sec)[/sml]|Range[br][sml](m)[/sml]|Accuracy|EN Cost|
+|0|Mag Blaster|1132[sml][c#999](★8)[/c][/sml]|60.0|3.4[sml][c#999](★8)[/c][/sml]|2.0[sml][c#999](★5)[/c][/sml]|180.0[sml][c#999](★5)[/c][/sml]|S++|39.0[sml][c#999](★8)[/c][/sml]|
+|3|Destroyer Blaster|113[sml][c#999](★8)[/c][/sml]|4.0|7.5×17[sml][c#999](★8)[/c][/sml]|2.0[sml][c#999](★5)[/c][/sml]|140.0[sml][c#999](★5)[/c][/sml]|B-|63.5[sml][c#999](★8)[/c][/sml]|
+|5|Mag Blaster A1|1132[sml][c#999](★8)[/c][/sml]|60.0|6.8[sml][c#999](★8)[/c][/sml]|1.8[sml][c#999](★5)[/c][/sml]|180.0[sml][c#999](★5)[/c][/sml]|S++|49.9[sml][c#999](★8)[/c][/sml]|
+|11|Mag Blaster A2|1246[sml][c#999](★8)[/c][/sml]|60.0|8.5[sml][c#999](★8)[/c][/sml]|2.0[sml][c#999](★8)[/c][/sml]|189.0[sml][c#999](★5)[/c][/sml]|S++|47.4[sml][c#999](★8)[/c][/sml]|
+|12|Destroyer Blaster 2|113[sml][c#999](★8)[/c][/sml]|4.0|10.2×23[sml][c#999](★8)[/c][/sml]|2.0[sml][c#999](★5)[/c][/sml]|140.0[sml][c#999](★5)[/c][/sml]|B-|72.6[sml][c#999](★8)[/c][/sml]|
+|14|Reflectron Laser|1132[sml][c#999](★8)[/c][/sml]|60.0|9.1～1.8[sml][c#999](★8)[/c][/sml]|2.7[sml][c#999](★5)[/c][/sml]|240.0[sml][c#999](★5)[/c][/sml]|S++|58.8[sml][c#999](★8)[/c][/sml]|
+|17|Mag Blaster V1|1076[sml][c#999](★8)[/c][/sml]|60.0|6.8×2[sml][c#999](★6+)[/c][/sml]|2.3[sml][c#999](★5)[/c][/sml]|171.0[sml][c#999](★5)[/c][/sml]|B|62.5[sml][c#999](★8)[/c][/sml]|
+|19|Spine Blaster|1132[sml][c#999](★8)[/c][/sml]|60.0|[PT][br]3.4～0.034[sml][c#999](★8)[/c][/sml]|1.8[sml][c#999](★5)[/c][/sml]|290.8[sml][c#999](★10)[/c][/sml]|S++|56.6[sml][c#999](★8)[/c][/sml]|
+|22|Mag Blaster B1|1699[sml][c#999](★8)[/c][/sml]|60.0|10.2[sml][c#999](★8)[/c][/sml]|4.5[sml][c#999](★5)[/c][/sml]|180.0[sml][c#999](★5)[/c][/sml]|S++|109.3[sml][c#999](★8)[/c][/sml]|
+|24|Mag Blaster B2|1359[sml][c#999](★8)[/c][/sml]|60.0|17.0[sml][c#999](★8)[/c][/sml]|3.0[sml][c#999](★5)[/c][/sml]|190.0[sml][c#999](★5)[/c][/sml]|S++|77.0[sml][c#999](★8)[/c][/sml]|
+|27|Spine Blaster E2|1132[sml][c#999](★8)[/c][/sml]|60.0|[PT][br]8.5～0.085[sml][c#999](★8)[/c][/sml]|2.0[sml][c#999](★5)[/c][/sml]|353.6[sml][c#999](★10)[/c][/sml]|S++|64.2[sml][c#999](★8)[/c][/sml]|
+|28|Mag Blaster DA|1359[sml][c#999](★8)[/c][/sml]|60.0|36.2[sml][c#999](★8)[/c][/sml]|3.8[sml][c#999](★5)[/c][/sml]|191.0[sml][c#999](★5)[/c][/sml]|S++|231.0[sml][c#999](★8)[/c][/sml]|
+|32|Reflectron V Laser|1132[sml][c#999](★8)[/c][/sml]|60.0|9.1～1.8×2[sml][c#999](★6+)[/c][/sml]|2.7[sml][c#999](★5)[/c][/sml]|240.0[sml][c#999](★5)[/c][/sml]|S++|138.8[sml][c#999](★8)[/c][/sml]|
+|35|Mag Blaster G1|1132[sml][c#999](★8)[/c][/sml]|60.0|23.8[sml][c#999](★8)[/c][/sml]|3.8[sml][c#999](★5)[/c][/sml]|180.0[sml][c#999](★5)[/c][/sml]|S++|130.9[sml][c#999](★8)[/c][/sml]|
+|39|Mag Blaster G2|1359[sml][c#999](★8)[/c][/sml]|60.0|27.2[sml][c#999](★8)[/c][/sml]|3.8[sml][c#999](★5)[/c][/sml]|180.0[sml][c#999](★5)[/c][/sml]|S++|116.7[sml][c#999](★8)[/c][/sml]|
+|42|Destroyer Blaster F|113[sml][c#999](★8)[/c][/sml]|4.0|45.3×23[sml][c#999](★8)[/c][/sml]|2.0[sml][c#999](★5)[/c][/sml]|140.0[sml][c#999](★5)[/c][/sml]|B|253.7[sml][c#999](★8)[/c][/sml]|
+|44|Mag Blaster DN|1359[sml][c#999](★8)[/c][/sml]|60.0|61.2[sml][c#999](★8)[/c][/sml]|2.3[sml][c#999](★5)[/c][/sml]|204.0[sml][c#999](★5)[/c][/sml]|S++|339.0[sml][c#999](★8)[/c][/sml]|
+|46|Reflectron Laser D|1132[sml][c#999](★8)[/c][/sml]|60.0|17.0～3.4[sml][c#999](★8)[/c][/sml]|2.0[sml][c#999](★5)[/c][/sml]|144.0[sml][c#999](★5)[/c][/sml]|S++|174.4[sml][c#999](★8)[/c][/sml]|
+|49|Mag Blaster G3|1246[sml][c#999](★8)[/c][/sml]|60.0|34.0[sml][c#999](★8)[/c][/sml]|4.5[sml][c#999](★5)[/c][/sml]|204.0[sml][c#999](★5)[/c][/sml]|S++|136.9[sml][c#999](★8)[/c][/sml]|
+|52|Spine Blaster E3|1132[sml][c#999](★8)[/c][/sml]|60.0|[PT][br]17.0～0.17[sml][c#999](★8)[/c][/sml]|1.7[sml][c#999](★5)[/c][/sml]|353.6[sml][c#999](★10)[/c][/sml]|S++|154.1[sml][c#999](★8)[/c][/sml]|
+|54|Mag Blaster BX|2265[sml][c#999](★8)[/c][/sml]|60.0|40.8[sml][c#999](★8)[/c][/sml]|7.5[sml][c#999](★5)[/c][/sml]|204.2[sml][c#999](★5)[/c][/sml]|S++|401.0[sml][c#999](★8)[/c][/sml]|
+|59|Mag Blaster W|1019[sml][c#999](★8)[/c][/sml]|60.0|34.0×3[sml][c#999](★6+)[/c][/sml]|4.5[sml][c#999](★5)[/c][/sml]|168.0[sml][c#999](★5)[/c][/sml]|S++|251.1[sml][c#999](★8)[/c][/sml]|
+|64|Mag Blaster SP1|1178[sml][c#999](★8)[/c][/sml]|60.0|54.4[sml][c#999](★8)[/c][/sml]|4.5[sml][c#999](★5)[/c][/sml]|228.0[sml][c#999](★5)[/c][/sml]|S++|261.2[sml][c#999](★8)[/c][/sml]|
+|66|Destroyer Blaster W|113[sml][c#999](★8)[/c][/sml]|4.0|30.6×45[sml][c#999](★8)[/c][/sml]|2.0[sml][c#999](★5)[/c][/sml]|143.0[sml][c#999](★5)[/c][/sml]|B-|329.0[sml][c#999](★8)[/c][/sml]|
+|69|Reflectron 5-Way Laser|1246[sml][c#999](★8)[/c][/sml]|60.0|22.6～4.54×5[sml][c#999](★6+)[/c][/sml]|5.0[sml][c#999](★5)[/c][/sml]|144.0[sml][c#999](★5)[/c][/sml]|S++|417.1[sml][c#999](★8)[/c][/sml]|
+|71|Mag Blaster SP2|1178[sml][c#999](★8)[/c][/sml]|60.0|61.2[sml][c#999](★8)[/c][/sml]|5.3[sml][c#999](★5)[/c][/sml]|228.0[sml][c#999](★5)[/c][/sml]|S++|248.5[sml][c#999](★8)[/c][/sml]|
+|74|Mag Laser ZA|1472[sml][c#999](★8)[/c][/sml]|60.0|67.9[sml][c#999](★8)[/c][/sml]|6.8[sml][c#999](★5)[/c][/sml]|260.0[sml][c#999](★5)[/c][/sml]|S++|308.0[sml][c#999](★8)[/c][/sml]|
+|76|Spine Blaster ZM|1132[sml][c#999](★8)[/c][/sml]|60.0|[PT][br]34.0～0.34[sml][c#999](★8)[/c][/sml]|2.5[sml][c#999](★5)[/c][/sml]|471.5[sml][c#999](★10)[/c][/sml]|S++|378.8[sml][c#999](★8)[/c][/sml]|
+|82|Reflectron 5-Way Laser ZD|1359[sml][c#999](★8)[/c][/sml]|60.0|22.6～4.5×5[sml][c#999](★6+)[/c][/sml]|3.3[sml][c#999](★5)[/c][/sml]|240.0[sml][c#999](★5)[/c][/sml]|S++|463.5[sml][c#999](★8)[/c][/sml]|
+|79|Mag Blaster DX|1472[sml][c#999](★8)[/c][/sml]|60.0|169.9[sml][c#999](★8)[/c][/sml]|3.0[sml][c#999](★5)[/c][/sml]|300.0[sml][c#999](★5)[/c][/sml]|S++|702.7[sml][c#999](★8)[/c][/sml]|
+|82|Destroyer Blaster FE|113[sml][c#999](★8)[/c][/sml]|4.0|81.5×34[sml][c#999](★8)[/c][/sml]|2.0[sml][c#999](★5)[/c][/sml]|154.0[sml][c#999](★5)[/c][/sml]|B+|509.1[sml][c#999](★8)[/c][/sml]|
+|84|Mag Blaster ZM|1472[sml][c#999](★8)[/c][/sml]|60.0|101.9[sml][c#999](★8)[/c][/sml]|4.5[sml][c#999](★5)[/c][/sml]|264.0[sml][c#999](★5)[/c][/sml]|S++|363.8[sml][c#999](★8)[/c][/sml]|
+?|103|Mag Blaster FDX [c#f88]@DLC1[/c]|1472[sml][c#999](★8)[/c][/sml]|60.0|237.8[sml][c#999](★8)[/c][/sml]|3.0[sml][c#999](★5)[/c][/sml]|340.0[sml][c#999](★5)[/c][/sml]|S++|871.7[sml][c#999](★8)[/c][/sml]|
+?|106|Spine Blaster ZAM4 [c#8af]@DLC2[/c]|1132[sml][c#999](★8)[/c][/sml]|60.0|[PT][br]29.4.0～0.29×4[sml][c#999](★6+)[/c][/sml]|2.5[sml][c#999](★5)[/c][/sml]|471.5[sml][c#999](★10)[/c][/sml]|S++|620.5[sml][c#999](★8)[/c][/sml]|
+!|LV|Name|Ammo|Rate of Fire[br][sml](Fire/sec)[/sml]|Damage|Charge Time[br][sml](sec)[/sml]|Range[br][sml](m)[/sml]|Accuracy|EN Cost|
+
+**Energy Weapons
+!|LV|Name|Ammo|Rate of Fire[br][sml](Fire/sec)[/sml]|Damage|Charge Time[br][sml](sec)[/sml]|Shot Speed[br][sml](m/sec)[/sml]|Range[br][sml](m)[/sml]|EN Cost|
+|0|Lightning Bow|147[sml][c#999](★8)[/c][/sml]|30.0[sml][c#999](★5)[/c][/sml]|5.1[sml][c#999](★8)[/c][/sml]|0.82[sml][c#999](★7)[/c][/sml]|375.0[sml][c#999](★5)[/c][/sml]|156.3[sml][c#999](★5)[/c][/sml]|11.9[sml][c#999](★10)[/c][/sml]|
+|1|Bolt Gun|34[sml][c#999](★8)[/c][/sml]|2.3[sml][c#999](★8)[/c][/sml]|15.9×10[sml][c#999](★6+)[/c][/sml]|3.0[sml][c#999](★5)[/c][/sml]|300.0[sml][c#999](★5)[/c][/sml]|100.0[sml][c#999](★5)[/c][/sml]|54.6[sml][c#999](★8)[/c][/sml]|
+|5|Lightning Bow M2|147[sml][c#999](★8)[/c][/sml]|30.0[sml][c#999](★5)[/c][/sml]|10.2[sml][c#999](★8)[/c][/sml]|0.82[sml][c#999](★7)[/c][/sml]|300.0[sml][c#999](★5)[/c][/sml]|125.0[sml][c#999](★5)[/c][/sml]|10.9[sml][c#999](★10)[/c][/sml]|
+|7|Thunder Crossbow|1|----|29.4×10[sml][c#999](★6+)[/c][/sml]|0.77[sml][c#999](★8)[/c][/sml]|300.0[sml][c#999](★5)[/c][/sml]|250.0[sml][c#999](★5)[/c][/sml]|10.6[sml][c#999](★8)[/c][/sml]|
+|12|Bolt Gun A1|34[sml][c#999](★8)[/c][/sml]|2.3[sml][c#999](★8)[/c][/sml]|24.9×12[sml][c#999](★6+)[/c][/sml]|3.2[sml][c#999](★5)[/c][/sml]|360.0[sml][c#999](★5)[/c][/sml]|120.0[sml][c#999](★5)[/c][/sml]|74.1[sml][c#999](★8)[/c][/sml]|
+|17|Lightning Bow M3|160[sml][c#999](★8)[/c][/sml]|30.0[sml][c#999](★5)[/c][/sml]|22.6[sml][c#999](★8)[/c][/sml]|0.82[sml][c#999](★7)[/c][/sml]|450.0[sml][c#999](★5)[/c][/sml]|180.0[sml][c#999](★5)[/c][/sml]|20.8[sml][c#999](★10)[/c][/sml]|
+|22|Thunder Crossbow 2|1|----|67.9×10[sml][c#999](★6+)[/c][/sml]|0.77[sml][c#999](★8)[/c][/sml]|300.0[sml][c#999](★5)[/c][/sml]|250.0[sml][c#999](★5)[/c][/sml]|13.0[sml][c#999](★8)[/c][/sml]|
+|25|Bolt Gun RA|68[sml][c#999](★8)[/c][/sml]|4.6[sml][c#999](★8)[/c][/sml]|28.3×10[sml][c#999](★6+)[/c][/sml]|2.3[sml][c#999](★5)[/c][/sml]|300.0[sml][c#999](★5)[/c][/sml]|100.0[sml][c#999](★5)[/c][/sml]|104.8[sml][c#999](★8)[/c][/sml]|
+|29|Lightning Rapid Bow|307[sml][c#999](★8)[/c][/sml]|60.0[sml][c#999](★5)[/c][/sml]|15.9[sml][c#999](★8)[/c][/sml]|0.82[sml][c#999](★7)[/c][/sml]|450.0[sml][c#999](★5)[/c][/sml]|142.5[sml][c#999](★5)[/c][/sml]|36.2[sml][c#999](★10)[/c][/sml]|
+|36|Thunder Crossbow RA|1|----|101.9×10[sml][c#999](★6+)[/c][/sml]|0.51[sml][c#999](★8)[/c][/sml]|300.0[sml][c#999](★5)[/c][/sml]|300.0[sml][c#999](★5)[/c][/sml]|23.5[sml][c#999](★8)[/c][/sml]|
+|40|Lightning Bow M4|172[sml][c#999](★8)[/c][/sml]|30.0[sml][c#999](★5)[/c][/sml]|45.3[sml][c#999](★8)[/c][/sml]|0.82[sml][c#999](★7)[/c][/sml]|450.0[sml][c#999](★5)[/c][/sml]|187.5[sml][c#999](★5)[/c][/sml]|40.9[sml][c#999](★10)[/c][/sml]|
+|43|Thunder Crossbow 3|1|----|124.6×10[sml][c#999](★6+)[/c][/sml]|0.77[sml][c#999](★8)[/c][/sml]|300.0[sml][c#999](★5)[/c][/sml]|350.0[sml][c#999](★5)[/c][/sml]|28.8[sml][c#999](★8)[/c][/sml]|
+|48|Bolt Gun A2|34[sml][c#999](★8)[/c][/sml]|2.3[sml][c#999](★8)[/c][/sml]|107.6×10[sml][c#999](★6+)[/c][/sml]|3.0[sml][c#999](★5)[/c][/sml]|420.0[sml][c#999](★5)[/c][/sml]|140.0[sml][c#999](★5)[/c][/sml]|197.0[sml][c#999](★8)[/c][/sml]|
+|50|Thunder Crossbow W|1|----|147.2×10[sml][c#999](★6+)[/c][/sml]|0.77[sml][c#999](★8)[/c][/sml]|300.0[sml][c#999](★5)[/c][/sml]|400.0[sml][c#999](★5)[/c][/sml]|34.9[sml][c#999](★8)[/c][/sml]|
+|52|Lightning Bow M5|197[sml][c#999](★8)[/c][/sml]|30.0[sml][c#999](★5)[/c][/sml]|56.6[sml][c#999](★8)[/c][/sml]|0.82[sml][c#999](★7)[/c][/sml]|450.0[sml][c#999](★5)[/c][/sml]|202.5[sml][c#999](★5)[/c][/sml]|51.0[sml][c#999](★10)[/c][/sml]|
+|57|Bolt Gun RB|51[sml][c#999](★8)[/c][/sml]|6.7[sml][c#999](★7)[/c][/sml]|51.0×10[sml][c#999](★6+)[/c][/sml]|3.0[sml][c#999](★5)[/c][/sml]|300.0[sml][c#999](★5)[/c][/sml]|100.0[sml][c#999](★5)[/c][/sml]|254.6[sml][c#999](★8)[/c][/sml]|
+|61|Lightning Rapid Bow T2|344[sml][c#999](★8)[/c][/sml]|60.0[sml][c#999](★5)[/c][/sml]|38.5[sml][c#999](★8)[/c][/sml]|0.82[sml][c#999](★7)[/c][/sml]|450.0[sml][c#999](★5)[/c][/sml]|202.5[sml][c#999](★5)[/c][/sml]|70.3[sml][c#999](★10)[/c][/sml]|
+|67|Bolt Power Gun|17[sml][c#999](★8)[/c][/sml]|1.2[sml][c#999](★5)[/c][/sml]|192.5×20[sml][c#999](★6+)[/c][/sml]|3.0[sml][c#999](★5)[/c][/sml]|480.0[sml][c#999](★5)[/c][/sml]|160.0[sml][c#999](★5)[/c][/sml]|335.9[sml][c#999](★8)[/c][/sml]|
+|71|Thunder Crossbow DZ|1|----|373.7×15[sml][c#999](★6+)[/c][/sml]|1.5[sml][c#999](★8)[/c][/sml]|300.0[sml][c#999](★5)[/c][/sml]|400.0[sml][c#999](★5)[/c][/sml]|126.8[sml][c#999](★8)[/c][/sml]|
+|75|Lightning Bow GD|221[sml][c#999](★8)[/c][/sml]|30.0[sml][c#999](★5)[/c][/sml]|101.9[sml][c#999](★8)[/c][/sml]|0.82[sml][c#999](★7)[/c][/sml]|525.0[sml][c#999](★5)[/c][/sml]|262.5[sml][c#999](★5)[/c][/sml]|89.4[sml][c#999](★10)[/c][/sml]|
+|77|Bolt Gun AZ|34[sml][c#999](★8)[/c][/sml]|2.3[sml][c#999](★8)[/c][/sml]|124.6×20[sml][c#999](★6+)[/c][/sml]|3.0[sml][c#999](★5)[/c][/sml]|300.0[sml][c#999](★5)[/c][/sml]|100.0[sml][c#999](★5)[/c][/sml]|520.7[sml][c#999](★8)[/c][/sml]|
+|81|Thunder Crossbow WZ|1|----|176.7×20[sml][c#999](★6+)[/c][/sml]|0.71[sml][c#999](★8)[/c][/sml]|300.0[sml][c#999](★5)[/c][/sml]|500.0[sml][c#999](★5)[/c][/sml]|78.4[sml][c#999](★8)[/c][/sml]|
+|82|Bolt Maximum Gun|18[sml][c#999](★8)[/c][/sml]|1.2[sml][c#999](★8)[/c][/sml]|147.2×40[sml][c#999](★6+)[/c][/sml]|3.0[sml][c#999](★5)[/c][/sml]|600.0[sml][c#999](★5)[/c][/sml]|200.0[sml][c#999](★5)[/c][/sml]|512.8[sml][c#999](★8)[/c][/sml]|
+|85|Lightning Bow ZA|258[sml][c#999](★8)[/c][/sml]|30.0[sml][c#999](★5)[/c][/sml]|142.7[sml][c#999](★8)[/c][/sml]|0.82[sml][c#999](★7)[/c][/sml]|600.0[sml][c#999](★5)[/c][/sml]|300.0[sml][c#999](★5)[/c][/sml]|151.7[sml][c#999](★10)[/c][/sml]|
+|87|Thunder Crossbow RZ|1|----|164.2×20[sml][c#999](★6+)[/c][/sml]|0.51[sml][c#999](★8)[/c][/sml]|420.0[sml][c#999](★5)[/c][/sml]|560.0[sml][c#999](★5)[/c][/sml]|84.4[sml][c#999](★8)[/c][/sml]|
+?|101|Lightning Bow ZAMD [c#f88]@DLC1[/c]|332[sml][c#999](★8)[/c][/sml]|60.0[sml][c#999](★5)[/c][/sml]|135.9[sml][c#999](★8)[/c][/sml]|0.82[sml][c#999](★7)[/c][/sml]|840.0[sml][c#999](★5)[/c][/sml]|420.0[sml][c#999](★5)[/c][/sml]|106.6[sml][c#999](★10)[/c][/sml]|
+?|106|Bolt Break Gun [c#8af]@DLC2[/c]|20[sml][c#999](★8)[/c][/sml]|1.5[sml][c#999](★8)[/c][/sml]|220.8×40[sml][c#999](★6+)[/c][/sml]|3.0[sml][c#999](★5)[/c][/sml]|600.0[sml][c#999](★5)[/c][/sml]|200.0[sml][c#999](★5)[/c][/sml]|860.6[sml][c#999](★8)[/c][/sml]|
+?|110|Thunder Crossbow RZAM [c#8af]@DLC2[/c]|1|----|373.7×20[sml][c#999](★6+)[/c][/sml]|0.51[sml][c#999](★8)[/c][/sml]|420.0[sml][c#999](★5)[/c][/sml]|560.0[sml][c#999](★5)[/c][/sml]|99.9[sml][c#999](★8)[/c][/sml]|
+!|LV|Name|Ammo|Rate of Fire[br][sml](Fire/sec)[/sml]|Damage|Charge Time[br][sml](sec)[/sml]|Shot Speed[br][sml](m/sec)[/sml]|Range[br][sml](m)[/sml]|EN Cost|
+
+**Pulse Weapons
+!|LV|Name|Ammo|Rate of Fire[br][sml](Fire/sec)[/sml]|Damage|Charge Time[br][sml](sec)[/sml]|Effective Area[br][sml](Radisu m)[/sml]|Range[br][sml](m)[/sml]|Shot Speed[br][sml](m/sec)[/sml]|Accuracy|EN Cost|
+|0|Pulse Machine Gun|472[sml][c#999](★10)[/c][/sml]|15.0[sml][c#999](★5)[/c][/sml]|9.1[sml][c#999](★8)[/c][/sml]|2.5|5.7[sml][c#999](★8)[/c][/sml]|200.0[sml][c#999](★5)[/c][/sml]|120.0[sml][c#999](★5)[/c][/sml]|B+[sml][c#999](★10)[/c][/sml]|104.1[sml][c#999](★8)[/c][/sml]|
+|2|Pulse Machine Gun R|472[sml][c#999](★10)[/c][/sml]|15.0[sml][c#999](★5)[/c][/sml]|12.8[sml][c#999](★8)[/c][/sml]|2.7|4.5[sml][c#999](★8)[/c][/sml]|200.0[sml][c#999](★5)[/c][/sml]|150.0[sml][c#999](★5)[/c][/sml]|B+[sml][c#999](★10)[/c][/sml]|102.3[sml][c#999](★8)[/c][/sml]|
+|6|3-Way Pulse Machine Gun|377[sml][c#999](★10)[/c][/sml]|12.0[sml][c#999](★5)[/c][/sml]|7.9×3[sml][c#999](★6+)[/c][/sml]|2.5|3.4[sml][c#999](★8)[/c][/sml]|200.0[sml][c#999](★5)[/c][/sml]|120.0[sml][c#999](★5)[/c][/sml]|B[sml][c#999](★8)[/c][/sml]|134.1[sml][c#999](★8)[/c][/sml]|
+|12|Pulse Rapid Gun|472[sml][c#999](★10)[/c][/sml]|30.0[sml][c#999](★5)[/c][/sml]|13.6[sml][c#999](★8)[/c][/sml]|2.0|5.7[sml][c#999](★8)[/c][/sml]|200.0[sml][c#999](★5)[/c][/sml]|120.0[sml][c#999](★5)[/c][/sml]|B+[sml][c#999](★10)[/c][/sml]|147.2[sml][c#999](★8)[/c][/sml]|
+|17|4-Way Pulse Machine Gun|409[sml][c#999](★10)[/c][/sml]|15.0[sml][c#999](★5)[/c][/sml]|7.9×4[sml][c#999](★6+)[/c][/sml]|1.5|3.4[sml][c#999](★8)[/c][/sml]|200.0[sml][c#999](★5)[/c][/sml]|120.0[sml][c#999](★5)[/c][/sml]|B+[sml][c#999](★8)[/c][/sml]|169.1[sml][c#999](★8)[/c][/sml]|
+|20|Stardust Cannon|1|----|22.6×100[sml][c#999](★6+)[/c][/sml]|0.67|2.8[sml][c#999](★8)[/c][/sml]|480.0[sml][c#999](★5)[/c][/sml]|240.0[sml][c#999](★5)[/c][/sml]|E[sml][c#999](★5)[/c][/sml]|15.1[sml][c#999](★8)[/c][/sml]|
+|23|5-Way Pulse Machine Gun|472[sml][c#999](★10)[/c][/sml]|15.0[sml][c#999](★5)[/c][/sml]|7.9×5[sml][c#999](★6+)[/c][/sml]|2.0|3.4[sml][c#999](★8)[/c][/sml]|200.0[sml][c#999](★5)[/c][/sml]|120.0[sml][c#999](★5)[/c][/sml]|B+[sml][c#999](★8)[/c][/sml]|201.1[sml][c#999](★8)[/c][/sml]|
+|25|Pulse Machine Gun M2|519[sml][c#999](★10)[/c][/sml]|15.0[sml][c#999](★5)[/c][/sml]|45.3[sml][c#999](★8)[/c][/sml]|2.5|5.7[sml][c#999](★8)[/c][/sml]|220.0[sml][c#999](★5)[/c][/sml]|120.0[sml][c#999](★5)[/c][/sml]|B+[sml][c#999](★10)[/c][/sml]|209.7[sml][c#999](★8)[/c][/sml]|
+|29|Pulse Buster|157[sml][c#999](★10)[/c][/sml]|4.0[sml][c#999](★5)[/c][/sml]|19.8×10[sml][c#999](★6+)[/c][/sml]|2.0|4.0[sml][c#999](★8)[/c][/sml]|240.0[sml][c#999](★5)[/c][/sml]|120.0[sml][c#999](★5)[/c][/sml]|C+[sml][c#999](★5)[/c][/sml]|234.2[sml][c#999](★8)[/c][/sml]|
+|35|6-Way Pulse Machine Gun|472[sml][c#999](★10)[/c][/sml]|15.0[sml][c#999](★5)[/c][/sml]|10.9×6[sml][c#999](★6+)[/c][/sml]|2.0|4.0[sml][c#999](★8)[/c][/sml]|200.0[sml][c#999](★5)[/c][/sml]|120.0[sml][c#999](★5)[/c][/sml]|B+[sml][c#999](★8)[/c][/sml]|278.6[sml][c#999](★8)[/c][/sml]|
+|37|Stardust Cannon Type A|1|----|43.0×100[sml][c#999](★6+)[/c][/sml]|0.67|4.0[sml][c#999](★8)[/c][/sml]|480.0[sml][c#999](★5)[/c][/sml]|240.0[sml][c#999](★5)[/c][/sml]|C-[sml][c#999](★5)[/c][/sml]|36.8[sml][c#999](★8)[/c][/sml]|
+|42|Pulse Machine Gun M3|472[sml][c#999](★10)[/c][/sml]|15.0[sml][c#999](★5)[/c][/sml]|79.3[sml][c#999](★8)[/c][/sml]|2.5|6.8[sml][c#999](★8)[/c][/sml]|220.0[sml][c#999](★5)[/c][/sml]|120.0[sml][c#999](★5)[/c][/sml]|B+[sml][c#999](★10)[/c][/sml]|340.6[sml][c#999](★8)[/c][/sml]|
+|48|Pulse Buster Alpha|157[sml][c#999](★10)[/c][/sml]|4.0[sml][c#999](★5)[/c][/sml]|19.8×15[sml][c#999](★6+)[/c][/sml]|2.0|4.5[sml][c#999](★8)[/c][/sml]|240.0[sml][c#999](★5)[/c][/sml]|240.0[sml][c#999](★5)[/c][/sml]|C+[sml][c#999](★5)[/c][/sml]|399.5[sml][c#999](★8)[/c][/sml]|
+|50|Pulse Rapid Gun DE|503[sml][c#999](★10)[/c][/sml]|30.0[sml][c#999](★5)[/c][/sml]|45.3[sml][c#999](★8)[/c][/sml]|2.5|6.8[sml][c#999](★8)[/c][/sml]|270.0[sml][c#999](★5)[/c][/sml]|180.0[sml][c#999](★5)[/c][/sml]|A[sml][c#999](★10)[/c][/sml]|416.4[sml][c#999](★8)[/c][/sml]|
+|55|8-Way Pulse Machine Gun|472[sml][c#999](★10)[/c][/sml]|15.0[sml][c#999](★5)[/c][/sml]|10.9×8[sml][c#999](★6+)[/c][/sml]|2.0|4.0[sml][c#999](★8)[/c][/sml]|200.0[sml][c#999](★5)[/c][/sml]|120.0[sml][c#999](★5)[/c][/sml]|B+[sml][c#999](★8)[/c][/sml]|478.3[sml][c#999](★8)[/c][/sml]|
+|59|Stardust Cannon Type D|1|----|79.3×100[sml][c#999](★6+)[/c][/sml]|0.80|6.8[sml][c#999](★8)[/c][/sml]|480.0[sml][c#999](★5)[/c][/sml]|240.0[sml][c#999](★5)[/c][/sml]|C-[sml][c#999](★5)[/c][/sml]|81.9[sml][c#999](★8)[/c][/sml]|
+|65|Pulse Machine Gun M4|472[sml][c#999](★10)[/c][/sml]|15.0[sml][c#999](★5)[/c][/sml]|126.8[sml][c#999](★8)[/c][/sml]|2.5|6.8[sml][c#999](★8)[/c][/sml]|270.0[sml][c#999](★5)[/c][/sml]|180.0[sml][c#999](★5)[/c][/sml]|A[sml][c#999](★10)[/c][/sml]|631.2[sml][c#999](★8)[/c][/sml]|
+|70|9-Way Pulse Machine Gun|519[sml][c#999](★10)[/c][/sml]|15.0[sml][c#999](★5)[/c][/sml]|16.5×9[sml][c#999](★6+)[/c][/sml]|2.0|4.0[sml][c#999](★8)[/c][/sml]|200.0[sml][c#999](★5)[/c][/sml]|120.0[sml][c#999](★5)[/c][/sml]|B+[sml][c#999](★8)[/c][/sml]|730.1[sml][c#999](★8)[/c][/sml]|
+|75|Pulse Machine Gun M5|440[sml][c#999](★10)[/c][/sml]|15.0[sml][c#999](★5)[/c][/sml]|123.4[sml][c#999](★8)[/c][/sml]|2.5|11.3[sml][c#999](★8)[/c][/sml]|300.0[sml][c#999](★5)[/c][/sml]|240.0[sml][c#999](★5)[/c][/sml]|A[sml][c#999](★10)[/c][/sml]|832.8[sml][c#999](★8)[/c][/sml]|
+|77|Pulse Buster Beta|157[sml][c#999](★10)[/c][/sml]|4.0[sml][c#999](★5)[/c][/sml]|37.4×15[sml][c#999](★6+)[/c][/sml]|2.0|6.8[sml][c#999](★8)[/c][/sml]|240.0[sml][c#999](★8)[/c][/sml]|240.0[sml][c#999](★5)[/c][/sml]|C+[sml][c#999](★5)[/c][/sml]|886.5[sml][c#999](★8)[/c][/sml]|
+|79|10-Way Pulse Machine Gun|519[sml][c#999](★10)[/c][/sml]|15.0[sml][c#999](★5)[/c][/sml]|18.0×10[sml][c#999](★6+)[/c][/sml]|2.0|4.0[sml][c#999](★8)[/c][/sml]|200.0[sml][c#999](★5)[/c][/sml]|120.0[sml][c#999](★5)[/c][/sml]|A-[sml][c#999](★8)[/c][/sml]|950.1[sml][c#999](★8)[/c][/sml]|
+|85|Stardust Cannon Type F|1|----|126.8×100[sml][c#999](★6+)[/c][/sml]|0.67|9.1[sml][c#999](★8)[/c][/sml]|480.0[sml][c#999](★5)[/c][/sml]|240.0[sml][c#999](★5)[/c][/sml]|C-[sml][c#999](★5)[/c][/sml]|137.4[sml][c#999](★8)[/c][/sml]|
+|87|Pulse Machine Gun ZDM|440[sml][c#999](★10)[/c][/sml]|15.0[sml][c#999](★5)[/c][/sml]|169.9[sml][c#999](★8)[/c][/sml]|2.5|17.0[sml][c#999](★8)[/c][/sml]|300.0[sml][c#999](★5)[/c][/sml]|240.0[sml][c#999](★5)[/c][/sml]|A[sml][c#999](★10)[/c][/sml]|1161.6[sml][c#999](★8)[/c][/sml]|
+?|104|Stardust Fall [c#f88]@DLC1[/c]|1|----|158.5×100[sml][c#999](★6+)[/c][/sml]|0.80|6.8[sml][c#999](★8)[/c][/sml]|720.0[sml][c#999](★5)[/c][/sml]|180.0[sml][c#999](★5)[/c][/sml]|C-[sml][c#999](★5)[/c][/sml]|143.0[sml][c#999](★8)[/c][/sml]|
+?|108|Super Pulse Machine Gun [c#8af]@DLC2[/c]|440[sml][c#999](★10)[/c][/sml]|15.0[sml][c#999](★5)[/c][/sml]|271.8[sml][c#999](★8)[/c][/sml]|2.5|13.6[sml][c#999](★8)[/c][/sml]|400.0[sml][c#999](★5)[/c][/sml]|480.0[sml][c#999](★5)[/c][/sml]|A[sml][c#999](★10)[/c][/sml]|1429.7[sml][c#999](★8)[/c][/sml]|
+!|LV|Name|Ammo|Rate of Fire[br][sml](Fire/sec)[/sml]|Damage|Charge Time[br][sml](sec)[/sml]|Effective Area[br][sml](Radisu m)[/sml]|Range[br][sml](m)[/sml]|Shot Speed[br][sml](m/sec)[/sml]|Accuracy|EN Cost|
+
+**Long-Range
+!|LV|Name|Ammo|Rate of Fire[br][sml](Fire/sec)[/sml]|Damage|Charge Time[br][sml](sec)[/sml]|Range[br][sml](m)[/sml]|Shot Speed[br][sml](m/sec)[/sml]|Accuracy|EN Cost|Zoom|
+|0|Closed Laser|679[sml][c#999](★8)[/c][/sml]|60.0|1.8[sml][c#999](★8)[/c][/sml]|2.5[sml][c#999](★7)[/c][/sml]|568.5[sml][c#999](★8)[/c][/sml]|3410.8[sml][c#999](★8)[/c][/sml]|S++|78.1[sml][c#999](★8)[/c][/sml]|5|
+|2|Bolt Shooter|9[sml][c#999](★8)[/c][/sml]|1.1[sml][c#999](★10)[/c][/sml]|46.4×3[sml][c#999](★6+)[/c][/sml]|4.9[sml][c#999](★7)[/c][/sml]|631.6[sml][c#999](★8)[/c][/sml]|379.0[sml][c#999](★8)[/c][/sml]|S++[sml][c#999](★8)[/c][/sml]|97.6[sml][c#999](★8)[/c][/sml]|6|
+|7|Closed Laser M2|736[sml][c#999](★8)[/c][/sml]|60.0|3.4[sml][c#999](★8)[/c][/sml]|2.5[sml][c#999](★7)[/c][/sml]|568.5[sml][c#999](★8)[/c][/sml]|3410.8[sml][c#999](★8)[/c][/sml]|S++|96.8[sml][c#999](★8)[/c][/sml]|5|
+|13|MONSTER ZERO|68[sml][c#999](★8)[/c][/sml]|60.0|56.6[sml][c#999](★8)[/c][/sml]|0.82[sml][c#999](★7)[/c][/sml]|568.5[sml][c#999](★8)[/c][/sml]|3410.8[sml][c#999](★8)[/c][/sml]|S++|75.2[sml][c#999](★8)[/c][/sml]|5|
+|16|Bolt Shooter 2|9[sml][c#999](★8)[/c][/sml]|1.1[sml][c#999](★10)[/c][/sml]|84.9×4[sml][c#999](★6+)[/c][/sml]|4.9[sml][c#999](★7)[/c][/sml]|631.6[sml][c#999](★8)[/c][/sml]|379.0[sml][c#999](★8)[/c][/sml]|S++[sml][c#999](★8)[/c][/sml]|142.9[sml][c#999](★8)[/c][/sml]|6|
+|18|MONSTER|68[sml][c#999](★8)[/c][/sml]|60.0|56.6[sml][c#999](★8)[/c][/sml]|0.82[sml][c#999](★7)[/c][/sml]|568.5[sml][c#999](★8)[/c][/sml]|3410.8[sml][c#999](★8)[/c][/sml]|S++|87.5[sml][c#999](★8)[/c][/sml]|5|
+|22|Closed Laser M3|679[sml][c#999](★8)[/c][/sml]|60.0|6.1[sml][c#999](★8)[/c][/sml]|2.5[sml][c#999](★7)[/c][/sml]|758.0[sml][c#999](★8)[/c][/sml]|4547.8[sml][c#999](★8)[/c][/sml]|S++|146.7[sml][c#999](★8)[/c][/sml]|5|
+|25|Closed Laser MA|793[sml][c#999](★8)[/c][/sml]|60.0|6.8[sml][c#999](★8)[/c][/sml]|2.5[sml][c#999](★7)[/c][/sml]|631.6[sml][c#999](★8)[/c][/sml]|3789.8[sml][c#999](★8)[/c][/sml]|S++|158.3[sml][c#999](★8)[/c][/sml]|5|
+|30|Bolt Shooter RA|78[sml][c#999](★8)[/c][/sml]|12.0[sml][c#999](★10)[/c][/sml]|54.4[sml][c#999](★8)[/c][/sml]|4.9[sml][c#999](★7)[/c][/sml]|631.6[sml][c#999](★8)[/c][/sml]|379.0[sml][c#999](★8)[/c][/sml]|S++[sml][c#999](★8)[/c][/sml]|209.3[sml][c#999](★8)[/c][/sml]|6|
+|36|Raijin|1|----|509.6×30[sml][c#999](★6+)[/c][/sml]|2.5[sml][c#999](★7)[/c][/sml]|631.6[sml][c#999](★8)[/c][/sml]|379.0[sml][c#999](★8)[/c][/sml]|S++[sml][c#999](★8)[/c][/sml]|545.1[sml][c#999](★8)[/c][/sml]|6|
+|40|Closed Laser MSA|793[sml][c#999](★8)[/c][/sml]|60.0|11.0[sml][c#999](★8)[/c][/sml]|2.5[sml][c#999](★7)[/c][/sml]|694.8[sml][c#999](★8)[/c][/sml]|4168.8[sml][c#999](★8)[/c][/sml]|S++[sml][c#999](★8)[/c][/sml]|240.0[sml][c#999](★8)[/c][/sml]|5|
+|45|Bolt Shooter 3|13[sml][c#999](★8)[/c][/sml]|1.1[sml][c#999](★10)[/c][/sml]|217.4×4[sml][c#999](★6+)[/c][/sml]|4.9[sml][c#999](★7)[/c][/sml]|631.6[sml][c#999](★8)[/c][/sml]|379.0[sml][c#999](★8)[/c][/sml]|S++[sml][c#999](★8)[/c][/sml]|319.4[sml][c#999](★8)[/c][/sml]|6|
+|50|Bolt Shooter DA|9[sml][c#999](★8)[/c][/sml]|0.79[sml][c#999](★10)[/c][/sml]|326.1×4[sml][c#999](★6+)[/c][/sml]|4.9[sml][c#999](★7)[/c][/sml]|631.6[sml][c#999](★8)[/c][/sml]|379.0[sml][c#999](★8)[/c][/sml]|S++[sml][c#999](★8)[/c][/sml]|369.5[sml][c#999](★8)[/c][/sml]|6|
+|55|MONSTER GA|68[sml][c#999](★8)[/c][/sml]|60.0|[PT][br]241.4[sml][c#999](★10)[/c][/sml]|0.82[sml][c#999](★7)[/c][/sml]|1136.9[sml][c#999](★8)[/c][/sml]|6821.7[sml][c#999](★8)[/c][/sml]|S++[sml][c#999](★8)[/c][/sml]|321.1[sml][c#999](★8)[/c][/sml]|5|
+|57|Closed Laser MX|849[sml][c#999](★8)[/c][/sml]|60.0|19.8[sml][c#999](★8)[/c][/sml]|2.5[sml][c#999](★7)[/c][/sml]|631.6[sml][c#999](★8)[/c][/sml]|3789.8[sml][c#999](★8)[/c][/sml]|S++|384.5[sml][c#999](★8)[/c][/sml]|5|
+|65|Closed Laser MZ|736[sml][c#999](★8)[/c][/sml]|60.0|26.0[sml][c#999](★8)[/c][/sml]|2.5[sml][c#999](★7)[/c][/sml]|758.0[sml][c#999](★8)[/c][/sml]|4547.8[sml][c#999](★8)[/c][/sml]|S++|480.0[sml][c#999](★8)[/c][/sml]|5|
+|70|Bolt Shooter RF|293[sml][c#999](★8)[/c][/sml]|20.0[sml][c#999](★7)[/c][/sml]|80.4[sml][c#999](★8)[/c][/sml]|4.9[sml][c#999](★7)[/c][/sml]|631.6[sml][c#999](★8)[/c][/sml]|379.0[sml][c#999](★8)[/c][/sml]|S++[sml][c#999](★8)[/c][/sml]|808.7[sml][c#999](★8)[/c][/sml]|4.0|
+|75|Closed Long Laser|1019[sml][c#999](★8)[/c][/sml]|60.0|30.6[sml][c#999](★8)[/c][/sml]|2.5[sml][c#999](★7)[/c][/sml]|1010.6[sml][c#999](★8)[/c][/sml]|6063.7[sml][c#999](★8)[/c][/sml]|S++|738.9[sml][c#999](★8)[/c][/sml]|5|
+|77|Bolt Shooter ZF|18[sml][c#999](★8)[/c][/sml]|1.1[sml][c#999](★10)[/c][/sml]|339.7×6[sml][c#999](★6+)[/c][/sml]|4.9[sml][c#999](★7)[/c][/sml]|2526.5[sml][c#999](★8)[/c][/sml]|1515.9[sml][c#999](★8)[/c][/sml]|S++[sml][c#999](★8)[/c][/sml]|674.1[sml][c#999](★8)[/c][/sml]|6|
+|80|MONSTER GZ|68[sml][c#999](★8)[/c][/sml]|60.0|[PT][br]362.1[sml][c#999](★10)[/c][/sml]|0.82[sml][c#999](★7)[/c][/sml]|1515.9[sml][c#999](★8)[/c][/sml]|9095.5[sml][c#999](★8)[/c][/sml]|S++|481.7[sml][c#999](★8)[/c][/sml]|5|
+|82|Closed Laser F|1019[sml][c#999](★8)[/c][/sml]|60.0|36.2[sml][c#999](★8)[/c][/sml]|2.5[sml][c#999](★7)[/c][/sml]|884.3[sml][c#999](★8)[/c][/sml]|5305.7[sml][c#999](★8)[/c][/sml]|S++|645.3[sml][c#999](★8)[/c][/sml]|5|
+|85|Raijin Alpha|1|----|2491.4×40[sml][c#999](★6+)[/c][/sml]|2.5[sml][c#999](★7)[/c][/sml]|631.6[sml][c#999](★8)[/c][/sml]|379.0[sml][c#999](★8)[/c][/sml]|S++[sml][c#999](★8)[/c][/sml]|2785.7[sml][c#999](★8)[/c][/sml]|6|
+?|112|Raijin Limit Custom [c#8af]@DLC2[/c]|10[sml][c#999](★7)[/c][/sml]|1.6[sml][c#999](★10)[/c][/sml]|339.7×30[sml][c#999](★6+)[/c][/sml]|4.9[sml][c#999](★7)[/c][/sml]|2526.5[sml][c#999](★8)[/c][/sml]|1515.9[sml][c#999](★8)[/c][/sml]|S++[sml][c#999](★8)[/c][/sml]|2137.6[sml][c#999](★8)[/c][/sml]|6|
+!|LV|Name|Ammo|Rate of Fire[br][sml](Fire/sec)[/sml]|Damage|Charge Time[br][sml](sec)[/sml]|Range[br][sml](m)[/sml]|Shot Speed[br][sml](m/sec)[/sml]|Accuracy|EN Cost|Zoom|
+
+**Ranged Weapons
+!|LV|Name|Ammo|Damage|Charge Time[br][sml](sec)[/sml]|Range[br][sml](m)[/sml]|Shot Speed[br][sml](m/sec)[/sml]|Effective Area[br][sml](Radisu m)[/sml]|Accuracy|EN Cost|
+|0|Plasma Cannon|1|101.9[sml][c#999](★8)[/c][/sml]|1.2[sml][c#999](★7)[/c][/sml]|2182.9[sml][c#999](★8)[/c][/sml]|436.6[sml][c#999](★8)[/c][/sml]|9.7[sml][c#999](★10)[/c][/sml]|A+[sml][c#999](★6)[/c][/sml]|10.4[sml][c#999](★8)[/c][/sml]|
+|0|Blink Ball|1|283.1[sml][c#999](★8)[/c][/sml]|4.9[sml][c#999](★7)[/c][/sml]|2182.9[sml][c#999](★8)[/c][/sml]|109.1[sml][c#999](★8)[/c][/sml]|8.4[sml][c#999](★10)[/c][/sml]|A-[sml][c#999](★6)[/c][/sml]|----|
+|0|Grit Shot|10[sml][c#999](★5)[/c][/sml]|9.1×10[sml][c#999](★6+)[/c][/sml]|2.5[sml][c#999](★7)[/c][/sml]|545.7[sml][c#999](★8)[/c][/sml]|436.6[sml][c#999](★8)[/c][/sml]|4.8[sml][c#999](★10)[/c][/sml]|B[sml][c#999](★6)[/c][/sml]|35.2[sml][c#999](★8)[/c][/sml]|
+|1|Plasma Big Cannon|1|203.8[sml][c#999](★8)[/c][/sml]|1.6[sml][c#999](★7)[/c][/sml]|1091.5[sml][c#999](★8)[/c][/sml]|218.3[sml][c#999](★8)[/c][/sml]|19.3[sml][c#999](★10)[/c][/sml]|A+[sml][c#999](★6)[/c][/sml]|21.6[sml][c#999](★8)[/c][/sml]|
+|3|Plasmafall|1|237.8[sml][c#999](★8)[/c][/sml]|0.54[sml][c#999](★7)[/c][/sml]|818.6[sml][c#999](★8)[/c][/sml]|163.7[sml][c#999](★8)[/c][/sml]|8.4[sml][c#999](★10)[/c][/sml]|S+[sml][c#999](★6)[/c][/sml]|11.4[sml][c#999](★8)[/c][/sml]|
+|4|Plasma Burst Cannon 2|2[sml][c#999](★5)[/c][/sml]|183.5[sml][c#999](★8)[/c][/sml]|1.6[sml][c#999](★7)[/c][/sml]|2182.9[sml][c#999](★8)[/c][/sml]|436.6[sml][c#999](★8)[/c][/sml]|9.7[sml][c#999](★10)[/c][/sml]|S[sml][c#999](★6)[/c][/sml]|17.7[sml][c#999](★8)[/c][/sml]|
+|6|Plasma Cannon Type B|1|203.8[sml][c#999](★8)[/c][/sml]|1.2[sml][c#999](★7)[/c][/sml]|2728.6[sml][c#999](★8)[/c][/sml]|545.7[sml][c#999](★8)[/c][/sml]|10.3[sml][c#999](★10)[/c][/sml]|A+[sml][c#999](★6)[/c][/sml]|12.4[sml][c#999](★8)[/c][/sml]|
+|8|Splasher|40[sml][c#999](★5)[/c][/sml]|18.1×5[sml][c#999](★6+)[/c][/sml]|2.5[sml][c#999](★7)[/c][/sml]|818.6[sml][c#999](★8)[/c][/sml]|163.7[sml][c#999](★8)[/c][/sml]|3.6[sml][c#999](★10)[/c][/sml]|B[sml][c#999](★6)[/c][/sml]|43.3[sml][c#999](★8)[/c][/sml]|
+|10|Plasma Big Cannon M2|1|611.5[sml][c#999](★8)[/c][/sml]|1.6[sml][c#999](★7)[/c][/sml]|1855.5[sml][c#999](★8)[/c][/sml]|371.1[sml][c#999](★8)[/c][/sml]|24.1[sml][c#999](★10)[/c][/sml]|A+[sml][c#999](★6)[/c][/sml]|30.9[sml][c#999](★8)[/c][/sml]|
+|12|Split Ball|1|169.9×8[sml][c#999](★6+)[/c][/sml]|6.5[sml][c#999](★7)[/c][/sml]|2182.9[sml][c#999](★8)[/c][/sml]|109.1[sml][c#999](★8)[/c][/sml]|6.0[sml][c#999](★10)[/c][/sml]|A+[sml][c#999](★6)[/c][/sml]|----|
+|13|Grit Gun|30[sml][c#999](★5)[/c][/sml]|27.2[sml][c#999](★8)[/c][/sml]|1.5[sml][c#999](★7)[/c][/sml]|545.7[sml][c#999](★8)[/c][/sml]|436.6[sml][c#999](★8)[/c][/sml]|8.4[sml][c#999](★10)[/c][/sml]|A+[sml][c#999](★6)[/c][/sml]|40.4[sml][c#999](★8)[/c][/sml]|
+|15|Plasma Heavy Cannon|1|7700.7[sml][c#999](★8)[/c][/sml]|4.1[sml][c#999](★7)[/c][/sml]|1091.5[sml][c#999](★8)[/c][/sml]|109.1[sml][c#999](★8)[/c][/sml]|30.2[sml][c#999](★10)[/c][/sml]|S++|197.2[sml][c#999](★8)[/c][/sml]|
+|18|Plasmafall F6|1|305.8×6[sml][c#999](★6+)[/c][/sml]|3.3[sml][c#999](★7)[/c][/sml]|818.6[sml][c#999](★8)[/c][/sml]|163.7[sml][c#999](★8)[/c][/sml]|10.9[sml][c#999](★10)[/c][/sml]|S[sml][c#999](★6)[/c][/sml]|68.6[sml][c#999](★8)[/c][/sml]|
+|18|Blink Ball B|1|566.2[sml][c#999](★8)[/c][/sml]|4.9[sml][c#999](★7)[/c][/sml]|2182.9[sml][c#999](★8)[/c][/sml]|109.1[sml][c#999](★8)[/c][/sml]|10.9[sml][c#999](★10)[/c][/sml]|A-[sml][c#999](★6)[/c][/sml]|----|
+|20|Plasma Burst Cannon 3|3[sml][c#999](★5)[/c][/sml]|334.1[sml][c#999](★8)[/c][/sml]|1.8[sml][c#999](★7)[/c][/sml]|2182.9[sml][c#999](★8)[/c][/sml]|436.6[sml][c#999](★8)[/c][/sml]|14.5[sml][c#999](★10)[/c][/sml]|A+[sml][c#999](★6)[/c][/sml]|33.5[sml][c#999](★8)[/c][/sml]|
+|26|Plasma Cannon Type C|1|509.6[sml][c#999](★8)[/c][/sml]|1.2[sml][c#999](★7)[/c][/sml]|2728.6[sml][c#999](★8)[/c][/sml]|545.7[sml][c#999](★8)[/c][/sml]|15.7[sml][c#999](★10)[/c][/sml]|S[sml][c#999](★6)[/c][/sml]|19.6[sml][c#999](★8)[/c][/sml]|
+|27|Grit Shot W10|10[sml][c#999](★5)[/c][/sml]|31.7×10[sml][c#999](★6+)[/c][/sml]|2.5[sml][c#999](★7)[/c][/sml]|545.7[sml][c#999](★8)[/c][/sml]|436.6[sml][c#999](★8)[/c][/sml]|7.2[sml][c#999](★10)[/c][/sml]|A+[sml][c#999](★6)[/c][/sml]|74.4[sml][c#999](★8)[/c][/sml]|
+|29|Blink Ball C|1|1132.5[sml][c#999](★8)[/c][/sml]|4.9[sml][c#999](★7)[/c][/sml]|2182.9[sml][c#999](★8)[/c][/sml]|109.1[sml][c#999](★8)[/c][/sml]|12.1[sml][c#999](★10)[/c][/sml]|A-[sml][c#999](★6)[/c][/sml]|----|
+|30|Plasmafall DA|1|475.6[sml][c#999](★8)[/c][/sml]|0.54[sml][c#999](★7)[/c][/sml]|818.6[sml][c#999](★8)[/c][/sml]|163.7[sml][c#999](★8)[/c][/sml]|14.5[sml][c#999](★10)[/c][/sml]|S+[sml][c#999](★6)[/c][/sml]|24.3[sml][c#999](★8)[/c][/sml]|
+|33|Grit Gun MA|30[sml][c#999](★5)[/c][/sml]|67.9[sml][c#999](★8)[/c][/sml]|1.6[sml][c#999](★7)[/c][/sml]|818.6[sml][c#999](★8)[/c][/sml]|654.9[sml][c#999](★8)[/c][/sml]|8.4[sml][c#999](★10)[/c][/sml]|A+[sml][c#999](★6)[/c][/sml]|70.3[sml][c#999](★8)[/c][/sml]|
+|35|Triple Plasma Cannon|1|237.8×3[sml][c#999](★6+)[/c][/sml]|1.2[sml][c#999](★7)[/c][/sml]|1309.7[sml][c#999](★8)[/c][/sml]|261.9[sml][c#999](★8)[/c][/sml]|13.3[sml][c#999](★10)[/c][/sml]|A+[sml][c#999](★6)[/c][/sml]|48.1[sml][c#999](★8)[/c][/sml]|
+|38|Plasma Cannon CR|1|424.7[sml][c#999](★8)[/c][/sml]|0.68[sml][c#999](★7)[/c][/sml]|3274.4[sml][c#999](★8)[/c][/sml]|654.9[sml][c#999](★8)[/c][/sml]|12.11[sml][c#999](★10)[/c][/sml]|S[sml][c#999](★6)[/c][/sml]|25.1[sml][c#999](★8)[/c][/sml]|
+|41|Blink Fork|1|226.5[sml][c#999](★8)[/c][/sml]|3.7[sml][c#999](★7)[/c][/sml]|2182.9[sml][c#999](★8)[/c][/sml]|109.1[sml][c#999](★8)[/c][/sml]|18.1[sml][c#999](★10)[/c][/sml]|S+[sml][c#999](★6)[/c][/sml]|----|
+|43|Plasma Burst Cannon 2D|2[sml][c#999](★5)[/c][/sml]|826.7[sml][c#999](★8)[/c][/sml]|1.2[sml][c#999](★7)[/c][/sml]|2728.6[sml][c#999](★8)[/c][/sml]|545.7[sml][c#999](★8)[/c][/sml]|16.9[sml][c#999](★10)[/c][/sml]|A+[sml][c#999](★6)[/c][/sml]|49.3[sml][c#999](★8)[/c][/sml]|
+|45|Plasmafall F10|1|407.7×10[sml][c#999](★6+)[/c][/sml]|2.5[sml][c#999](★7)[/c][/sml]|818.6[sml][c#999](★8)[/c][/sml]|163.7[sml][c#999](★8)[/c][/sml]|16.9[sml][c#999](★10)[/c][/sml]|A+[sml][c#999](★6)[/c][/sml]|154.2[sml][c#999](★8)[/c][/sml]|
+|51|Splasher AZ|40[sml][c#999](★5)[/c][/sml]|28.3×5[sml][c#999](★6+)[/c][/sml]|1.2[sml][c#999](★7)[/c][/sml]|1637.2[sml][c#999](★8)[/c][/sml]|327.4[sml][c#999](★8)[/c][/sml]|6.0[sml][c#999](★10)[/c][/sml]|B[sml][c#999](★6)[/c][/sml]|107.0[sml][c#999](★8)[/c][/sml]|
+|52|Plasma Big Cannon M3|1|1494.8[sml][c#999](★8)[/c][/sml]|0.68[sml][c#999](★7)[/c][/sml]|1091.5[sml][c#999](★8)[/c][/sml]|218.3[sml][c#999](★8)[/c][/sml]|24.1[sml][c#999](★10)[/c][/sml]|S[sml][c#999](★6)[/c][/sml]|105.6[sml][c#999](★8)[/c][/sml]|
+|53|Blink Ball D|1|2264.9[sml][c#999](★8)[/c][/sml]|4.9[sml][c#999](★7)[/c][/sml]|2182.9[sml][c#999](★8)[/c][/sml]|109.1[sml][c#999](★8)[/c][/sml]|16.9[sml][c#999](★10)[/c][/sml]|A-[sml][c#999](★6)[/c][/sml]|----|
+|55|Plasma Great Cannon|1|22649.1[sml][c#999](★8)[/c][/sml]|4.1[sml][c#999](★7)[/c][/sml]|8731.6[sml][c#999](★8)[/c][/sml]|873.2[sml][c#999](★8)[/c][/sml]|36.2[sml][c#999](★10)[/c][/sml]|S++|610.5[sml][c#999](★8)[/c][/sml]|
+|57|Plasma Cannon Type D|1|1030.5[sml][c#999](★8)[/c][/sml]|0.95[sml][c#999](★7)[/c][/sml]|3274.4[sml][c#999](★8)[/c][/sml]|654.9[sml][c#999](★8)[/c][/sml]|21.7[sml][c#999](★10)[/c][/sml]|S[sml][c#999](★6)[/c][/sml]|68.8[sml][c#999](★8)[/c][/sml]|
+|60|Double Plasma Cannon|1|475.6×2[sml][c#999](★6+)[/c][/sml]|0.82[sml][c#999](★7)[/c][/sml]|1855.5[sml][c#999](★8)[/c][/sml]|371.1[sml][c#999](★8)[/c][/sml]|9.7[sml][c#999](★10)[/c][/sml]|S[sml][c#999](★6)[/c][/sml]|73.8[sml][c#999](★8)[/c][/sml]|
+|62|Grit Shot W15|10[sml][c#999](★5)[/c][/sml]|98.5×15[sml][c#999](★6+)[/c][/sml]|2.5[sml][c#999](★7)[/c][/sml]|545.7[sml][c#999](★8)[/c][/sml]|436.6[sml][c#999](★8)[/c][/sml]|9.7[sml][c#999](★10)[/c][/sml]|A+[sml][c#999](★6)[/c][/sml]|171.8[sml][c#999](★8)[/c][/sml]|
+|65|Split Ball AT|1|849.3×8[sml][c#999](★6+)[/c][/sml]|6.5[sml][c#999](★7)[/c][/sml]|2182.9[sml][c#999](★8)[/c][/sml]|109.1[sml][c#999](★8)[/c][/sml]|12.1[sml][c#999](★10)[/c][/sml]|A+[sml][c#999](★6)[/c][/sml]|----|
+|66|Plasma Cannon Type E|1|1347.6[sml][c#999](★8)[/c][/sml]|0.95[sml][c#999](★7)[/c][/sml]|3274.4[sml][c#999](★8)[/c][/sml]|654.9[sml][c#999](★8)[/c][/sml]|18.1[sml][c#999](★10)[/c][/sml]|S+[sml][c#999](★6)[/c][/sml]|55.2[sml][c#999](★8)[/c][/sml]|
+|69|Plasma Burst Cannon 4D|4[sml][c#999](★5)[/c][/sml]|1630.7[sml][c#999](★8)[/c][/sml]|1.6[sml][c#999](★7)[/c][/sml]|3274.4[sml][c#999](★8)[/c][/sml]|654.9[sml][c#999](★8)[/c][/sml]|24.1[sml][c#999](★10)[/c][/sml]|A[sml][c#999](★6)[/c][/sml]|300.0[sml][c#999](★8)[/c][/sml]|
+|75|Plasma Cannon Type F|1|1698.7[sml][c#999](★8)[/c][/sml]|0.82[sml][c#999](★7)[/c][/sml]|1637.2[sml][c#999](★8)[/c][/sml]|327.4[sml][c#999](★8)[/c][/sml]|30.2[sml][c#999](★10)[/c][/sml]|S+[sml][c#999](★6)[/c][/sml]|106.3[sml][c#999](★8)[/c][/sml]|
+|78|Blink Ball FZ|1|4529.8[sml][c#999](★8)[/c][/sml]|4.9[sml][c#999](★7)[/c][/sml]|2182.9[sml][c#999](★8)[/c][/sml]|109.1[sml][c#999](★8)[/c][/sml]|19.3[sml][c#999](★10)[/c][/sml]|A-[sml][c#999](★6)[/c][/sml]|----|
+|80|Plasma Burst Cannon 4Z|4[sml][c#999](★5)[/c][/sml]|1494.8[sml][c#999](★8)[/c][/sml]|1.8[sml][c#999](★7)[/c][/sml]|2182.9[sml][c#999](★8)[/c][/sml]|436.6[sml][c#999](★8)[/c][/sml]|24.1[sml][c#999](★10)[/c][/sml]|S+[sml][c#999](★6)[/c][/sml]|227.9[sml][c#999](★8)[/c][/sml]|
+|85|Plasmafall F20|1|815.4×20[sml][c#999](★6+)[/c][/sml]|2.5[sml][c#999](★7)[/c][/sml]|1091.5[sml][c#999](★8)[/c][/sml]|218.3[sml][c#999](★8)[/c][/sml]|18.1[sml][c#999](★10)[/c][/sml]|S++|439.6[sml][c#999](★8)[/c][/sml]|
+?|104|Plasma Cannon Type G [c#f88]@DLC1[/c]|1|2038.4[sml][c#999](★8)[/c][/sml]|0.82[sml][c#999](★7)[/c][/sml]|1637.2[sml][c#999](★8)[/c][/sml]|327.4[sml][c#999](★8)[/c][/sml]|31.4[sml][c#999](★10)[/c][/sml]|S+[sml][c#999](★6)[/c][/sml]|173.5[sml][c#999](★8)[/c][/sml]|
+!|LV|Name|Ammo|Damage|Charge Time[br][sml](sec)[/sml]|Range[br][sml](m)[/sml]|Shot Speed[br][sml](m/sec)[/sml]|Effective Area[br][sml](Radisu m)[/sml]|Accuracy|EN Cost|
+
+**Homing Weapons
+!|LV|Name|Damage|Charge Time[br][sml](sec)[/sml]|Effective Area[br][sml](Radisu m)[/sml]|Rock-on[br][sml](Range/Targets)[/sml]|Rock-on Time[br][sml](sec)[/sml]|EN Cost|Homing[br]Capability|
+|0|Mirage Zero|34.0[sml][c#999](★8)[/c][/sml]|0.27[sml][c#999](★5)[/c][/sml]|5.0[sml][c#999](★5)[/c][/sml]|300.0m / 1 Targets[sml][c#999](★5)[/c][/sml]|0.0027[sml][c#999](★7)[/c][/sml]|3.5[sml][c#999](★8)[/c][/sml]|A|
+|2|Geist|79.3[sml][c#999](★8)[/c][/sml]|0.88[sml][c#999](★8)[/c][/sml]|10.0[sml][c#999](★5)[/c][/sml]|300.0m / 1 Targets[sml][c#999](★5)[/c][/sml]|0.027[sml][c#999](★7)[/c][/sml]|5.6[sml][c#999](★8)[/c][/sml]|C|
+|5|Rapid Mirage|17.0[sml][c#999](★8)[/c][/sml]|0.074[sml][c#999](★8)[/c][/sml]|----|300.0m / 1 Targets[sml][c#999](★5)[/c][/sml]|0.027[sml][c#999](★7)[/c][/sml]|1.2[sml][c#999](★8)[/c][/sml]|B|
+|8|Mirage 5-Way|22.6×6[sml][c#999](★8)[/c][/sml]|0.88[sml][c#999](★8)[/c][/sml]|5.0[sml][c#999](★5)[/c][/sml]|300.0m / 6 Targets[sml][c#999](★6+)[/c][/sml]|0.027[sml][c#999](★7)[/c][/sml]|11.1[sml][c#999](★8)[/c][/sml]|B|
+|13|Geist 2|226.5[sml][c#999](★8)[/c][/sml]|0.88[sml][c#999](★8)[/c][/sml]|12.0[sml][c#999](★5)[/c][/sml]|300.0m / 1 Targets[sml][c#999](★5)[/c][/sml]|0.027[sml][c#999](★7)[/c][/sml]|8.9[sml][c#999](★8)[/c][/sml]|C+|
+|18|Mirage 5-Way B|45.3×6[sml][c#999](★8)[/c][/sml]|0.70[sml][c#999](★8)[/c][/sml]|5.0[sml][c#999](★5)[/c][/sml]|350.0m / 6 Targets[sml][c#999](★6+)[/c][/sml]|0.027[sml][c#999](★7)[/c][/sml]|15.8[sml][c#999](★8)[/c][/sml]|B|
+|21|Ghost Chaser|9.1×11[sml][c#999](★7+)[/c][/sml]|0.074[sml][c#999](★8)[/c][/sml]|1.0[sml][c#999](★5)[/c][/sml]|600.0m / 11 Targets[sml][c#999](★6)[/c][/sml]|0.024[sml][c#999](★6)[/c][/sml]|4.1[sml][c#999](★8)[/c][/sml]|A|
+|25|Mirage Rumble|113.2[sml][c#999](★5)[/c][/sml]|0.27[sml][c#999](★8)[/c][/sml]|5.0[sml][c#999](★5)[/c][/sml]|500.0m / 1 Targets[sml][c#999](★5)[/c][/sml]|0.027[sml][c#999](★7)[/c][/sml]|3.5[sml][c#999](★8)[/c][/sml]|A|
+|28|Mirage 15|17.0×17[sml][c#999](★8)[/c][/sml]|0.27[sml][c#999](★8)[/c][/sml]|----|350.0m / 17 Targets[sml][c#999](★6+)[/c][/sml]|0.020[sml][c#999](★7)[/c][/sml]|5.7[sml][c#999](★8)[/c][/sml]|A|
+|31|Psiblade|679.5[sml][c#999](★8)[/c][/sml]|1.6[sml][c#999](★8)[/c][/sml]|12.0[sml][c#999](★5)[/c][/sml]|700.0m / 1 Targets[sml][c#999](★5)[/c][/sml]|0.82[sml][c#999](★7)[/c][/sml]|82.0[sml][c#999](★8)[/c][/sml]|S|
+|36|Geist 3|226.5×3[sml][c#999](★6+)[/c][/sml]|0.39[sml][c#999](★8)[/c][/sml]|20.0[sml][c#999](★5)[/c][/sml]|400.0m / 3 Targets[sml][c#999](★5)[/c][/sml]|0.027[sml][c#999](★7)[/c][/sml]|9.5[sml][c#999](★8)[/c][/sml]|C+|
+|43|Mirage 15S|28.3×17[sml][c#999](★8)[/c][/sml]|0.27[sml][c#999](★8)[/c][/sml]|----|400.0m / 17 Targets[sml][c#999](★6+)[/c][/sml]|0.024[sml][c#999](★6)[/c][/sml]|8.6[sml][c#999](★8)[/c][/sml]|A|
+|53|Fenrir|135.9[sml][c#999](★8)[/c][/sml]|0.074[sml][c#999](★8)[/c][/sml]|5.0[sml][c#999](★5)[/c][/sml]|300.0m / 1 Targets[sml][c#999](★5)[/c][/sml]|0.027[sml][c#999](★7)[/c][/sml]|5.7[sml][c#999](★8)[/c][/sml]|C+|
+|56|Mirage 5-Way S|152.9×6[sml][c#999](★8)[/c][/sml]|1.2[sml][c#999](★8)[/c][/sml]|5.0[sml][c#999](★5)[/c][/sml]|400.0m / 6 Targets[sml][c#999](★6+)[/c][/sml]|0.020[sml][c#999](★7)[/c][/sml]|37.1[sml][c#999](★8)[/c][/sml]|A|
+|60|Psiblade Alpha|2264.9[sml][c#999](★8)[/c][/sml]|1.6[sml][c#999](★8)[/c][/sml]|20.0[sml][c#999](★5)[/c][/sml]|1000.0m / 1 Targets[sml][c#999](★5)[/c][/sml]|0.41[sml][c#999](★7)[/c][/sml]|187.0[sml][c#999](★8)[/c][/sml]|S|
+|63|Geist D|453.0×3[sml][c#999](★6+)[/c][/sml]|0.39[sml][c#999](★8)[/c][/sml]|20.0[sml][c#999](★5)[/c][/sml]|500.0m / 3 Targets[sml][c#999](★5)[/c][/sml]|0.027[sml][c#999](★7)[/c][/sml]|20.3[sml][c#999](★8)[/c][/sml]|C+|
+|68|Ghost Chaser DA|36.2×34[sml][c#999](★8)[/c][/sml]|0.074[sml][c#999](★8)[/c][/sml]|3.0[sml][c#999](★5)[/c][/sml]|600.0m / 34 Targets[sml][c#999](★6+)[/c][/sml]|0.024[sml][c#999](★6)[/c][/sml]|15.0[sml][c#999](★8)[/c][/sml]|A|
+|76|Mirage 15WR|56.6×17[sml][c#999](★8)[/c][/sml]|0.27[sml][c#999](★8)[/c][/sml]|----|500.0m / 17 Targets[sml][c#999](★6+)[/c][/sml]|0.007[sml][c#999](★7)[/c][/sml]|18.0[sml][c#999](★8)[/c][/sml]|A|
+|83|Fenrir 3-Way|135.9×3[sml][c#999](★6+)[/c][/sml]|0.074[sml][c#999](★8)[/c][/sml]|2.0[sml][c#999](★5)[/c][/sml]|350.0m / 3 Targets[sml][c#999](★5)[/c][/sml]|0.027[sml][c#999](★7)[/c][/sml]|17.4[sml][c#999](★8)[/c][/sml]|A+|
+?|106|Geist G [c#f88]@DLC1[/c]|906.0×5[sml][c#999](★8)[/c][/sml]|0.39[sml][c#999](★8)[/c][/sml]|12.0[sml][c#999](★5)[/c][/sml]|500.0m / 5 Targets[sml][c#999](★6+)[/c][/sml]|0.027[sml][c#999](★7)[/c][/sml]|38.9[sml][c#999](★8)[/c][/sml]|A+|
+!|LV|Name|Damage|Charge Time[br][sml](sec)[/sml]|Effective Area[br][sml](Radisu m)[/sml]|Rock-on[br][sml](Range/Targets)[/sml]|Rock-on Time[br][sml](sec)[/sml]|EN Cost|Homing[br]Capability|
+
+**Special
+!|LV|Name|Damage|Charge Time[br][sml](sec)[/sml]|Ammo|Rock-on[br]Range[br][sml](Radius m)[/sml]|EN Cost|
+|2|Diffuser|18.0[sml][c#999](★10)[/c][/sml]|60.0[sml][c#999](★5)[/c][/sml]|1800|-|41.3[sml][c#999](★8)[/c][/sml]|
+|5|Gleipnir|4.8[sml][c#999](★10)[/c][/sml]|90.0[sml][c#999](★5)[/c][/sml]|600|100|100.3[sml][c#999](★8)[/c][/sml]|
+|8|Thunder Cluster|36.0[sml][c#999](★10)[/c][/sml]|60.0[sml][c#999](★5)[/c][/sml]|500|-|49.1[sml][c#999](★8)[/c][/sml]|
+|13|Diffuser Anti-Air Custom|28.8[sml][c#999](★10)[/c][/sml]|60.0[sml][c#999](★5)[/c][/sml]|1800|-|56.0[sml][c#999](★8)[/c][/sml]|
+|16|Gleipnir β|14.4[sml][c#999](★10)[/c][/sml]|90.0[sml][c#999](★5)[/c][/sml]|600|130|136.1[sml][c#999](★8)[/c][/sml]|
+|20|Alpha Diffuser|54.0[sml][c#999](★10)[/c][/sml]|60.0[sml][c#999](★5)[/c][/sml]|1800|-|69.4[sml][c#999](★8)[/c][/sml]|
+|24|Heaven's Gate|36.0×4[sml][c#999](★10)[/c][/sml]|60.0[sml][c#999](★5)[/c][/sml]|600|-|75.9[sml][c#999](★8)[/c][/sml]|
+|26|Psi Cluster|54.0[sml][c#999](★10)[/c][/sml]|60.0[sml][c#999](★5)[/c][/sml]|1800|-|80.8[sml][c#999](★8)[/c][/sml]|
+|34|Diffuser Air-to-Surface Custom|81.0[sml][c#999](★10)[/c][/sml]|60.0[sml][c#999](★5)[/c][/sml]|1800|-|102.3[sml][c#999](★8)[/c][/sml]|
+|41|Psi Cluster α|108.0[sml][c#999](★10)[/c][/sml]|60.0[sml][c#999](★5)[/c][/sml]|1800|-|124.2[sml][c#999](★8)[/c][/sml]|
+|48|EX Gleipnir|37.8[sml][c#999](★10)[/c][/sml]|90.0[sml][c#999](★5)[/c][/sml]|900|180|670.4[sml][c#999](★8)[/c][/sml]|
+|51|Heaven's Gate 10|54.0×10[sml][c#999](★10)[/c][/sml]|60.0[sml][c#999](★5)[/c][/sml]|600|-|161.7[sml][c#999](★8)[/c][/sml]|
+|56|Thunder Cluster α|81.0[sml][c#999](★10)[/c][/sml]|60.0[sml][c#999](★5)[/c][/sml]|500|-|202.4[sml][c#999](★8)[/c][/sml]|
+|63|Diffuser Anti-Air Custom D|180.0[sml][c#999](★10)[/c][/sml]|60.0[sml][c#999](★5)[/c][/sml]|1800|-|228.6[sml][c#999](★8)[/c][/sml]|
+|71|Heaven's Gate D10|108.0×10[sml][c#999](★10)[/c][/sml]|60.0[sml][c#999](★5)[/c][/sml]|600|-|281.5[sml][c#999](★8)[/c][/sml]|
+|81|Gleipnir α|97.2[sml][c#999](★10)[/c][/sml]|90.0[sml][c#999](★5)[/c][/sml]|600|250|819.7[sml][c#999](★8)[/c][/sml]|
+|84|Diffuser Air-to-Surface Custom D|324.0[sml][c#999](★10)[/c][/sml]|60.0[sml][c#999](★5)[/c][/sml]|1800|-|818.5[sml][c#999](★8)[/c][/sml]|
+|87|Thunder Orb|180.0×2[sml][c#999](★10)[/c][/sml]|80.0[sml][c#999](★5)[/c][/sml]|1000|-|2372.0[sml][c#999](★8)[/c][/sml]|
+|88|Final Days|18.0×10[sml][c#999](★10)[/c][/sml]|60.0[sml][c#999](★5)[/c][/sml]|600|-|2004.3[sml][c#999](★8)[/c][/sml]|
+?|107|Psi Blast Wall [c#8af]@DLC2[/c]|72.0×10[sml][c#999](★10)[/c][/sml]|60.0[sml][c#999](★5)[/c][/sml]|900|-|2367.5[sml][c#999](★8)[/c][/sml]|
+!|LV|Name|Damage|Charge Time[br][sml](sec)[/sml]|Ammo|Rock-on[br]Range[br][sml](Radius m)[/sml]|EN Cost|
+
+**Plasma Cores
+!|LV|Name|Max EN|Charge[br][sml](EN/sec)[/sml]|EMG Charge[br][sml](EN/sec)[/sml]|Flight[br]Consumption[br][sml](EN/sec)[/sml]|Boost[br]Consumption|Boost[br]Speed|Weapon[br]Charge Speed|Flight Speed|
+|0|Plasma Core|120.5[sml][c#999](★10)[/c][/sml]|6.0|14.5[sml][c#999](★10)[/c][/sml]|15.0|3.0|-|-|-|
+|1|Turbo Core|102.8[sml][c#999](★10)[/c][/sml]|6.2|12.3[sml][c#999](★10)[/c][/sml]|15.4|3.2|Forward+25%|-|-|
+|2|Plasma Core B|143.0[sml][c#999](★10)[/c][/sml]|7.1|17.2[sml][c#999](★10)[/c][/sml]|17.8|3.6|-|-|-|
+|5|Rush Core|145.3[sml][c#999](★10)[/c][/sml]|7.2|17.4[sml][c#999](★10)[/c][/sml]|18.1|3.6|-|+20%|-|
+|7|V2 Plasma Core|171.7[sml][c#999](★10)[/c][/sml]|8.6|20.6[sml][c#999](★10)[/c][/sml]|21.4|4.3|-|-|-|
+|12|V2 Plasma Core Type B|184.8[sml][c#999](★10)[/c][/sml]|9.2|22.2[sml][c#999](★10)[/c][/sml]|23.0|4.6|-|-|-|
+|15|V2 Turbo Core|193.0[sml][c#999](★10)[/c][/sml]|9.6|23.2[sml][c#999](★10)[/c][/sml]|24.0|5.0|Forward+30%|-|-|
+|18|Loading Core|277.8[sml][c#999](★10)[/c][/sml]|11.1|26.7[sml][c#999](★10)[/c][/sml]|34.6|6.9|-|-|-10%|
+|20|V2 Rush Core|220.2[sml][c#999](★10)[/c][/sml]|11.0|26.4[sml][c#999](★10)[/c][/sml]|27.4|5.5|-|+20%|-|
+|22|Jet Core|221.7[sml][c#999](★10)[/c][/sml]|11.0|26.6[sml][c#999](★10)[/c][/sml]|27.6|11.0|Forward+100%|-|-|
+|24|V2 Plasma Core Type C|247.7[sml][c#999](★10)[/c][/sml]|12.3|29.7[sml][c#999](★10)[/c][/sml]|30.9|6.2|-|-|-|
+|27|Reverse Core|243.6[sml][c#999](★10)[/c][/sml]|13.3|39.5[sml][c#999](★10)[/c][/sml]|30.3|6.1|-|-|-|
+|29|V3 Plasma Core|323.0[sml][c#999](★10)[/c][/sml]|16.1|38.8[sml][c#999](★10)[/c][/sml]|40.2|8.0|-|-|-|
+|33|Big Core|902.2[sml][c#999](★10)[/c][/sml]|36.0|70.4[sml][c#999](★10)[/c][/sml]|112.3|22.5|-|+200%|Greatly Resuced|
+|36|V3 Turbo Core|343.2[sml][c#999](★10)[/c][/sml]|17.1|41.2[sml][c#999](★10)[/c][/sml]|42.7|9.4|Forward+30%[hr]Sideways+15%|-|-|
+|38|V3 Plasma Core Type B|388.0[sml][c#999](★10)[/c][/sml]|19.3|46.6[sml][c#999](★10)[/c][/sml]|48.3|9.7|-|-|-|
+|41|V3 Rush Core|396.9[sml][c#999](★10)[/c][/sml]|19.8|49.4[sml][c#999](★10)[/c][/sml]|49.4|9.9|-|+30%|-|
+|43|Sky High Core|405.2[sml][c#999](★10)[/c][/sml]|20.2|48.6[sml][c#999](★10)[/c][/sml]|50.5|6.1|-|-|-|
+|47|V3 Plasma Core Type C|472.0[sml][c#999](★10)[/c][/sml]|23.5|56.6[sml][c#999](★10)[/c][/sml]|58.8|11.8|-|-|-|
+|51|V4 Plasma Core|598.6[sml][c#999](★10)[/c][/sml]|29.8|71.8[sml][c#999](★10)[/c][/sml]|74.5|14.9|-|-|-|
+|55|Bird Core|536.8[sml][c#999](★10)[/c][/sml]|26.7|64.4[sml][c#999](★10)[/c][/sml]|83.6|13.4|-|-|+25%|
+|58|Return Core|644.8[sml][c#999](★10)[/c][/sml]|32.1|77.4[sml][c#999](★10)[/c][/sml]|80.3|19.3|Backward+20%[hr]Sideways+30%|-|-|
+|61|V4 Plasma Core Type B|732.1[sml][c#999](★10)[/c][/sml]|36.5|87.8[sml][c#999](★10)[/c][/sml]|91.2|18.2|-|-|-|
+|63|Loading Core Type B|1113.1[sml][c#999](★10)[/c][/sml]|37.7|90.8[sml][c#999](★10)[/c][/sml]|138.6|27.7|-|-|-20%|
+|65|V4 Turbo Core|735.4[sml][c#999](★10)[/c][/sml]|36.6|88.2[sml][c#999](★10)[/c][/sml]|91.6|21.1|Forward+35%[hr]Sideways+20%|-|-|
+|68|V4 Plasma Core Type C|845.0[sml][c#999](★10)[/c][/sml]|42.1|101.4[sml][c#999](★10)[/c][/sml]|105.2|21.0|-|-|-|
+|71|V5 Plasma Core|1042.2[sml][c#999](★10)[/c][/sml]|51.9|125.1[sml][c#999](★10)[/c][/sml]|129.8|26.0|-|-|-|
+|73|VA Rush Core|918.0[sml][c#999](★10)[/c][/sml]|45.7|110.2[sml][c#999](★10)[/c][/sml]|114.3|22.9|-|+50%|-|
+|76|V5 Plasma Core Type B|1089.8[sml][c#999](★10)[/c][/sml]|54.3|130.8[sml][c#999](★10)[/c][/sml]|135.7|27.1|-|-|-|
+|78|Big Bang Core|3185.5[sml][c#999](★10)[/c][/sml]|126.9|248.5[sml][c#999](★10)[/c][/sml]|396.7|79.3|-|+200%|Greatly Resuced|
+|80|EX Bird Core|1073.7[sml][c#999](★10)[/c][/sml]|53.5|167.1[sml][c#999](★10)[/c][/sml]|167.1|26.7|-|-|+30%|
+|83|VM Rush Core|1228.2[sml][c#999](★10)[/c][/sml]|61.2|147.4[sml][c#999](★10)[/c][/sml]|152.9|30.6|-|+50%|-|
+|85|VM Jet Core|1298.2[sml][c#999](★10)[/c][/sml]|64.7|155.8[sml][c#999](★10)[/c][/sml]|161.7|72.8|Forward+100%[hr]Sideways+50%|-|-|
+|88|VZ Plasma Core|1693.0[sml][c#999](★10)[/c][/sml]|84.3|203.2[sml][c#999](★10)[/c][/sml]|210.8|42.2|-|-|-|
+?|100|Loading Core Type G [c#f88]@DLC1[/c]|2505.4[sml][c#999](★10)[/c][/sml]|81.1|270.6[sml][c#999](★10)[/c][/sml]|312.0|62.4|-|-|-10%|
+?|106|VG Rush Core [c#f88]@DLC1[/c]|1599.6[sml][c#999](★10)[/c][/sml]|79.7|192.0[sml][c#999](★10)[/c][/sml]|199.2|39.8|-|+30%|-|
+?|106|Return Core G [c#8af]@DLC2[/c]|1830.9[sml][c#999](★10)[/c][/sml]|91.2|219.7[sml][c#999](★10)[/c][/sml]|228.0|54.7|Backward+20%|-|-|
+?|112|Mighty Core [c#8af]@DLC2[/c]|1908.0[sml][c#999](★10)[/c][/sml]|95.0|229.0[sml][c#999](★10)[/c][/sml]|273.2|47.5|Forward+20%[hr]Sideways+10%[hr]Backward+10%|+10%|+15%|
+!|LV|Name|Max EN|Charge[br][sml](EN/sec)[/sml]|EMG Charge[br][sml](EN/sec)[/sml]|Flight[br]Consumption[br][sml](EN/sec)[/sml]|Boost[br]Consumption|Boost[br]Speed|Weapon[br]Charge Speed|Flight Speed|
+
