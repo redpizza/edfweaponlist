@@ -39,11 +39,10 @@ footer p {
 
 footer a {
     color: #333;
-    text-decoration: none;
 }
 
 footer a:hover {
-    color: #555;
+    color: #666;
 }
 
 header,
@@ -76,8 +75,6 @@ text-shadow:
 /* siteCTSのcurrent.gifの再現 */
 span.current {
 font-weight: bold;
-padding: 0 0.5%;
-white-space: nowrap;
 color : white;
 animation: blinkAnimeS2 1.5s infinite alternate;
 }
