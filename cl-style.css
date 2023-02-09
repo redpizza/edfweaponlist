@@ -223,9 +223,8 @@ td.cl-uncheckable {
 }
 
 
-/* localStorageの削除ボタン (redpizaによる追加) */
+/* localStorageの削除ボタン */
 .cl-clearButton {
-text-align: right;
 	color: #fff;
 	border: 1px #8b0000 solid;
 	background: #f00;
@@ -237,4 +236,18 @@ text-align: right;
 
 .cl-clearButton:active {
 	background: #8b0000;
+}
+
+/* ツイートのボタン */
+.cl-tweetButton {
+	color: #fff;
+	border: none;
+	padding-left: 3.6rem !important;
+	background: #1b95e0 url("Logo white.svg") no-repeat 1rem center/auto 50%;
+	cursor: pointer;
+	cursor: hand;
+}
+
+.cl-tweetButton:hover {
+	background-color: #0c7abf;
 }
