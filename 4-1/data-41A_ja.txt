@@ -1,4 +1,4 @@
-*エアレイダー // 地球防衛軍4.1 取得武器チェックリスト
+*エアレイダー // EDF4.1 取得武器チェックリスト
 
 **誘導装置
 !|LV|名前|
@@ -289,34 +289,34 @@
 **バトルマシン
 !|LV|名前|
 |1|BM03ベガルタ|
-|1|デプスクロウラーI <span class="new">@EDF4.1のみ</span>|
+|1|デプスクロウラーI <span class="new">@4.1のみ</span>|
 |10|BM03ベガルタ ファイアウォーリア|
-|11|デプスクロウラーフレイム <span class="new">@EDF4.1のみ</span>|
+|11|デプスクロウラーフレイム <span class="new">@4.1のみ</span>|
 |16|BM03ベガルタD|
-|19|デプスクロウラーII <span class="new">@EDF4.1のみ</span>|
-|20|歩行要塞バラム <span class="new">@EDF4.1のみ</span>|
+|19|デプスクロウラーII <span class="new">@4.1のみ</span>|
+|20|歩行要塞バラム <span class="new">@4.1のみ</span>|
 |20|BM03ベガルタ ヘビーキャノン|
 |27|BM03ベガルタA1|
 |28|BMX10プロテウス|
-|31|デプスクロウラーヘビーカスタム <span class="new">@EDF4.1のみ</span>|
+|31|デプスクロウラーヘビーカスタム <span class="new">@4.1のみ</span>|
 |35|BM03ベガルタ ミサイルガン|
-|39|歩行要塞バラムB型 <span class="new">@EDF4.1のみ</span>|
+|39|歩行要塞バラムB型 <span class="new">@4.1のみ</span>|
 |40|BM03ベガルタA2|
 |45|BM03ベガルタ ファイアゴースト|
-|46|デプスクロウラーIII <span class="new">@EDF4.1のみ</span>|
+|46|デプスクロウラーIII <span class="new">@4.1のみ</span>|
 |52|BM03ベガルタ バスターアームズ|
-|52|デプスクロウラーSレンジカスタム <span class="new">@EDF4.1のみ</span>|
+|52|デプスクロウラーSレンジカスタム <span class="new">@4.1のみ</span>|
 |53|BMX10プロテウスバースト|
 |57|BM03ベガルタAW4|
-|58|歩行要塞バラムレーザーフォート <span class="new">@EDF4.1のみ</span>|
+|58|歩行要塞バラムレーザーフォート <span class="new">@4.1のみ</span>|
 |63|BM03ベガルタ リボルバーカスタム|
-|67|デプスクロウラーLレンジカスタム <span class="new">@EDF4.1のみ</span>|
+|67|デプスクロウラーLレンジカスタム <span class="new">@4.1のみ</span>|
 |68|BM03ベガルタ ファイアナイト|
 |75|BM03ベガルタ バスターロード|
-|77|デプスクロウラーIV <span class="new">@EDF4.1のみ</span>|
+|77|デプスクロウラーIV <span class="new">@4.1のみ</span>|
 |80|BMX10プロテウスガンマ|
 |82|BM03ベガルタ ファイアロード|
 |84|BM03ベガルタAX|
-|85|デプスクロウラーIVカスタム <span class="new">@EDF4.1のみ</span>|
-|87|歩行要塞バラムF型 <span class="new">@EDF4.1のみ</span>|
+|85|デプスクロウラーIVカスタム <span class="new">@4.1のみ</span>|
+|87|歩行要塞バラムF型 <span class="new">@4.1のみ</span>|
 !|LV|名前|

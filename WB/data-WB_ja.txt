@@ -96,11 +96,11 @@
 ?|3|エーテル・ガンZ <font color="#888">@DLC</font>|
 ?|3|エーテル・ガンS1 <font color="#888">@DLC</font>|
 ?|4|エーテル・ガンA2 <font color="#888">@DLC</font>|
-?|1|OpxII.A1 "Arthur" <font color="#888">@DLC</font>|
-?|2|OpxII.D1 "David" <font color="#888">@DLC</font>|
-?|3|OpxII.A2 "Alex" <font color="#888">@DLC</font>|
-?|4|OpxII.D2 "Diego" <font color="#888">@DLC</font>|
-?|4|OpxII.A3 "Ali" <font color="#888">@DLC</font>|
+?|1|OpxII.A1 "Arthur" <font color="#7882ff">@新たなるシカク</font>|
+?|2|OpxII.D1 "David" <font color="#7882ff">@新たなるシカク</font>|
+?|3|OpxII.A2 "Alex" <font color="#7882ff">@新たなるシカク</font>|
+?|4|OpxII.D2 "Diego" <font color="#7882ff">@新たなるシカク</font>|
+?|4|OpxII.A3 "Ali" <font color="#7882ff">@新たなるシカク</font>|
 !|LV|名前|
 
 **ショットガン
@@ -135,11 +135,11 @@
 ?|3|デクスター自動小銃D2 <font color="#888">@DLC</font>|
 ?|3|デクスター自動小銃G <font color="#888">@DLC</font>|
 ?|4|デクスター自動小銃Z <font color="#888">@DLC</font>|
-?|1|サプレスガン <font color="#888">@DLC</font>|
-?|2|サプレスガンM2 <font color="#888">@DLC</font>|
-?|3|サプレスガンM3 <font color="#888">@DLC</font>|
-?|4|サプレスガンM4 <font color="#888">@DLC</font>|
-?|4|サプレスガンMS <font color="#888">@DLC</font>|
+?|1|サプレスガン <font color="#7882ff">@新たなるシカク</font>|
+?|2|サプレスガンM2 <font color="#7882ff">@新たなるシカク</font>|
+?|3|サプレスガンM3 <font color="#7882ff">@新たなるシカク</font>|
+?|4|サプレスガンM4 <font color="#7882ff">@新たなるシカク</font>|
+?|4|サプレスガンMS <font color="#7882ff">@新たなるシカク</font>|
 |1|サンダーボウ|
 |2|サンダーボウR|
 |3|サンダーボウR2|
@@ -184,11 +184,11 @@
 |3|スピリット・オブ・コロラド|
 |3|黄金拳銃|
 |4|スピリット・オブ・フリーダム|
-?|1|プレデター <font color="#888">@DLC</font>|
-?|2|プレデターShuriken <font color="#888">@DLC</font>|
-?|3|プレデターKatana <font color="#888">@DLC</font>|
-?|4|プレデターYaiba <font color="#888">@DLC</font>|
-?|4|プレデターSamurai <font color="#888">@DLC</font>|
+?|1|プレデター <font color="#7882ff">@新たなるシカク</font>|
+?|2|プレデターShuriken <font color="#7882ff">@新たなるシカク</font>|
+?|3|プレデターKatana <font color="#7882ff">@新たなるシカク</font>|
+?|4|プレデターYaiba <font color="#7882ff">@新たなるシカク</font>|
+?|4|プレデターSamurai <font color="#7882ff">@新たなるシカク</font>|
 !|LV|名前|
 
 **スナイパー
@@ -238,11 +238,11 @@
 ?|3|零式レーザーライフルR3 <font color="#888">@DLC</font>|
 ?|3|零式レーザーライフルRX <font color="#888">@DLC</font>|
 ?|4|零式レーザーライフル <font color="#888">@DLC</font>|
-?|1|プロト・ライジン <font color="#888">@DLC</font>|
-?|2|ライコウ <font color="#888">@DLC</font>|
-?|3|ライジン <font color="#888">@DLC</font>|
-?|4|ライコウα <font color="#888">@DLC</font>|
-?|4|ライジンα <font color="#888">@DLC</font>|
+?|1|プロト・ライジン <font color="#7882ff">@新たなるシカク</font>|
+?|2|ライコウ <font color="#7882ff">@新たなるシカク</font>|
+?|3|ライジン <font color="#7882ff">@新たなるシカク</font>|
+?|4|ライコウα <font color="#7882ff">@新たなるシカク</font>|
+?|4|ライジンα <font color="#7882ff">@新たなるシカク</font>|
 !|LV|名前|
 
 **ロケットランチャー
@@ -282,11 +282,11 @@
 |3|M20プラズマランチャー|
 |3|プラズマメガランチャーV3|
 |4|XSXプラズマランチャー2|
-?|1|プラズマヘビーキャノン <font color="#888">@DLC</font>|
-?|2|プラズマヘビーキャノンR <font color="#888">@DLC</font>|
-?|3|プラズマヘビーキャノン改 <font color="#888">@DLC</font>|
-?|4|プラズマヘビーキャノンR2 <font color="#888">@DLC</font>|
-?|4|プラズマグレートキャノン <font color="#888">@DLC</font>|
+?|1|プラズマヘビーキャノン <font color="#7882ff">@新たなるシカク</font>|
+?|2|プラズマヘビーキャノンR <font color="#7882ff">@新たなるシカク</font>|
+?|3|プラズマヘビーキャノン改 <font color="#7882ff">@新たなるシカク</font>|
+?|4|プラズマヘビーキャノンR2 <font color="#7882ff">@新たなるシカク</font>|
+?|4|プラズマグレートキャノン <font color="#7882ff">@新たなるシカク</font>|
 !|LV|名前|
 
 **火砲
@@ -350,21 +350,21 @@
 |3|ジャギリシステムIII|
 |3|ジャギリシステムAu|
 |4|ジャギリシステムVI|
-?|1|エアメール <font color="#888">@DLC</font>|
-?|2|エアメールII <font color="#888">@DLC</font>|
-?|3|エアメールIII <font color="#888">@DLC</font>|
-?|4|エアメールIV <font color="#888">@DLC</font>|
-?|4|エアメールV <font color="#888">@DLC</font>|
-?|1|ファルコン <font color="#888">@DLC</font>|
-?|2|ファルコンLR <font color="#888">@DLC</font>|
-?|3|パワード・ファルコン <font color="#888">@DLC</font>|
-?|4|ファルコンLR-2 <font color="#888">@DLC</font>|
-?|4|スーパーファルコン <font color="#888">@DLC</font>|
+?|1|エアメール <font color="#7882ff">@新たなるシカク</font>|
+?|2|エアメールII <font color="#7882ff">@新たなるシカク</font>|
+?|3|エアメールIII <font color="#7882ff">@新たなるシカク</font>|
+?|4|エアメールIV <font color="#7882ff">@新たなるシカク</font>|
+?|4|エアメールV <font color="#7882ff">@新たなるシカク</font>|
+?|1|ファルコン <font color="#7882ff">@新たなるシカク</font>|
+?|2|ファルコンLR <font color="#7882ff">@新たなるシカク</font>|
+?|3|パワード・ファルコン <font color="#7882ff">@新たなるシカク</font>|
+?|4|ファルコンLR-2 <font color="#7882ff">@新たなるシカク</font>|
+?|4|スーパーファルコン <font color="#7882ff">@新たなるシカク</font>|
 |1|ゴーストチェイサー|
 |2|ゴーストチェイサーX1|
 |3|ゴーストチェイサーX2|
 |3|ゴーストチェイサーX1.5|
-|4|試作兵器CODE：GC2|
+|4|試作兵器CODE:GC2|
 |1|ネイピアレーザー|
 |2|ネイピアレーザーS|
 |3|シグマスフィア|
@@ -380,11 +380,11 @@
 ?|3|インテグラルレイG <font color="#888">@DLC</font>|
 ?|3|インテグラルレイFdx <font color="#888">@DLC</font>|
 ?|4|インテグラルレイGdx <font color="#888">@DLC</font>|
-?|1|ミラージュ <font color="#888">@DLC</font>|
-?|2|ミラージュ・ニンフ <font color="#888">@DLC</font>|
-?|3|ミラージュ・ヴィヴィアン <font color="#888">@DLC</font>|
-?|4|ミラージュ・モルガン <font color="#888">@DLC</font>|
-?|4|ミラージュ・ロキ <font color="#888">@DLC</font>|
+?|1|ミラージュ <font color="#7882ff">@新たなるシカク</font>|
+?|2|ミラージュ・ニンフ <font color="#7882ff">@新たなるシカク</font>|
+?|3|ミラージュ・ヴィヴィアン <font color="#7882ff">@新たなるシカク</font>|
+?|4|ミラージュ・モルガン <font color="#7882ff">@新たなるシカク</font>|
+?|4|ミラージュ・ロキ <font color="#7882ff">@新たなるシカク</font>|
 !|LV|名前|
 
 **格闘
@@ -448,16 +448,16 @@
 |3|アサルトキングビートル|
 |3|アサルトビートル・ゴールド|
 |4|新型アサルトビートル|
-?|1|ウィザードビートル <font color="#888">@DLC</font>|
-?|2|ウィザードビートルE <font color="#888">@DLC</font>|
-?|3|ウィザードビートルS <font color="#888">@DLC</font>|
-?|4|ウィザードビートルQ <font color="#888">@DLC</font>|
-?|4|ニュー・ウィザードビートル <font color="#888">@DLC</font>|
-?|1|ヘブンズゲート・ランチャー <font color="#888">@DLC</font>|
-?|2|ヘブンズゲート・ランチャー2 <font color="#888">@DLC</font>|
-?|3|ヘブンズゲート・ランチャー3 <font color="#888">@DLC</font>|
-?|4|ヘブンズゲート・ガン <font color="#888">@DLC</font>|
-?|4|ヘブンズゲート・ランチャーD <font color="#888">@DLC</font>|
+?|1|ウィザードビートル <font color="#7882ff">@新たなるシカク</font>|
+?|2|ウィザードビートルE <font color="#7882ff">@新たなるシカク</font>|
+?|3|ウィザードビートルS <font color="#7882ff">@新たなるシカク</font>|
+?|4|ウィザードビートルQ <font color="#7882ff">@新たなるシカク</font>|
+?|4|ニュー・ウィザードビートル <font color="#7882ff">@新たなるシカク</font>|
+?|1|ヘブンズゲート・ランチャー <font color="#7882ff">@新たなるシカク</font>|
+?|2|ヘブンズゲート・ランチャー2 <font color="#7882ff">@新たなるシカク</font>|
+?|3|ヘブンズゲート・ランチャー3 <font color="#7882ff">@新たなるシカク</font>|
+?|4|ヘブンズゲート・ガン <font color="#7882ff">@新たなるシカク</font>|
+?|4|ヘブンズゲート・ランチャーD <font color="#7882ff">@新たなるシカク</font>|
 ?|1|イグアス1号基 <font color="#888">@DLC</font>|
 ?|2|イグアス2号基 <font color="#888">@DLC</font>|
 ?|3|ナイル1号基 <font color="#888">@DLC</font>|
@@ -488,9 +488,9 @@
 |3|制圧砲プラン|
 |3|速射砲プランB|
 |4|バルカン砲プラン|
-?|1|ライオニック・プランA <font color="#888">@DLC</font>|
-?|2|ライオニック・プランB <font color="#888">@DLC</font>|
-?|3|ライオニック・プランC <font color="#888">@DLC</font>|
-?|4|ライオニック・プランD <font color="#888">@DLC</font>|
-?|4|ライオニック・プランE <font color="#888">@DLC</font>|
+?|1|ライオニック・プランA <font color="#7882ff">@新たなるシカク</font>|
+?|2|ライオニック・プランB <font color="#7882ff">@新たなるシカク</font>|
+?|3|ライオニック・プランC <font color="#7882ff">@新たなるシカク</font>|
+?|4|ライオニック・プランD <font color="#7882ff">@新たなるシカク</font>|
+?|4|ライオニック・プランE <font color="#7882ff">@新たなるシカク</font>|
 !|LV|名前|
