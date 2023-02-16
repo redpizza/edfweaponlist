@@ -2,7 +2,7 @@
 <html lang="ja">
 <head>
 	<meta charset="utf-8">
-	<title>エアレイダー // 地球防衛軍5 取得武器チェックリスト（jQuery版）</title>
+	<title>ペイルウイング // THE 地球防衛軍2 取得武器チェックリスト（jQuery版）</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="../style.css">
 	<link rel="stylesheet" href="../cl-style.css">
@@ -13,12 +13,10 @@
 </head>
 <body>
 	<div id="main">
-			地球防衛軍 5のエアレイダー用武器チェックリストです<br>
+			THE 地球防衛軍 2用武器チェックリストです<br>
 			兵科切り替え : 
-			<a href="./"><span class="soldierclass">レンジャー</span></a> 
-			<a href="5w.html"><span class="soldierclass">ウイングダイバー</span></a> 
-			<span class="soldierclass current">エアレイダー</span> 
-			<a href="5f.html"><span class="soldierclass">フェンサー</span></a>
+			<a href="./"><span class="soldierclass">陸戦兵</span></a> 
+			<span class="soldierclass current">ペイルウイング</span>
 			<br><br>
 	</div>
 	
@@ -29,8 +27,8 @@
 		// addtext : ツイート時の付属テキスト。初期値: 空欄
 		// load    : ローディングの表示。初期値: true
 		$("#main").checkList({
-			id: '5A',
-			file: 'data-5A_ja.txt',
+			id: '2W',
+			file: 'data-2W_ja.txt',
 			twi: true,
 			addtext: '',
 			load: true
@@ -46,6 +44,5 @@
 		$('#footerNav').load('../nav.html');
 		$('#footerCopy').load('./copyright.html');
 	</script>
-	
 </body>
 </html>

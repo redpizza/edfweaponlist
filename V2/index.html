@@ -37,27 +37,14 @@
 	</script>
 	
     <footer>
-    <p>
-    このチェックリストは @edf_weapons 様が作成・公開されていたものがドメインごと消滅してたので<br>
-    公開されていた jquery.checklist.js を用いて @Redpiza が作り直したものになります<br>
-    チェックを入れた武器はブラウザの localStorage に自動で保存されます
-    </p>
-    <p>
-		<a href="../V2/">EDF2PV2(EDF2P)</a> /
-		<a href="../3P/">EDF3P(EDF3)</a> /
-	    <a href="../4-1/">EDF4.1(EDF4)</a> /
-	    <a href="../5/">EDF5</a> :: 
-	    <a href="../WB/">EDFWB</a>
-     </p>
-    <p>
-        <a href="https://twitter.com/edf_weapons" target="_blank" rel="noopener noreferrer">@edf_weapons</a> ||
-        <a href="https://w.atwiki.jp/edf2pv2/" target="_blank" rel="noopener noreferrer">地球防衛軍2 PORTABLE V2　@ ウィキ</a>
-    </p>
-    <p>
-        <a href="https://www.d3p.co.jp/" target="_blank" rel="noopener noreferrer">©2014 D3 PUBLISHER</a> ||
-        <a href="https://www.sandlot.jp/" target="_blank" rel="noopener noreferrer">©2014 SANDLOT</a>
-    </p>
+		<div id="footerNav"></div>
+	    <div id="footerCopy"></div>
     </footer>
+    
+	<script>
+		$('#footerNav').load('../nav.html');
+		$('#footerCopy').load('./copyright.html');
+	</script>
 	
 </body>
 </html>
