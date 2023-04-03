@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+	<meta charset="utf-8">
+	<title>ダイナマリサ3D 取得武器チェックリスト（jQuery版）</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="../style.css">
+	<link rel="stylesheet" href="../cl-style.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<script src="../jquery.checklist.js"></script>
+	<link rel="icon" type="image/vnd.microsoft.icon" href="../favicon.ico">
+	<link rel="apple-touch-icon" sizes="192x192" href="../apple-touch-icon.png">
+</head>
+<body>
+	<div id="main">
+			ダイナマリサ3Dの武器チェックリストです<br>
+			このゲームでは武器は在庫制なので、全ての武器を所持することはできませんがとりあえず作ってみました<br>
+			<br>
+	</div>
+	
+	<script>
+		// id      : 復元コードの識別に用いる。初期値: cl1
+		// file    : データファイル。初期値: data.txt
+		// twi     : ツイートボタンの有無。初期値: true
+		// addtext : ツイート時の付属テキスト。初期値: 空欄
+		// load    : ローディングの表示。初期値: true
+		$("#main").checkList({
+			id: 'marisa',
+			file: 'data-marisa_ja.txt',
+			twi: true,
+			addtext: '',
+			load: true
+		});
+	</script>
+	
+	<footer>
+		<div id="footerNav"></div>
+		<div id="footerCopy"></div>
+	</footer>
+
+	<script>
+		$('#footerNav').load('../nav.html');
+		$('#footerCopy').load('./copyright.html');
+	</script>
+</body>
+</html>
