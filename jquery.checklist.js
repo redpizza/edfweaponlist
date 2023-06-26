@@ -173,7 +173,7 @@ function generateRestoreMenu(data) {
 		
 		if(setting.twi) {
 			output += '<span class="cl-twi">';
-			if(xCode) output += generateTwibutton(xCode, data.title);
+			if(xCode) output += generateTwi(xCode, data.title);
 			output += '</span>';
 		}
 	} else {
@@ -345,7 +345,7 @@ element.on('change', '.cl-tab td input:checkbox', function() {
 	$('.cl-par').text(par + ' %');
 	
 	if(setting.twi) {
-		$('.cl-twi').html(generateTwibutton(xcode, listData.title, id));
+		$('.cl-twi').html(generateTwi(xcode, listData.title, id));
 	}
 });
 
@@ -515,13 +515,6 @@ element.on('click', '.cl-clearButton', function() {
 		location.reload();
 	}
 });
-
-// ツイートボタン（input要素版）生成
-function generateTwibutton(code, title) {
-	var url = encodeURIComponent(location.protocol + '//' + location.host + location.pathname + location.search + '#' + setting.id + '_' + code);
-	var text = title + setting.addtext + '%0D%0A';
-	return '<input type="button" class="cl-tweetButton" value="ツイート" onclick="window.open(&quot;https://twitter.com/intent/tweet?text=' + text + '&amp;url=' + url + '&quot;,&quot;_blank&quot;)">';
-}
 
 return this;
 };
