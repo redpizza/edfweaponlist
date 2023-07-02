@@ -85,6 +85,6 @@ animation: blinkAnimeS2 1.5s infinite alternate;
 
 /* 兵科名を改行させないためのやつ */
 span.soldierclass {
-	padding: 0 0.5%;
+	padding: 0 .4em;
 	white-space: nowrap;
 }
